@@ -107,36 +107,6 @@
 <channels>
  
 <channel>
-    <name>SKY SPORTS CHANNELS</name>
-<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2009/03/sky_uk_sports.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://dl.dropboxusercontent.com/s/pxg922ysznmfomy/sky1%20sports.xml?dl=0</externallink>
-<fanart>http://www1.skysports.com/images/match/video-thumb.jpg</fanart>
-<info>SKY SPORTS 1,2,3,4,5,F1 AND NEWS PREMIER AND SETANTA SPORTS EUROSPORT 1&2 AND RACING UK AND AT THE RACES</info>
-</channel>
-</channels>
-
-
-
-
-<channels>
- 
-<channel>
-    <name>BT SPORTS CHANNELS</name>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/98/BT_Sport.svg/1280px-BT_Sport.svg.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://dl.dropboxusercontent.com/s/xr167qktkwlwytz/bt%20sports.xml?dl=0</externallink>
-<fanart>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</fanart>
-<info>BT SPORTS 1&2 AND ESPN UK</info>
-</channel>
-</channels>
-
-
-
-
-<channels>
- 
-<channel>
     <name>CANADIAN SPORTS CHANNELS</name>
 <thumbnail>http://www.cbc.ca/sports-content/blogs/scottrussell/assets_c/2012/09/620-sportsday-thumb-620xauto-230207.jpg</thumbnail>
 <link>http://ignoreme</link>
