@@ -50,7 +50,7 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",fox sport 2 arg
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",tv3 sport 1 ace
-acestream://c35dafc91da50ede14952b63c5d904861af33d11
+plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",ntv ru_2
 http://80.77.52.6:7781/udp/230.0.3.6:12345
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",ntv+futbol 3 ru
