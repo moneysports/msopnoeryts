@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",[COLOR red]20.45 champions BAY.MUNCHEN - BARCELONA (0-3)[/COLOR]
 http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",itv uk
+http://82.135.224.134:80/udp/239.100.3.6:1234
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",silk sport 1 ge
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
 #EXTINF:-1 group-title=" 20.45 champions BAY.MUNCHEN - BARCELONA (0-3) ",silk sport 1 ge_2
