@@ -598,8 +598,8 @@
 <referer>http://www.streamlive.to</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Eurosport%201%20UK.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/06/British-Eurosport.jpg</fanart>
 </item>
 
 <item>
@@ -647,8 +647,8 @@
 <referer>http://www.streamlive.to</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Eurosport%202%20UK.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/06/British-Eurosport.jpg</fanart>
 </item>
 
 
