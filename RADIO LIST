@@ -1,24 +1,8 @@
 #EXTM3U
 #EXTINF:-1,1 Radio
 http://213.5.57.150:8000/
-#EXTINF:-1,100
-%http://mp3.live.tv-radio.com/centpou...rcent-128k.mp3
-#EXTINF:-1,103.7 UnserDing (MP3)
-http://streaming01.sr-online.de/unserding_2.m3u
-#EXTINF:-1,105 Generation
-rtmp://fms.105.net:1935/live/ST046
-#EXTINF:-1,105.5 FM Inolvidable, Mar del Plata, Argentina
-http://radiolatina.info:7529/;stream.nsv
-#EXTINF:-1,1540 AM Lider, Martinez, Argentina
-http://72.29.81.205:8024/;stream.nsv
-#EXTINF:-1,1630 kHz AM – West Point Community Radio, West Point, PA
-http://199.195.194.140:8303/;stream.nsv
 #EXTINF:-1,1Club4total80s
 http://streaming201.radionomy.com:80/1Club4total80s
-#EXTINF:-1,1LIVE (MP3)
-http://www.wdr.de/wdrlive/media/einslive.m3u
-#EXTINF:-1,1LIVE diggi (MP3)
-http://www.wdr.de/wdrlive/media/einslivedigi.m3u
 #EXTINF:-1,2 Radio
 http://213.5.57.150:8002/
 #EXTINF:-1,3 Radio
@@ -27,16 +11,12 @@ http://213.5.57.150:8006/
 http://streaming203.radionomy.com:80/4-FRIENDS-RADIO
 #EXTINF:-1,4U70s
 http://streaming204.radionomy.com:80/4U-70s
-#EXTINF:-1,620 Khz – WKHB-AM Irwin, PA
-http://out1.cmn.icy.abacast.com/wkhbam-wkhbamaac-64.m3u
 #EXTINF:-1,7 fm AAC+
 http://broadcast.infomaniak.net/7fm2-0.aac
 #EXTINF:-1,7 fm mp3
 http://broadcast.infomaniak.net/7fm2.mp3
 #EXTINF:-1,89.3 KPCC - Southern California Public Radio
 http://kpcclive1.publicradio.org:80/
-#EXTINF:-1,91x – Baja California, Mexico
-http://2793.live.streamtheworld.com/XTRAFMAAC
 #EXTINF:-1,A Radio 70's
 http://31.12.64.204:8000/A-RADIO-70s-JUICE
 #EXTINF:-1,A Radio 80's
@@ -45,8 +25,6 @@ http://31.12.64.204:8000/A-RADIO-80s-JUICE
 http://31.12.64.204:8000/A-RADIO-90s-JUICE
 #EXTINF:-1,A Radio Top 40
 http://31.12.64.204:8000/A-RADIO-TOP-40
-#EXTINF:-1,A11SudRadioBlaye33
-http://streaming205.radionomy.com:80...Radio-Blaye-33
 #EXTINF:-1,A90's
 http://streaming204.radionomy.com:80/A90-s
 #EXTINF:-1,ABCLounge
@@ -55,8 +33,6 @@ http://streaming208.radionomy.com:80/ABC-Lounge
 http://31.186.234.221/ABSOLUTE90SIRMP3S
 #EXTINF:-1,ACZEN'HITS
 http://streaming208.radionomy.com:80/AC-ZEN-HITS
-#EXTINF:-1,ADANA RADYO YILDIZ
-http://sunucu2.radyolarburada.com:2006
 #EXTINF:-1,Ado FM
 http://broadcast.infomaniak.net/start-adofm-low.mp3
 #EXTINF:-1,Ado FM AAC+
@@ -67,16 +43,6 @@ http://broadcast.infomaniak.net/start-adofm-32.aac
 http://streaming208.radionomy.com:80/AirCD-Hits-Radio
 #EXTINF:-1,AirSmooth
 http://streaming202.radionomy.com:80/Air-Smooth
-#EXTINF:-1,Akaderia Students Politechnik
-http://lodz.radio.pionier.net.pl:800...kadera.ogg.m3u
-#EXTINF:-1,Aktual Ljubljana Radio
-http://195.95.158.131:9040/
-#EXTINF:-1,Alex Jones - Infowars.com
-http://stream.infowars.com
-#EXTINF:-1,Algeria-Radio Dzair Chaabia el Andaloussia -
-http://radio-dzair.net/%http://radio-dzair.net:8012
-#EXTINF:-1,Algeria-Radio Dzair Orientale -
-http://radio-dzair.net/%http://radio-dzair.net:8006
 #EXTINF:-1,aliens-radio
 http://streaming203.radionomy.com:80/aliens-radio
 #EXTINF:-1,AlloLaRadio
@@ -85,10 +51,6 @@ http://streaming203.radionomy.com:80/Allo-La-Radio
 http://broadcast.infomaniak.net/alouette-low.mp3
 #EXTINF:-1,Alouette AAC+
 http://broadcast.infomaniak.net/alouette-high.aac
-#EXTINF:-1,Alouette FM (AAC)
-http://www.alouette.fr/alouette_aac.m3u
-#EXTINF:-1,Alouette FM (MP3)
-http://www.alouette.fr/alouette.m3u
 #EXTINF:-1,Alpes 1 Alpes du Sud
 http://broadcast.infomaniak.net/alpes1gap-high.mp3
 #EXTINF:-1,Alpes 1 Alpes du Sud AAC+
@@ -97,72 +59,8 @@ http://broadcast.infomaniak.net/alpes1gap-high.aac
 http://broadcast.infomaniak.net/alpes1grenoble-high.mp3
 #EXTINF:-1,Alpes 1 Grand Grenoble AAC+
 http://broadcast.infomaniak.net/alpes1grenoble-high.aac
-#EXTINF:-1,ALPHA RADIO
-http://188.126.1.25:8000/AlphaRadio.m3u
-#EXTINF:-1,Alphatune974
-http://streaming203.radionomy.com:80/Alpha-tune-974
-#EXTINF:-1,Alternative Live - Infoconcert Radio
-http://broadcast.infomaniak.net/info...ative-high.mp3
-#EXTINF:-1,Alternative Live - Infoconcert Radio AAC+
-http://broadcast.infomaniak.net/info...ative-high.aac
-#EXTINF:-1,AltRock
-http://www.sky.fm/mp3/altrock.pls
-#EXTINF:-1,alwaysmusic
-http://streaming205.radionomy.com:80/always-music
 #EXTINF:-1,Ambiant'Radio
 http://streaming205.radionomy.com:80/Ambiant-Radio
-#EXTINF:-1,Ambient
-http://www.di.fm/mp3/ambient.pls
-#EXTINF:-1,AmysFMSoGood
-http://streaming205.radionomy.com:80/AmysFM-SoGood
-#EXTINF:-1,Angola-Ngola Radio 87.7 FM -
-http://www.ngolaradiofm.com/%http://...es.com.br:9974
-#EXTINF:-1,Angola-Radio Ecclesia -
-http://www.radioecclesia.org %http://audio.waag.org:8000/liveluanda
-#EXTINF:-1,Antena Jelah Radio
-http://pa-hosting.de:23601/
-#EXTINF:-1,Antena Novi Sad Radio
-http://antena.topstream.net:19322/
-#EXTINF:-1,ANTENA ZAGREB
-http://173.192.137.34:8050/
-#EXTINF:-1,Antenne Bayern (MP3)
-http://www.antenne.de/webradio/antenne.m3u
-#EXTINF:-1,Antenne Bayern 80er Kulthits (AAC)
-http://www.antenne.de/webradio/chann...lthits.aac.pls
-#EXTINF:-1,Antenne Bayern 80er Kulthits (MP3)
-http://www.antenne.de/webradio/chann...r-kulthits.m3u
-#EXTINF:-1,Antenne Bayern Black Beatz (AAC)
-http://www.antenne.de/webradio/chann...-beatz.aac.pls
-#EXTINF:-1,Antenne Bayern Black Beatz (MP3)
-http://www.antenne.de/webradio/channels/black-beatz.m3u
-#EXTINF:-1,Antenne Bayern Chillout (AAC)
-http://www.antenne.de/webradio/chann...illout.aac.pls
-#EXTINF:-1,Antenne Bayern Chillout (MP3)
-http://www.antenne.de/webradio/channels/chillout.m3u
-#EXTINF:-1,Antenne Bayern Classic Rock Live (AAC)
-http://www.antenne.de/webradio/chann...k-live.aac.pls
-#EXTINF:-1,Antenne Bayern Das Antenne Bayern 'Event' Radio (M
-http://www.antenne.de/webradio/channels/event.m3u
-#EXTINF:-1,Antenne Bayern Hits fur Kids (AAC)
-http://www.antenne.de/webradio/chann...r-kids.aac.pls
-#EXTINF:-1,Antenne Bayern Hits fur Kids (MP3)
-http://www.antenne.de/webradio/chann...-fuer-kids.m3u
-#EXTINF:-1,Antenne Bayern Lovesongs (AAC)
-http://www.antenne.de/webradio/chann...esongs.aac.pls
-#EXTINF:-1,Antenne Bayern Lovesongs (MP3)
-http://www.antenne.de/webradio/channels/lovesongs.m3u
-#EXTINF:-1,Antenne Bayern Oldies but Goldies (AAC)
-http://www.antenne.de/webradio/chann...oldies.aac.pls
-#EXTINF:-1,Antenne Bayern Oldies but Goldies (MP3)
-http://www.antenne.de/webradio/chann...ut-goldies.m3u
-#EXTINF:-1,Antenne Bayern Top 40 (AAC)
-http://www.antenne.de/webradio/channels/top-40.aac.pls
-#EXTINF:-1,Antenne Bayern Top 40 (MP3)
-http://www.antenne.de/webradio/channels/top-40.m3u
-#EXTINF:-1,Antenne Brandenburg (MP3)
-http://www.antennebrandenburg.de/live.m3u
-#EXTINF:-1,Antiguos - perobuenos
-http://streaming203.radionomy.com:80...s--pero-buenos
 #EXTINF:-1,AnUrbanRadio
 http://streaming203.radionomy.com:80/An-Urban-Radio
 #EXTINF:-1,anzoradio
