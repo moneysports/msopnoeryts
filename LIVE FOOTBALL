@@ -1,76 +1,92 @@
 #EXTM3U
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",[COLOR red]20.45 champions REAL MADRID - JUVENTUS[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eng3 WYCOMBE WANDERERS - PLYMOUTH ARGYLE (3-2) ",sky sports 2 uk
+ http://smarterapps.ddns.net:8080/spTfor2T0Ew/MnSsp2Two/index.m3u8
+#EXTINF:-1 group-title=" 20.45 eng3 SOTHEND UTD - STEVENAGE BOROUGH (1-1) ",[COLOR red]20.45 eng3 SOTHEND UTD - STEVENAGE BOROUGH (1-1)[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",c+liga de campeones es ace
-plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ct Sp cz
-http://62.168.1.253:8024
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",hrt 2 hr_2
-http://edge3.volim.tv/live/hrt_2.stream/manifest.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",irib 3 ir
-rtmp://edge4.live.irib.ir/etv3/irib3-3
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv ru_2
-http://80.77.52.6:7781/udp/230.0.3.6:12345
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 1 ru
-http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 2 ru
-http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 3 ru
-http://edge.ailetv.net/org2/football3_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",ntv+futbol 3 ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",rte 2 irl
-http://212.250.46.35:4252/bysid/9602
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",sky sports 1 uk
-http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",sky sports 5 uk
-rtmpe://46.246.124.89:1935/livedge playpath=sskys5  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",fox sport arg
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",fox sport 2 arg
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",tv3 sport 1 ace
-plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+SKY SPORTS 1MS
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",espn la
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?byluca
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",espn 2 la
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",silk sport 1 ge
-rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",silk sport 1 ge_2
-http://80.77.52.6:4314/udp/226.0.0.7:12345
-#EXTINF:-1 group-title=" 20.45 champions REAL MADRID - JUVENTUS ",espn HD la
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
-
-#EXTINF:-1 group-title=" 0.30 c.lib CRUZEIRO - SAO PAULO ",[COLOR red]0.30 c.lib CRUZEIRO - SAO PAULO[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 0.30 c.lib CRUZEIRO - SAO PAULO ",trt spor tr
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 0.30 c.lib CRUZEIRO - SAO PAULO ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.30 c.lib CRUZEIRO - SAO PAULO ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 3.00 c.lib CORINTHIANS - GUARANI ",[COLOR green]3.00 c.lib CORINTHIANS - GUARANI[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 3.00 c.lib CORINTHIANS - GUARANI ",trt spor tr
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 c.lib CORINTHIANS - GUARANI ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 c.lib INTERNATIONAL (Bra) - ATL.MINEIRO (Bra) ",[COLOR red]3.00 c.lib INTERNATIONAL (Bra) - ATL.MINEIRO (Bra)[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eng3 SOTHEND UTD - STEVENAGE BOROUGH (1-1) ",sky sports 5 uk
+http://smarterapps.ddns.net:8080/sTp5/sp5PkeY/index.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",[COLOR red]21.05 eur.league DNIPRO - NAPOLI (1-1)[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 c.lib INTERNATIONAL (Bra) - ATL.MINEIRO (Bra) ",sport 1 ru
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",ntv+futbol 2 ru
+http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",ntv+futbol 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",aztv az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",2+2 ukraina
+http://zhegal.com.ua/tv/mariupol?id=43
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",ct2 cz
+http://62.168.1.253:8002
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",hrt 2 hr_2
+http://edge3.volim.tv/live/hrt_2.stream/manifest.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",ntv tr
+http://yayin1.canlitv.com:1935/live/ntv/playlist.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",ntv tr
+http://edge.ailetv.net/org11/ntvtr_me/playlist.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",orf 1 at
+http://194.232.200.119/ipad/orf1_q6a/orf.sdp/playlist.m3u8?wowzasessionid=1|X-Forwarded-For=test
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",rtrs serbia
+http://edge3.volim.tv/live/rtrs.stream/manifest.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",rts1 serbia
+http://edge3.volim.tv/live/rts_1.stream/manifest.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",star tv tr
+rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",silk sport 2 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",espn HD la
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
+#EXTINF:-1 group-title=" 21.05 eur.league DNIPRO - NAPOLI (1-1) ",espn la
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?byluca
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",[COLOR red]21.05 eur.league FIORENTINA - SEVILLA (0-3)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",ntv ru
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",ntv ru_2
+http://80.77.52.6:7781/udp/230.0.3.6:12345
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",sic pt
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",tv12 swe
+http://188.138.9.228:8012
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",w9 fr
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",silk sport 1 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1 group-title=" 21.05 eur.league FIORENTINA - SEVILLA (0-3) ",fox sport 2 arg
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+#EXTINF:-1 group-title=" 23.00 bra.cup SANTOS - MARINGA ",[COLOR red]23.00 bra.cup SANTOS - MARINGA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.00 bra.cup SANTOS - MARINGA ",espn HD la
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
+#EXTINF:-1 group-title=" 23.30 c.lib RACING CLUB (Arg) - MONTEVIDEO WANDERERS (Uru) ",[COLOR red]23.30 c.lib RACING CLUB (Arg) - MONTEVIDEO WANDERERS (Uru)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.30 c.lib RACING CLUB (Arg) - MONTEVIDEO WANDERERS (Uru) ",trt spor tr
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 23.30 c.lib RACING CLUB (Arg) - MONTEVIDEO WANDERERS (Uru) ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg) ",[COLOR green]2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg)[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg) ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg) ",tv publica ar
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg) ",trt spor tr
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 2.00 c.lib BOCA JUNIORS (Arg) - RIVER PLATE (Arg) ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 4.30 c.lib ATL.NACIONAL (Col) - EMELEC (Ecu) ",[COLOR red]4.30 c.lib ATL.NACIONAL (Col) - EMELEC (Ecu)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 4.30 c.lib ATL.NACIONAL (Col) - EMELEC (Ecu) ",trt spor tr
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 4.30 c.lib ATL.NACIONAL (Col) - EMELEC (Ecu) ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
