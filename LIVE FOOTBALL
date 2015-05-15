@@ -15,11 +15,12 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 20.45 sco ST.JOHNSTONE - CELTIC ",Sportitalia
 http://sportitalialive.vetrya.biz/SI_CH_01qwpl10df.isml/QualityLevels(714000)/Manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title=" 20.45 sco ST.JOHNSTONE - CELTIC ",bt sport 1 uk ace
-acestream://21cdf320596fdd8a42dbd1ec2c6bfa7af2cea654
+plugin://plugin.video.p2p-streams/?url=acestream://21cdf320596fdd8a42dbd1ec2c6bfa7af2cea654&mode=1&name=acestream+SKY SPORTS 1MS
+#EXTINF:-1 group-title=" 20.45 sco MIDDLESBROUGH - BRENTFORD (2-1) ",[COLOR red]20.45 MIDDLESBROUGH - BRENTFORD (2-1)[/COLOR]
 #EXTINF:-1 group-title=" 20.45 eng2 MIDDLESBROUGH - BRENTFORD (2-1) ",sky sports 1
 rtmpe://46.246.124.87:1935/livedge playpath=sskys1 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1 group-title=" 20.45 eng2 MIDDLESBROUGH - BRENTFORD (2-1) ",nova sport bg ace
-acestream://4aa604c0a7a272011d0f7f46383893a30523754d
+plugin://plugin.video.p2p-streams/?url=acestream://4aa604c0a7a272011d0f7f46383893a30523754d&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 23.00 arg ARGENTINOS JRS - NEWELLS OLD BOYS ",[COLOR red]23.00 arg ARGENTINOS JRS - NEWELLS OLD BOYS[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 23.00 arg ARGENTINOS JRS - NEWELLS OLD BOYS ",sport tv 2 pt
