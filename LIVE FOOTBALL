@@ -96,6 +96,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500
 rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10
 #EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",sky sports 1 uk
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",silk sport 1 ge
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
  
