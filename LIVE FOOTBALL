@@ -91,6 +91,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
 #EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",c+liga de campeones es ace
 plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",sky sports 1 uk
+rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10
+#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",sky sports 1 uk
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",silk sport 1 ge
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
