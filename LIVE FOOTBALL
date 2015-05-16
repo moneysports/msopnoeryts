@@ -59,7 +59,9 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 16.00 eng SUNDERLAND - LEICHESTER ",silk sport 1 ge
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
- 
+#EXTINF:-1 group-title=" 16.00 eng SUNDERLAND - LEICHESTER ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",[COLOR red]18.00 ita INTER - JUVENTUS[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",ntv+futbol 3 ru
