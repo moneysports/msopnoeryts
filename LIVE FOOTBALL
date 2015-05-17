@@ -33,6 +33,8 @@ rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=ht
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",nbcsn
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",tsn
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 #EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",tv3 sport 2 ace
 plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+SKY SPORTS 1MS
  
@@ -118,6 +120,8 @@ http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",nbcsn
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",tsn
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
 #EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",tv3 sport 2 ace
 plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",silk sport 1 ge
