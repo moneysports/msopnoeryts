@@ -12,7 +12,7 @@
 
 <item>
 <title>WWE PAYBACK</title>
-<link>tmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20 token=WY846p1E1g15W7s</link>
+<link>rtmp://37.48.86.43/live/channel5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/5.php live=true timeout=20 token=WY846p1E1g15W7s</link>
 </item>
 
 <item>
@@ -22,10 +22,10 @@
 
 <item>
 <title>WWE PAYBACK</title>
-<link>tmp://142.4.216.205/live/ playpath=ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20 token=WY846p1E1g15W7s</link>
+<link>rtmp://142.4.216.205/live/ playpath=ch10 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/10.php live=true timeout=20 token=WY846p1E1g15W7s</link>
 </item>
 
 <item>
 <title>WWE PAYBACK</title>
-<link>tmp://37.48.86.45/live playpath=channel11  swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf  pageUrl=http://rarehost.net/site/vip/11.php live=true timeout=20 token=WY846p1E1g15W7s</link>
+<link>rtmp://37.48.86.45/live playpath=channel11  swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf  pageUrl=http://rarehost.net/site/vip/11.php live=true timeout=20 token=WY846p1E1g15W7s</link>
 </item>
