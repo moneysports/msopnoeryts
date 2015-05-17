@@ -1,160 +1,242 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",[COLOR red]15.30 ger WOLFSBURG - B.DORTMUND[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",ntv+futbol 3 ru
-http://edge.ailetv.net/org2/football3_me/playlist.m3u8
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",ntv+futbol 3 ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",trt spor tr
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",c+liga de campeones es ace
-plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=" 15.30 ger WOLFSBURG - B.DORTMUND ",espn 3 la
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
- 
-#EXTINF:-1 group-title=" 15.30 ger FREIBURG - BAY.MUNCHEN ",[COLOR red]15.30 ger FREIBURG - BAY.MUNCHEN[/COLOR]
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",[COLOR red]12.30 ita SASSUOLO - MILAN[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 15.30 ger FREIBURG - BAY.MUNCHEN ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 15.30 ger FREIBURG - BAY.MUNCHEN ",supersport 1 al
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1 group-title=" 15.30 ger FREIBURG - BAY.MUNCHEN ",espn la
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",ntv+futbol 2 ru
+http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",ntv+futbol 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",bt sport 1 uk
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=" 12.30 ita SASSUOLO - MILAN ",espn la
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?byluca
  
-#EXTINF:-1 group-title=" 15.30 ger W.BREMEN - MOENCHENGLADBACH ",[COLOR red]15.30 ger W.BREMEN - MOENCHENGLADBACH[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 15.30 ger W.BREMEN - MOENCHENGLADBACH ",espn 2 la
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+
+
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",[COLOR red]14.30 eng SWANSEA CITY - MANCHESTER CITY[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",silk sport 1 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",sky sports 1 uk
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title=" 14.30 eng SWANSEA CITY - MANCHESTER CITY ",tv3 sport 2 ace
+plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+SKY SPORTS 1MS
  
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",[COLOR red]15.30 ger STUTTGART - HAMBURG[/COLOR]
+#EXTINF:-1 group-title=" 14.30 ned ZWOLLE - FEYENOORD ",[COLOR red]14.30 ned ZWOLLE - FEYENOORD[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",ntv+futbol 2 ru
-http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",ntv+futbol 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",trt hd tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",supersport 3 al
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 15.30 ger STUTTGART - HAMBURG ",silk sport 2 ge
+#EXTINF:-1 group-title=" 14.30 ned ZWOLLE - FEYENOORD ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 14.30 ned ZWOLLE - FEYENOORD ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 14.30 ned ZWOLLE - FEYENOORD ",c+liga de campeones es ace
+plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
+#EXTINF:-1 group-title=" 14.30 ned ZWOLLE - FEYENOORD ",supersport 4 al
+http://81.7.13.162/hls/ss4/index.m3u8
+ 
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - GENT ",[COLOR red]14.30 bel CLUB BRUGGE - GENT[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - GENT ",silk sport 2 ge
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
  
-#EXTINF:-1 group-title=" 16.00 eng TOTTENHAM - HULL CITY ",[COLOR red]16.00 eng TOTTENHAM - HULL CITY[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 16.00 eng TOTTENHAM - HULL CITY ",ntv+futbol 1 ru
-http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
-#EXTINF:-1 group-title=" 16.00 eng TOTTENHAM - HULL CITY ",ntv+futbol 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
- 
-#EXTINF:-1 group-title=" 16.00 eng SUNDERLAND - LEICHESTER ",[COLOR red]16.00 eng SUNDERLAND - LEICHESTER[/COLOR]
+#EXTINF:-1 group-title=" 14.30 ned DEN HAAG - PSV ",[COLOR red]14.30 ned DEN HAAG - PSV[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 16.00 eng SUNDERLAND - LEICHESTER ",silk sport 1 ge
-rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
-#EXTINF:-1 group-title=" 16.00 eng SUNDERLAND - LEICHESTER ",nbcsn
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",[COLOR red]18.00 ita INTER - JUVENTUS[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",ntv+futbol 3 ru
-http://edge.ailetv.net/org2/football3_me/playlist.m3u8
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",ntv+futbol 3 ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 18.00 ita INTER - JUVENTUS ",fox sport 2 arg
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
- 
-#EXTINF:-1 group-title=" 18.15 esp2 R.VALLADOLID - OSASUNA ",[COLOR red]18.15 esp2 R.VALLADOLID - OSASUNA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.15 esp2 R.VALLADOLID - OSASUNA ",la sexsta es
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
- 
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",[COLOR red]18.30 eng LIVERPOOL - C.PALACE[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",ntv+futbol 1 ru
-http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",ntv+futbol 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",c+liga de campeones es ace
-plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",sky sports 1 uk
-rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",sky sports 1 uk
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",nbcsn
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 group-title=" 18.30 eng LIVERPOOL - C.PALACE ",silk sport 1 ge
-rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
- 
-#EXTINF:-1 group-title=" 20.00 esp2 LAS PALMAS - R.HUELVA ",[COLOR red]20.00 esp2 LAS PALMAS - R.HUELVA[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.00 esp2 LAS PALMAS - R.HUELVA ",tv canaria es
-rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
- 
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",[COLOR red]20.45 ita SAMPDORIA - LAZIO[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",ntv+futbol 2 ru
-http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",ntv+futbol 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",bt sport 1 uk
-rtmpe://46.246.124.14:1935/live/ playpath=btsports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports1lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",ntv+futbol 2 ru
-http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",ntv+futbol 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 ita SAMPDORIA - LAZIO ",espn 2 la
+#EXTINF:-1 group-title=" 14.30 ned DEN HAAG - PSV ",espn 2 la
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
  
-#EXTINF:-1 group-title=" 21.00 fra MONACO - METZ ",[COLOR red]21.00 fra MONACO - METZ[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 21.00 fra MONACO - METZ ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 14.30 ned HEERENVEEN - TWENTE ",[COLOR red]14.30 ned HEERENVEEN - TWENTE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 14.30 ned HEERENVEEN - TWENTE ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
  
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",[COLOR red]21.00 fra MONTPELLIER - PSG[/COLOR]
+#EXTINF:-1 group-title=" 15.00 ita ATALANTA - GENOA ",[COLOR red]15.00 ita ATALANTA - GENOA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 15.00 ita ATALANTA - GENOA ",ntv+futbol 2 ru
+http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 15.00 ita ATALANTA - GENOA ",ntv+futbol 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 15.00 ita ATALANTA - GENOA ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 15.00 ita ATALANTA - GENOA ",c mor fut
+http://188.138.9.228:8034
+ 
+#EXTINF:-1 group-title=" 15.00 ita CAGLIARI - PALERMO ",[COLOR red]15.00 ita CAGLIARI - PALERMO[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",tv3 sport 1 ace
-plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+SKY SPORTS 1MS
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",bt sport 2 uk
-rtmpe://46.246.124.14:1935/live/ playpath=btsports2lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports2lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
-#EXTINF:-1 group-title=" 21.00 fra MONTPELLIER - PSG ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.00 ita CAGLIARI - PALERMO ",fox sport arg
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 group-title=" 15.00 ita CAGLIARI - PALERMO ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
  
-#EXTINF:-1 group-title=" 21.00 fra LILLE - MARSEILLE ",[COLOR red]21.00 fra LILLE - MARSEILLE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 21.00 fra LILLE - MARSEILLE ",A spor tr
+#EXTINF:-1 group-title=" 15.00 ita TORINO - CHIEVO ",[COLOR red]15.00 ita TORINO - CHIEVO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 15.00 ita TORINO - CHIEVO ",A spor tr
 http://hls.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
-#EXTINF:-1 group-title=" 21.00 fra LILLE - MARSEILLE ",A spor tr_2
+#EXTINF:-1 group-title=" 15.00 ita TORINO - CHIEVO ",A spor tr_2
 http://edge.ailetv.net/org18/aspor_me/playlist.m3u8
+#EXTINF:-1 group-title=" 15.00 ita TORINO - CHIEVO ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
  
-#EXTINF:-1 group-title=" 22.00 mls MONTREAL IMPACT - REAL SALT LAKE ",[COLOR red]22.00 mls MONTREAL IMPACT - REAL SALT LAKE[/COLOR]
+#EXTINF:-1 group-title=" 15.00 ita H.VERONA - EMPOLI ",[COLOR red]15.00 ita H.VERONA - EMPOLI[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 15.00 ita H.VERONA - EMPOLI ",fox sport 2 arg
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+ 
+#EXTINF:-1 group-title=" 16.30 aus RAPID WIEN - AUSTRIA WIEN ",[COLOR red]16.30 aus RAPID WIEN - AUSTRIA WIEN (geo)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.30 aus RAPID WIEN - AUSTRIA WIEN ",orf 1 at
+http://194.232.200.119/ipad/orf1_q6a/orf.sdp/playlist.m3u8?wowzasessionid=1|X-Forwarded-For=test
+ 
+#EXTINF:-1 group-title=" 16.30 sco2 RANGERS - QUEEN OF THE SOUTH (2-1) ",[COLOR red]16.30 sco2 RANGERS - QUEEN OF THE SOUTH (2-1)[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 22.00 mls MONTREAL IMPACT - REAL SALT LAKE ",eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 22.00 mls MONTREAL IMPACT - REAL SALT LAKE ",sky sports 5 uk
+#EXTINF:-1 group-title=" 16.30 sco2 RANGERS - QUEEN OF THE SOUTH (2-1) ",bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",[COLOR red]17.00 eng MANCHESTER UTD - ARSENAL[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",sky sports 1 uk
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",tv3 sport 2 ace
+plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+SKY SPORTS 1MS
+#EXTINF:-1 group-title=" 17.00 eng MANCHESTER UTD - ARSENAL ",silk sport 1 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+ 
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - STANDARD LIEGE ",[COLOR red]18.00 bel ANDERLECHT - STANDARD LIEGE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - STANDARD LIEGE ",Sportitalia
+http://sportitalialive.vetrya.biz/SI_CH_01qwpl10df.isml/QualityLevels(714000)/Manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - STANDARD LIEGE ",ntv sport tr
+rtmp://edge04-08.az.myvideo.az/dvrh264/ntvspor/ playpath=ntvspor swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvspor
+ 
+#EXTINF:-1 group-title=" 18.15 esp2 R.BETIS - LUGO ",[COLOR red]18.15 esp2 R.BETIS - LUGO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.15 esp2 R.BETIS - LUGO ",la sexsta es
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
+ 
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",[COLOR red]19.00 esp ESPANYOL - REAL MADRID[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",ntv+futbol 2 ru
+http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",ntv+futbol 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",c mor fut
+http://188.138.9.228:8034
+#EXTINF:-1 group-title=" 19.00 esp ESPANYOL - REAL MADRID ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+ 
+#EXTINF:-1 group-title=" 19.00 por V.GUIMARAES - BENFICA ",[COLOR red]19.00 por V.GUIMARAES - BENFICA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 19.00 por V.GUIMARAES - BENFICA ",rtp int pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 19.00 por V.GUIMARAES - BENFICA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 19.00 por V.GUIMARAES - BENFICA ",bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 19.00 por V.GUIMARAES - BENFICA ",silk sport 1 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+ 
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",[COLOR red]19.00 esp ATL.MADRID - BARCELONA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",ntv+futbol 3 ru
+http://edge.ailetv.net/org2/football3_me/playlist.m3u8
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",ntv+futbol 3 ru
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",irib 3 ir
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",c+liga es ace
+plugin://plugin.video.p2p-streams/?url=acestream://c3d48b4cd8e1460a39c57153f1df06154907dad1&mode=1&name=acestream+SKY SPORTS 1MS
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",sky sports 5 uk
 http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 19.00 esp ATL.MADRID - BARCELONA ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+ 
+#EXTINF:-1 group-title=" 19.00 esp VALENCIA - CELTA VIGO ",[COLOR red]19.00 esp VALENCIA - CELTA VIGO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 19.00 esp VALENCIA - CELTA VIGO ",supersport 4 al
+http://81.7.13.162/hls/ss4/index.m3u8
+ 
+#EXTINF:-1 group-title=" 19.00 por BELENENSES - PORTO ",[COLOR red]19.00 por BELENENSES - PORTO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 19.00 por BELENENSES - PORTO ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 19.00 por BELENENSES - PORTO ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 19.00 por SP.LISBON - SP.BRAGA ",[COLOR red]19.00 por SP.LISBON - SP.BRAGA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 por SP.LISBON - SP.BRAGA ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",[COLOR red]20.45 ita ROMA - UDINESE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",bt sport 1 uk
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ROMA - UDINESE ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 21.00 bra SANTOS - CRUZEIRO ",[COLOR red]21.00 bra SANTOS - CRUZEIRO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 bra SANTOS - CRUZEIRO ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=" 21.00 bra SANTOS - CRUZEIRO ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 21.00 esp2 TENERIFE - ALCORON ",[COLOR red]21.00 esp2 TENERIFE - ALCORON[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 21.00 esp2 TENERIFE - ALCORON ",tv canaria es
+rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+ 
+#EXTINF:-1 group-title=" 23.00 mls ORLANDO CITY - L.A.GALAXY ",[COLOR red]23.00 mls ORLANDO CITY - L.A.GALAXY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.00 mls ORLANDO CITY - L.A.GALAXY ",eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 23.00 mls ORLANDO CITY - L.A.GALAXY ",sky sports 5 uk
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 23.00 mls ORLANDO CITY - L.A.GALAXY ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 23.30 bra INTERNACIONAL - AVAI ",[COLOR red]23.30 bra INTERNACIONAL - AVAI[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 23.30 bra INTERNACIONAL - AVAI ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 1.00 mls PHILADELPHIA UNION - DC UNITED ",[COLOR red]1.00 mls PHILADELPHIA UNION - DC UNITED[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 1.00 mls PHILADELPHIA UNION - DC UNITED ",eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
