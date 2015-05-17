@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 group-title=" 14.00 moto.gp MOTO GP FRANCIA ",[COLOR red]14.00 moto.gp MOTO GP FRANCIA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.00 moto.gp MOTO GP FRANCIA ",s@y sport Moto Gp it ace
+acestream://586a2d2a08eac2fc2085c6f5496858d0d1ee1597
+#EXTINF:-1 group-title=" 14.00 moto.gp MOTO GP FRANCIA ",bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
