@@ -50,6 +50,8 @@ rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=ht
 http://zhegal.com.ua/tv/mariupol?id=63
 #EXTINF:-1 group-title=" 21.00 eng WEST BROMWICH ALBION - CHELSIE ",sky sports 1 uk
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 21.00 eng WEST BROMWICH ALBION - CHELSIE ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title=" 21.00 eng WEST BROMWICH ALBION - CHELSIE ",tv3 sport 2 ace
 plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 21.00 eng WEST BROMWICH ALBION - CHELSIE ",viasat sport baltic ace
