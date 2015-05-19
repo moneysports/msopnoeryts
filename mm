@@ -884,3 +884,493 @@ http://euroiptv2.mine.nu:80/live?channelId=764&uid=14&deviceUser=Euro.iptv&devic
 http://euroiptv3.mine.nu:80/live?channelId=765&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
 #EXTINF:-1,Zee Alwan (AR)
 http://euroiptv3.mine.nu:80/live?channelId=766&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+
+#EXTINF:0,BBC 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+#EXTINF:0,BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+#EXTINF:0,BBC 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+#EXTINF:0,BBC 2 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42
+#EXTINF:0,BBC 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48
+#EXTINF:0,BBC 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36
+#EXTINF:0,BBC News
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=40
+#EXTINF:0,BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+#EXTINF:0,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:0,ITV 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43
+#EXTINF:0,ITV 1 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52
+#EXTINF:0,ITV 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
+#EXTINF:0,ITV 2 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53
+#EXTINF:0,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:0,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:0,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+#EXTINF:0,CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+#EXTINF:0,CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:0,Challenge
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18
+#EXTINF:0,Channel 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3
+#EXTINF:0,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+#EXTINF:0,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+#EXTINF:0,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+#EXTINF:0,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+#EXTINF:0,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+#EXTINF:0,Channel 5 +24
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64
+#EXTINF:0,Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+#EXTINF:0,Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+#EXTINF:0,Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+#EXTINF:0,E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+#EXTINF:0,E4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59
+#EXTINF:0,Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+#EXTINF:0,Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+#EXTINF:0,Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+#EXTINF:0,Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+#EXTINF:0,More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+#EXTINF:0,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+#EXTINF:0,MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+#EXTINF:0,Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+#EXTINF:0,Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+#EXTINF:0,Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+#EXTINF:0,Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+#EXTINF:0,Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+#EXTINF:0,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+#EXTINF:0,True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+#EXTINF:0,TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+#EXTINF:0,Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+#EXTINF:0,4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+#EXTINF:0,4 Seven
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:0,4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+#EXTINF:0,5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+#EXTINF:0,5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+
+#EXTINF:-1,Arena Spo.ts 1 SD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/54.ts
+#EXTINF:-1,Arena Spo.ts 2 SD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/55.ts
+#EXTINF:-1,Arena Spo.ts 3 SD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/56.ts
+#EXTINF:-1,Arena Spo.ts 4 SD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/57.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/71.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/72.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/73.ts
+#EXTINF:-1,Super Sport 1 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/66.ts
+#EXTINF:-1,Super Sport 2 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/67.ts
+#EXTINF:-1,Super Sport 3 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/68.ts
+#EXTINF:-1,Bein Spo.ts USA
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/95.ts
+#EXTINF:-1,Bein Spo.ts 1 FR
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/31.ts
+#EXTINF:-1,Bein Spo.ts 2 FR
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/36.ts
+#EXTINF:-1,Bein Spo.ts 3 FR
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/32.ts
+#EXTINF:-1,Bein Max 4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/93.ts
+#EXTINF:-1,Bein Max 5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/94.ts
+#EXTINF:-1,Bein Spo.ts 1 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/16.ts
+#EXTINF:-1,Bein Spo.ts 2 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/17.ts
+#EXTINF:-1,Bein Spo.ts 3 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/18.ts
+#EXTINF:-1,Bein Spo.ts 4 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/19.ts
+#EXTINF:-1,Bein Spo.ts 5 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/20.ts
+#EXTINF:-1,Bein Spo.ts 6 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/21.ts
+#EXTINF:-1,Bein Spo.ts 7 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/22.ts
+#EXTINF:-1,Bein Spo.ts 8 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/23.ts
+#EXTINF:-1,Bein Spo.ts 9 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/24.ts
+#EXTINF:-1,Bein Spo.ts 10 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/25.ts
+#EXTINF:-1,Bein Spo.ts 11 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/247.ts
+#EXTINF:-1,Bein Spo.ts 12 HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/248.ts
+#EXTINF:-1,Bein Spo.ts 1 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/114.ts
+#EXTINF:-1,Bein Spo.ts 2 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/115.ts
+#EXTINF:-1,Bein Spo.ts 3 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/116.ts
+#EXTINF:-1,Bein Spo.ts 4 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/117.ts
+#EXTINF:-1,Bein Spo.ts 5 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/118.ts
+#EXTINF:-1,Bein Spo.ts 6 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/119.ts
+#EXTINF:-1,Bein Spo.ts 7 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/120.ts
+#EXTINF:-1,Bein Spo.ts 8 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/121.ts
+#EXTINF:-1,Bein Spo.ts 9 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/122.ts
+#EXTINF:-1,Bein Spo.ts 10 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/123.ts
+#EXTINF:-1,Bein Spo.ts 11 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/124.ts
+#EXTINF:-1,Bein Spo.ts 12 LQ Backup
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/125.ts
+#EXTINF:-1,Bt Spo.ts 1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/10.ts
+#EXTINF:-1,Bt Spo.ts 1 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/147.ts
+#EXTINF:-1,Bt Spo.ts 2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/11.ts
+#EXTINF:-1,Bt Spo.ts 2 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/148.ts
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/88.ts
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/89.ts
+#EXTINF:-1,Sky Bundesliga HD1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/38.ts
+#EXTINF:-1,Sky Bundesliga HD2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/39.ts
+#EXTINF:-1,Sky Bundesliga HD3
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/40.ts
+#EXTINF:-1,Sky Bundesliga HD4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/41.ts
+#EXTINF:-1,Sky Bundesliga HD5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/42.ts
+#EXTINF:-1,ESPN UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/14.ts
+#EXTINF:-1,ESPN USA
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/48.ts
+#EXTINF:-1,ESPN 2 USA
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/49.ts
+#EXTINF:-1,Eurosport 1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/12.ts
+#EXTINF:-1,Eurosport 2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/13.ts
+#EXTINF:-1,ITV 1 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/103.ts
+#EXTINF:-1,ITV 2 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/104.ts
+#EXTINF:-1,ITV 3 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/105.ts
+#EXTINF:-1,ITV 4 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/106.ts
+#EXTINF:-1,Premier Spo.ts
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/9.ts
+#EXTINF:-1,Premier Spo.ts (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/149.ts
+#EXTINF:-1,Setanta Ireland
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/8.ts
+#EXTINF:-1,Sky Movie (Action&Adventure)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/110.ts
+#EXTINF:-1,Sky Movie (Comedy)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/108.ts
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/113.ts
+#EXTINF:-1,Sky Movie (Drama)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/107.ts
+#EXTINF:-1,Sky Movie (Family)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/65.ts
+#EXTINF:-1,Sky Movie (Modern Gre.ts)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/109.ts
+#EXTINF:-1,Sky Movie (Premiere)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/111.ts
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/112.ts
+#EXTINF:-1,Sky Movie (Select)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/64.ts
+#EXTINF:-1,Sky Movie (Atlantic)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/98.ts
+#EXTINF:-1,SkySpo.ts 1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/1.ts
+#EXTINF:-1,SkySpo.ts 1 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/140.ts
+#EXTINF:-1,SkySpo.ts 2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/2.ts
+#EXTINF:-1,SkySpo.ts 2 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/141.ts
+#EXTINF:-1,SkySpo.ts 3
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/3.ts
+#EXTINF:-1,SkySpo.ts 3 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/142.ts
+#EXTINF:-1,SkySpo.ts 4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/4.ts
+#EXTINF:-1,SkySpo.ts 4 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/143.ts
+#EXTINF:-1,SkySpo.ts 5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/5.ts
+#EXTINF:-1,SkySpo.ts 5 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/144.ts
+#EXTINF:-1,SkySpo.ts F1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/6.ts
+#EXTINF:-1,SkySpo.ts F1 (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/145.ts
+#EXTINF:-1,SkySpo.ts News
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/7.ts
+#EXTINF:-1,SkySpo.ts News (Backup)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/146.ts
+#EXTINF:-1,Boxnation HD
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/240.ts
+#EXTINF:-1,Box Nation
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/15.ts
+#EXTINF:-1,NFL Network
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/58.ts
+#EXTINF:-1,At The Races
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/52.ts
+#EXTINF:-1,Racing UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/53.ts
+#EXTINF:-1,NBC Spo.ts
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/37.ts
+#EXTINF:-1,Fox Spo.ts 1 USA
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/59.ts
+#EXTINF:-1,Fox Spo.ts 2 USA
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/60.ts
+#EXTINF:-1,Spo.tsNet One
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/75.ts
+#EXTINF:-1,Spo.tsNet Ontario
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/77.ts
+#EXTINF:-1,Spo.tsNet World
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/76.ts
+#EXTINF:-1.tsN 1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/34.ts
+#EXTINF:-1.tsN 2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/35.ts
+#EXTINF:-1.tsN 3
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/135.ts
+#EXTINF:-1.tsN 4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/136.ts
+#EXTINF:-1.tsN 5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/137.ts
+#EXTINF:-1,OTE Spo.ts 1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/85.ts
+#EXTINF:-1,OTE Spo.ts 2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/86.ts
+#EXTINF:-1,OTE Spo.ts 3
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/87.ts
+#EXTINF:-1,OTE Spo.ts 4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/90.ts
+#EXTINF:-1,OTE Spo.ts 5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/91.ts
+#EXTINF:-1,OTE Spo.ts 6
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/92.ts
+#EXTINF:-1,Canal +
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/97.ts
+#EXTINF:-1,Canal + Sport
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/96.ts
+#EXTINF:-1,Pac 12 Network
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/138.ts
+#EXTINF:-1,Sky Sport 1 HD Italy
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/50.ts
+#EXTINF:-1,Sky Sport 2 HD Italy
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/51.ts
+#EXTINF:-1,BBC 1 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/101.ts
+#EXTINF:-1,BBC 2 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/102.ts
+#EXTINF:-1,BBC 3 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/100.ts
+#EXTINF:-1,BBC 4 UK
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/99.ts
+#EXTINF:-1,Btn
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/139.ts
+EXTINF:-1,NDTV News
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/79.ts
+#EXTINF:-1,India Tv News
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/80.ts
+#EXTINF:-1,ABP News
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/246.ts
+#EXTINF:-1,Aajtak News
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/243.ts
+#EXTINF:-1,SonySix
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/78.ts
+#EXTINF:-1,Setmax IPL 2015 (2G Quality)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/229.ts
+#EXTINF:-1,2G 80kbps 304417
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/249.ts
+#EXTINF:-1,2G 120kbps 304429
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/228.ts
+#EXTINF:-1,2G 100kbps 304428
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/227.ts
+#EXTINF:-1,Channel 1 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/150.ts
+#EXTINF:-1,Channel 2 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/151.ts
+#EXTINF:-1,Channel 3 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/152.ts
+#EXTINF:-1,Channel 4 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/153.ts
+#EXTINF:-1,Channel 5 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/154.ts
+#EXTINF:-1,Channel 6 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/155.ts
+#EXTINF:-1,Channel 7 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/156.ts
+#EXTINF:-1,Channel 8 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/157.ts
+#EXTINF:-1,Channel 9 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/158.ts
+#EXTINF:-1,Channel 10 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/159.ts
+#EXTINF:-1,Channel 11 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/160.ts
+#EXTINF:-1,Channel 12 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/161.ts
+#EXTINF:-1,Channel 13 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/162.ts
+#EXTINF:-1,Channel 14 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/163.ts
+#EXTINF:-1,Channel 15 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/164.ts
+#EXTINF:-1,Channel 16 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/165.ts
+#EXTINF:-1,Channel 17 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/166.ts
+#EXTINF:-1,Channel 18 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/167.ts
+#EXTINF:-1,Channel 19 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/168.ts
+#EXTINF:-1,Channel 20 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/169.ts
+#EXTINF:-1,Channel 21 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/170.ts
+#EXTINF:-1,Channel 22 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/171.ts
+#EXTINF:-1,Channel 23 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/172.ts
+#EXTINF:-1,Channel 24 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/173.ts
+#EXTINF:-1,Channel 25 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/174.ts
+#EXTINF:-1,Channel 26 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/175.ts
+#EXTINF:-1,Channel 27 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/176.ts
+#EXTINF:-1,Channel 28 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/177.ts
+#EXTINF:-1,Channel 29 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/178.ts
+#EXTINF:-1,Channel 30 (not 24×7)
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/179.ts
+#EXTINF:-1,bt1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/187.ts
+#EXTINF:-1,bt2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/188.ts
+#EXTINF:-1,espnuk
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/189.ts
+#EXTINF:-1,empty
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/190.ts
+#EXTINF:-1,emprf
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/191.ts
+#EXTINF:-1,sky1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/180.ts
+#EXTINF:-1,sky2
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/181.ts
+#EXTINF:-1,sky3
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/182.ts
+#EXTINF:-1,sky4
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/183.ts
+#EXTINF:-1,sky5
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/184.ts
+#EXTINF:-1,skyf1
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/185.ts
+#EXTINF:-1,emppty
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/192.ts
+#EXTINF:-1,skyspo.tsnews
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/186.ts
+#EXTINF:-1,Channel 1 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/206.ts
+#EXTINF:-1,Channel 2 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/207.ts
+#EXTINF:-1,Channel 3 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/208.ts
+#EXTINF:-1,Channel 4 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/209.ts
+#EXTINF:-1,Channel 5 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/210.ts
+#EXTINF:-1,Channel 6 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/211.ts
+#EXTINF:-1,Channel 7 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/212.ts
+#EXTINF:-1,Channel 8 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/213.ts
+#EXTINF:-1,Channel 9 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/214.ts
+#EXTINF:-1,Channel 10 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/215.ts
+#EXTINF:-1,Channel 11 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/216.ts
+#EXTINF:-1,Channel 12 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/217.ts
+#EXTINF:-1,Channel 13 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/218.ts
+#EXTINF:-1,Channel 14 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/219.ts
+#EXTINF:-1,Channel 15 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/220.ts
+#EXTINF:-1,Channel 16 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/221.ts
+#EXTINF:-1,Channel 17 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/222.ts
+#EXTINF:-1,Channel 18 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/223.ts
+#EXTINF:-1,Channel 19 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/224.ts
+#EXTINF:-1,Channel 20 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/225.ts
+#EXTINF:-1,Channel 21 Plus
+http://s1.wssiptv.com/live/WSSVIP/LOLOL/226.ts
