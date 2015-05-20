@@ -30,7 +30,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500
 #EXTINF:-1 group-title=" 20.45 ita.cup.Final JUVENTUS - LAZIO ",futboll 2 HD ukr
 http://zhegal.com.ua/tv/mariupol?id=182
 #EXTINF:-1 group-title=" 20.45 ita.cup.Final JUVENTUS - LAZIO ",sky sports 5 uk
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+plugin://plugin.video.p2p-streams/?url=acestream://41975a9489f4de37f1afa31e5bd20a589817cf22&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 20.45 ita.cup.Final JUVENTUS - LAZIO ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 #EXTINF:-1 group-title=" 20.45 ita.cup.Final JUVENTUS - LAZIO ",supersport 2 al
@@ -51,7 +51,7 @@ http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:-1 group-title=" 20.45 eng ARSENAL - SUNDERLAND ",futboll 1 HD ukr
 http://zhegal.com.ua/tv/mariupol?id=63
 #EXTINF:-1 group-title=" 20.45 eng ARSENAL - SUNDERLAND ",sky sports 1 uk
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 20.45 eng ARSENAL - SUNDERLAND ",nbcsn
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title=" 20.45 eng ARSENAL - SUNDERLAND ",tv3 sport 2 ace
