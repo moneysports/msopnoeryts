@@ -76,7 +76,8 @@ http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
 #EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",ntv+futbol 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
 #EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",LIVE
-rtmp://50.7.28.210/live playpath=zonasportsx1_1432465322_164d34cdbaaf1d2f  swfUrl=http://p.castamp.com/cplayer.swf  pageUrl=http://www.castamp.com/embed.php?c=zonasportsx1&tk=t4FokUnX&vwidth=750&vheight=420
+rtmp://204.45.157.74/live playpath=zonasportsx1_1432465913_bc5895c45f3796fd  swfUrl=http://p.castamp.com/cplayer.swf  pageUrl=http://www.castamp.com/embed.php?c=zonasportsx1&tk=NoQ4U9zg&vwidth=750&vheight=420
+
 
 
 #EXTINF:-1 group-title=" 16.00 eng NEWCASTLE - WEST HAM UTD ",[COLOR red]16.00 eng NEWCASTLE - WEST HAM UTD[/COLOR]
