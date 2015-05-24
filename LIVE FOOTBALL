@@ -48,6 +48,15 @@ rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 15.30 ned.playOff FEYENOORD - HEERENVEEN ",espn 2 la
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+
+#EXTINF:-1 group-title=" 16.00 eng STOKE CITY - LIVERPOOL ",[COLOR red]16.00 eng STOKE CITY - LIVERPOOL[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.00 eng STOKE CITY - LIVERPOOL  ",LIVE
+rtmp://66.55.92.79/app playpath=zonasxps3s-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf  pageUrl=https://streamup.com/rooms/zonasxps3s-Channel/plugins/video/show?startMuted=false
+#EXTINF:-1 group-title=" 16.00 eng STOKE CITY - LIVERPOOL  ",LIVE
+rtmp://46.23.67.114/live playpath=zonax7aA?id=21895&pk=98821b2db682bf6898129ac9605056cef2ac3a488c702174e37ca22630e36791  swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  pageUrl=http://www.embedezcast.com/embedplayer/zonax7aA/1/700/400
+
+
  
 #EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",[COLOR red]16.00 eng HULL CITY - MANCHESTER UTD[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
