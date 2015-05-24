@@ -67,4 +67,10 @@
 <link>rtmp://66.55.92.168/app playpath=morepowers-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf  pageUrl=https://streamup.com/rooms/morepowers-Channel/plugins/video/show?autoplayAudio=true</link>
 </item>
 
+<item>
+<title>Sky Sports 1 [COLOR white](P2P)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1MS</link>
+<thumbnail></thumbnail>
+</item>
+
 
