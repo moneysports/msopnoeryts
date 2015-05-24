@@ -53,13 +53,13 @@
 </item>
 
 <item>
-<title>Sky Sports F1</title>
-<link>http://31.220.40.100:80/LiveEdge/skyspf1.stream/playlist.m3u8?token=fe380e2ead620bced29e26b8d92d98b9</link>
+<title>Sky Sports F1 ACE</title>
+<link>plugin://plugin.video.p2p-streams/?url=acestream://a6192e7122c79a02346f674f7f9d964e713f8194&mode=1&name=acestream+SKY SPORTS 1MS</link>
 </item>
 
 <item>
 <title>F1</title>
-<link>rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20</link>
+<link>rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=true timeout=20</link>
 </item>
 
 <item>
