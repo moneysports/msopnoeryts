@@ -1,50 +1,127 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" 18.00 den RANDERS - HOBRO ",[COLOR red]18.00 den RANDERS - HOBRO[/COLOR]
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",[COLOR red]12.30 ita EMPOLI - SAMPDORIA[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 den RANDERS - HOBRO ",tv3 sport 1 ace
-plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+SKY SPORTS 1MS
- 
-#EXTINF:-1 group-title=" 18.00 rus.cup.final KUBAN KRASNODAR - LOKOMOTIV MOSCOW ",[COLOR red]18.00 rus.cup.final KUBAN KRASNODAR - LOKOMOTIV MOSCOW[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 18.00 rus.cup.final KUBAN KRASNODAR - LOKOMOTIV MOSCOW ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 18.00 rus.cup.final KUBAN KRASNODAR - LOKOMOTIV MOSCOW ",russia 2
-http://194.190.78.230/output/russia2/playlist.m3u8
-#EXTINF:-1 group-title=" 18.00 rus.cup.final KUBAN KRASNODAR - LOKOMOTIV MOSCOW ",russia 2
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
- 
-#EXTINF:-1 group-title=" 19.30 tur.cup FENERBAHCE - BURSASPOR ",[COLOR red]19.30 tur.cup FENERBAHCE - BURSASPOR[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 19.30 tur.cup FENERBAHCE - BURSASPOR ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.30 bel GENT - STANDARD LIEGE ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.45 ned ZWOLLE - VITESSE ",[COLOR red]20.45 ned ZWOLLE - VITESSE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 ned ZWOLLE - VITESSE ",sport tv 2 pt
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",bt sport 1 uk
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",beIN FR 2
+http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SAMPDORIA ",sport tv 2 pt
 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
  
-#EXTINF:-1 group-title=" 0.45 c.lib GUARANI (Par) - RACING CLUB (Arg) ",[COLOR red]0.45 c.lib GUARANI (Par) - RACING CLUB (Arg)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 0.45 c.lib GUARANI (Par) - RACING CLUB (Arg) ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.45 c.lib GUARANI (Par) - RACING CLUB (Arg) ",trt spor tr
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 0.45 c.lib GUARANI (Par) - RACING CLUB (Arg) ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 0.45 c.lib GUARANI (Par) - RACING CLUB (Arg) ",trt spor tr_2
-http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
+#EXTINF:-1 group-title=" 12.30 ned.playOff VITESSE - ZWOLLE ",[COLOR red]12.30 ned.playOff VITESSE - ZWOLLE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 12.30 ned.playOff VITESSE - ZWOLLE ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 13.30 sco CELTIC - INVERNESS ",[COLOR red]13.30 sco CELTIC - INVERNESS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 13.30 sco CELTIC - INVERNESS ",sky sports 3 uk
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 13.30 sco DUNDEE UTD - DUNDEE FC ",[COLOR red]13.30 sco DUNDEE UTD - DUNDEE FC[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 13.30 sco DUNDEE UTD - DUNDEE FC ",bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
  
 
  
-#EXTINF:-1 group-title=" 3.00 c.lib RIVER PLATE (Arg) - CRUZEIRO (Bra) ",[COLOR red]3.00 c.lib RIVER PLATE (Arg) - CRUZEIRO (Bra)[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 c.lib RIVER PLATE (Arg) - CRUZEIRO (Bra) ",sport tv 1 pt
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - FIORENTINA ",[COLOR red]15.00 ita PALERMO - FIORENTINA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - FIORENTINA ",ntv+futbol 3 ru
+http://edge.ailetv.net/org2/football3_me/playlist.m3u8
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - FIORENTINA ",ntv+futbol 3 ru
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - FIORENTINA ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 c.lib RIVER PLATE (Arg) - CRUZEIRO (Bra) ",trt spor tr
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 c.lib RIVER PLATE (Arg) - CRUZEIRO (Bra) ",trt spor tr_2
-http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 15.00 ita UDINESE - SASSUOLO ",[COLOR red]15.00 ita UDINESE - SASSUOLO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 15.00 ita UDINESE - SASSUOLO ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 15.30 ned.playOff FEYENOORD - HEERENVEEN ",[COLOR red]15.30 ned.playOff FEYENOORD - HEERENVEEN[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 15.30 ned.playOff FEYENOORD - HEERENVEEN ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",[COLOR red]16.00 eng HULL CITY - MANCHESTER UTD[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",sky sports 3 uk
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",irib 3 ir
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",futboll 1 HD ukr
+http://zhegal.com.ua/tv/mariupol?id=63
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 16.00 eng HULL CITY - MANCHESTER UTD ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+ 
+#EXTINF:-1 group-title=" 16.00 eng NEWCASTLE - WEST HAM UTD ",[COLOR red]16.00 eng NEWCASTLE - WEST HAM UTD[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 16.00 eng NEWCASTLE - WEST HAM UTD ",sky sports 1 uk
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 16.00 eng NEWCASTLE - WEST HAM UTD ",ntv+futbol 2 ru
+http://edge.ailetv.net/org8/ntvplusfootball2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 16.00 eng NEWCASTLE - WEST HAM UTD ",ntv+futbol 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+ 
+#EXTINF:-1 group-title=" 18.00 esp2 SP.GIJON - TENERIFE ",[COLOR red]18.00 esp2 SP.GIJON - TENERIFE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 esp2 SP.GIJON - TENERIFE ",tv canaria es
+rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+ 
+#EXTINF:-1 group-title=" 18.00 esp2 R.VALLADOLID - R.ZARAGOZA ",[COLOR red]18.00 esp2 R.VALLADOLID - R.ZARAGOZA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 18.00 esp2 R.VALLADOLID - R.ZARAGOZA ",la sexsta es
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
+ 
+#EXTINF:-1 group-title=" 18.30 eng3.playOff.Final PRESTON N.E. - SWINDON TOWN ",[COLOR red]18.30 eng3.playOff.Final PRESTON N.E. - SWINDON TOWN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.30 eng3.playOff.Final PRESTON N.E. - SWINDON TOWN ",sky sports 1 uk
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",[COLOR red]20.45 ita MILAN - TORINO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",bt sport 1 uk
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 ita MILAN - TORINO ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - CORINTHIANS ",[COLOR red]21.00 bra FLUMINENSE - CORINTHIANS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - CORINTHIANS ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - CORINTHIANS ",bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 23.30 bra CRUZEIRO - PONTE PRETA ",[COLOR red]23.30 bra CRUZEIRO - PONTE PRETA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.30 bra CRUZEIRO - PONTE PRETA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 23.00 arg BOCA JUNIORS - ALDOSIVI ",[COLOR red]23.00 arg BOCA JUNIORS - ALDOSIVI[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.00 arg BOCA JUNIORS - ALDOSIVI ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 2.00 mlb TEXAS RANGERS - NEW YORK YANKEES ",[COLOR red]2.00 mlb TEXAS RANGERS - NEW YORK YANKEES[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.00 mlb TEXAS RANGERS - NEW YORK YANKEES ",espn la
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 2.10 arg TIGRE - RIVER PLATE ",[COLOR red]2.10 arg TIGRE - RIVER PLATE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.10 arg TIGRE - RIVER PLATE ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
