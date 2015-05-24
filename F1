@@ -1,1 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+<item>
+<title>SKY SPORTS F1</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/68718/Sky_Sport_F1_%28HD%29-live-stream-channel-for-free</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>https://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/68718/Sky_Sport_F1_%28HD%29-live-stream-channel-for-free</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/68718/Sky_Sport_F1_%28HD%29-live-stream-channel-for-free</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>https://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache/>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page></page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/68718/Sky_Sport_F1_%28HD%29-live-stream-channel-for-free</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20F1%20UK.png</thumbnail>
+<fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>http://31.220.40.100:80/LiveEdge/skyspf1.stream/playlist.m3u8?token=fe380e2ead620bced29e26b8d92d98b9</link>
+</item>
+
+<item>
+<title>F1</title>
+<link>rtmp://104.250.102.68:1935/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20</link>
+</item>
+
+<item>
+<title>F1</title>
+<link>rtmp://66.55.92.168/app playpath=morepowers-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf  pageUrl=https://streamup.com/rooms/morepowers-Channel/plugins/video/show?autoplayAudio=true</link>
+</item>
+
 
