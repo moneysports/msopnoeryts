@@ -1,30 +1,127 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sports 1
-plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1MS</link>
-
-#EXTINF:-1,Sky Sports 2
-plugin://plugin.video.p2p-streams/?url=acestream://385d091266bd417ac855161cfce393adee85f0af&mode=1&name=acestream+SKY SPORTS 2MS</link>
-
-#EXTINF:-1,Sky Sports 3
-plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3MS</link>
-
-#EXTINF:-1,Sky Sports 4
-plugin://plugin.video.p2p-streams/?url=acestream://1949cd0059457507c0e9759b736831983f29ae56&mode=1&name=acestream+SKY SPORTS 4MS</link>
-
-#EXTINF:-1,Sky Sports 5
-plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5MS</link>
-
-#EXTINF:-1,Sky Sports F1
-plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1MS
-
-#EXTINF:-1,BT SPORTS 1
-plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTMSSPORTS1
-
-#EXTINF:-1,BT SPORTS 2
-plugin://plugin.video.p2p-streams/?url=acestream://420ad279e44eef83b36673f4352373869e86a322&mode=1&name=acestream+BTMSSPORTS2
 
 
-#EXTINF:-1,VIASAT GOLF
-plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,bt-sport-1
+plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60ced7c01ae4cb&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,bt-sport-2
+plugin://plugin.video.p2p-streams/?url=acestream://65db8e97a7f269f43c65ae11dfbdd288a75d8d4e&mode=1&name=acestream+VIASATMSGOLF
 
+#EXTINF:-1,c-more-tennis
+plugin://plugin.video.p2p-streams/?url=acestream://7cf401321e374e6f8973388492bd7e1cd44c708c&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,motors-tv
+plugin://plugin.video.p2p-streams/?url=acestream://5083f81ebdc2cea89fcd89771c067881e4bf8c99&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,nba-hd
+plugin://plugin.video.p2p-streams/?url=acestream://6c1d2af61c40f3a7f58f346848f22658c652a212&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,nba-tv
+plugin://plugin.video.p2p-streams/?url=acestream://b453a0d4d60cd2beb7cb0b079ae1403b93d22d43&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,premier-sports
+plugin://plugin.video.p2p-streams/?url=acestream://596321d2ed8c57ac2c604359b1af9cc3c4b32426&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,setanta-sports-plus-hd
+plugin://plugin.video.p2p-streams/?url=acestream://9cfb380097fa351f50cd217514e311d7d2b33c99&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,setanta-sports-eurasia-hd
+plugin://plugin.video.p2p-streams/?url=acestream://996b2c273ba891b916ae94780afd96e8748f80de&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sky-sports-1
+plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sky-sports-2
+plugin://plugin.video.p2p-streams/?url=acestream://0c245f8959582abea08cf4874fa35b7b3722c5bc&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sky-sports-3
+plugin://plugin.video.p2p-streams/?url=acestream://af824678202ec687837752c113f2deb5aba7d1be&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sky-sports-5
+plugin://plugin.video.p2p-streams/?url=acestream://41975a9489f4de37f1afa31e5bd20a589817cf22&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sky-sports-f1
+plugin://plugin.video.p2p-streams/?url=acestream://a6192e7122c79a02346f674f7f9d964e713f8194&mode=1&name=acestream+VIASATMSGOLF
+
+
+#EXTINF:-1,canalplus-liga
+plugin://plugin.video.p2p-streams/?url=acestream://c3d48b4cd8e1460a39c57153f1df06154907dad1&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,canalplus-liga-de-campeones-es
+plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,canalplus-toros-es
+plugin://plugin.video.p2p-streams/?url=acestream://823b2da65da3f5497bb7a14ec16a033f2ceb4502&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,canalplus1-es
+plugin://plugin.video.p2p-streams/?url=acestream://b2e3d6f2c5b1760f7136d3dda83dddd578f2f55d&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,movistar-f1
+plugin://plugin.video.p2p-streams/?url=acestream://b52d5c9ef2ad73014fc101c51f0a4dc185513af5&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,movistar-motogp
+plugin://plugin.video.p2p-streams/?url=acestream://b1b0d879eef1f5da72f9c18ec3b6edaede3ab6cf&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sportmania-es
+plugin://plugin.video.p2p-streams/?url=acestream://9c53a17d2a8e5a4521a4875aa7622cd0e9c773a0&mode=1&name=acestream+VIASATMSGOLF
+
+
+#EXTINF:-1,arena-sport-1
+plugin://plugin.video.p2p-streams/?url=acestream://32f136d40d74cda2feda677f3fd05ce489782b1a&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,arena-sport-2
+plugin://plugin.video.p2p-streams/?url=acestream://182ec07c110bb15b337a5d1d4972dd60ed58765c&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,arena-sport-3
+plugin://plugin.video.p2p-streams/?url=acestream://3630bded6b8dceff67c8008450b4e1e82d28f9a7&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,ct-sport
+plugin://plugin.video.p2p-streams/?url=acestream://47ef53cbf6566899c0808339e99905a705e7a321&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,eurosport
+plugin://plugin.video.p2p-streams/?url=acestream://63e52c4350724bb23c46c64b9a705375b8dd2827&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,mob-eurosport
+plugin://plugin.video.p2p-streams/?url=acestream://0b8e82fc444b79da096174de7730e269ea9c4be6&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,eurosport-hd
+plugin://plugin.video.p2p-streams/?url=acestream://514c1a2ab319a2830ec21773299225e803373789&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,eurosport-2
+plugin://plugin.video.p2p-streams/?url=acestream://84734b1a61d8802bf17278a41a27d6b9b3c3870c&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,mob-eurosport-2
+plugin://plugin.video.p2p-streams/?url=acestream://c4f8a6c09a68889e0938b6b53ef892ef82ab8134&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,eurosport-2-north-east-hd
+plugin://plugin.video.p2p-streams/?url=acestream://8aa07a7bf45338d3bcfbca0f55779f6bf9bf5b52&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,extreme-sports
+plugin://plugin.video.p2p-streams/?url=acestream://7e8fa0b6bfd28aea46a16e421013d1f9add6e46c&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,mob-extreme-sports
+plugin://plugin.video.p2p-streams/?url=acestream://d23e05f5a1479c9b7d8e9948fbbe164447413a91&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,fast-and-fun-box-hd
+plugin://plugin.video.p2p-streams/?url=acestream://0e6f5efe17cf1c7eac932e09f29bcb91b5d89a07&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,hd-sport
+plugin://plugin.video.p2p-streams/?url=acestream://0b9a07da9d11f2d83b1fc2898a895d6100b114b5&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,nova-sport-bg
+plugin://plugin.video.p2p-streams/?url=acestream://4aa604c0a7a272011d0f7f46383893a30523754d&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,nsport-plus-hd
+plugin://plugin.video.p2p-streams/?url=acestream://0f19878397418b5a5f191e7b83e6babfeff298f8&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,canalplus-sport-hd poland
+plugin://plugin.video.p2p-streams/?url=acestream://6f945fb22550a6dec324eecab35fa79981424bb8&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,polsat-sport-hd
+plugin://plugin.video.p2p-streams/?url=acestream://16124dbf451c7709ff0d07b72dc9b8054540f24a&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,sky-sport-1 de
+plugin://plugin.video.p2p-streams/?url=acestream://3d6ce22d0578988eba1b2be05256d7c624a77e95&mode=1&name=acestream+VIASATMSGOL
+
+#EXTINF:-1,sport-1-cz
+plugin://plugin.video.p2p-streams/?url=acestream://019f6263a5b24f967f8aff4b1538d042046ff7b1&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,sport-5
+plugin://plugin.video.p2p-streams/?url=acestream://b30df18d7447f7cc0cccd665c4b08b7638a56be5&mode=1&name=acestream+VIASATMSGOL
+
+#EXTINF:-1,super-tennis-hd
+plugin://plugin.video.p2p-streams/?url=acestream://8e032287a84919fad5aa3ef2b47be8b28dbedacb&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,viasat-golf-hd
+plugin://plugin.video.p2p-streams/?url=acestream://cf1b4bae7b10598d4124c87d4d8e6dc1499aa755&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-hockey
+plugin://plugin.video.p2p-streams/?url=acestream://9d398260a5161c07ff79676c7489dd85bd252c1a&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-motor
+plugin://plugin.video.p2p-streams/?url=acestream://2c3507f8a920f2a0a4d367c316dee88540160615&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-sport
+plugin://plugin.video.p2p-streams/?url=acestream://c0fdfccc7415e0c7683106d38455a9e8131d75d3&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,mob-viasat-sport
+plugin://plugin.video.p2p-streams/?url=acestream://4e5336c8833d07525afa98e7b8c48ef59ae68cdf&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-sport-baltic
+plugin://plugin.video.p2p-streams/?url=acestream://9f672aadcf2bd5ce78dd4b7705ae913f06d6b95c&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-sport-hd
+plugin://plugin.video.p2p-streams/?url=acestream://e404f88d945249bb7046be1da0d79c51643eec81&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-sport-sverige
+plugin://plugin.video.p2p-streams/?url=acestream://10961ad876c229c3d842d418b7675655d02d3cf5&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-tv3-sport-1
+plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1,viasat-tv3-sport-2-dn
+plugin://plugin.video.p2p-streams/?url=acestream://f19c7697775b856ec130b52d586a369460ef97d5&mode=1&name=acestream+VIASATMSGOLF
