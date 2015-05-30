@@ -24,7 +24,7 @@ http://212.250.46.35:4252/bysid/9605
 #EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",bbtv 7 thai
 rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 #EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",bt sport 1 uk
-rtmpe://46.246.124.14:1935/live/ playpath=btsports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports1lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
+plugin://plugin.video.p2p-streams/?url=acestream://be3d2364098be07752ba6b200b087975e6bb2e09&mode=1&name=acestream+SKY SPORTS 1MS
 #EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",sport 1 ru
