@@ -1,68 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",[COLOR red]20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",itv4
-http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4528d04d365fbae2e534111b6496bcb9e168acf5a64efe4d75fcc988c3c5409ed1309c5aee842098a7e1941782c94003c987a27782bde98fd254187c5dc761e3b6ced6f2735319c8bed12fea04b2493918dcd9ddb2c983eaf6f2dc460aac3ee872494b22c73b14129afd7fa177d9972652c10cc3416242971191c58a4729395e3300fe7b6d6d317a06f5cc54f6953d70
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",irib 3 ir
-rtmp://edge4.live.irib.ir/etv3/irib3-3
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ntv ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",2+2 ukraina
-http://zhegal.com.ua/tv/mariupol?id=43
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",beIN FR 1
-http://195.154.227.38:1935/live/bein1frlsh/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ct sport cz
-http://212.79.96.134:8014
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",w9 fr
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ntv+futbol 1 ru
+EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",[COLOR red]18.00 ita VERONA - JUVENTUS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",ntv+futbol 1 ru
 http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ntv+futbol 1 ru
+#EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",ntv+futbol 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",espn HD la
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",espn la
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?byluca
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",fox sport arg
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",sic pt
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ntv tr
-http://yayin1.canlitv.com:1935/live/ntv/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ntv tr
-http://edge.ailetv.net/org11/ntvtr_me/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 europa.league.Final DNIPRO - SEVILLA narodowy stadion Warsaw ",ct sport cz
-http://81.201.52.159:8014
- 
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",[COLOR red]0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col)[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.30 c.lib INTERNACIONAL (Bra) - SANTA FE (Col) ",fox sport 2 arg
+#EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 18.00 ita VERONA - JUVENTUS ",fox sport 2 arg
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
  
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",[COLOR red]3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",trt spor HD tr
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",[COLOR red]18.30 eng.FAcup.Final ARSENAL - ASTON VILLA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",trt spor HD tr
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",trt spor tr_2
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",trt spor tr_2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",sport 1 ru
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",tv3 ie
+http://212.250.46.35:4252/bysid/9605
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",bbtv 7 thai
+rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",bt sport 1 uk
+rtmpe://46.246.124.14:1935/live/ playpath=btsports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports1lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.30 eng.FAcup.Final ARSENAL - ASTON VILLA ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 c.lib CRUZEIRO (Bra) - RIVER PLATE (Arg) ",fox sport arg
+ 
+#EXTINF:-1 group-title=" 20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG ",[COLOR red]20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG ",bt sport 2 uk
+rtmpe://46.246.124.14:1935/live/ playpath=btsports2lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports2lsh&vw=640&vh=360&domain=live..eu token=SECURET0KEN#yw%.?()@W
+#EXTINF:-1 group-title=" 20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG ",bbtv 7 thai
+rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1 group-title=" 20.00 ger.cup.Final BOR.DORTMUND - WOLFSBURG ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://c35dafc91da50ede14952b63c5d904861af33d11&mode=1&name=acestream+SKY SPORTS 1MS
+ 
+#EXTINF:-1 group-title=" 20.45 ita ATALANTA - MILAN ",[COLOR red]20.45 ita ATALANTA - MILAN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ita ATALANTA - MILAN ",ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ATALANTA - MILAN ",ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 ita ATALANTA - MILAN ",fox sport arg
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 group-title=" 20.45 ita ATALANTA - MILAN ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",[COLOR red]21.00 fra.cup.Final AUXERRE - PSG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",rai sport 1 it
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",france 2
+http://stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/.m3u8
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",tv5 fr
+http://edge.ailetv.net/org13/tv5mondeeurope_me/playlist.m3u8
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.00 fra.cup.Final AUXERRE - PSG ",eurosport ru_2
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 21.30 spa.cup.Final ATH.BILBAO - BARCELONA ",[COLOR red]21.30 spa.cup.Final ATH.BILBAO - BARCELONA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.30 spa.cup.Final ATH.BILBAO - BARCELONA ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 21.30 spa.cup.Final ATH.BILBAO - BARCELONA ",irib 3 ir
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+#EXTINF:-1 group-title=" 21.30 spa.cup.Final ATH.BILBAO - BARCELONA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.30 spa.cup.Final ATH.BILBAO - BARCELONA ",telekanal futbol ru
+http://tv.mnogo-tv.com/2/streaming/futbol/tvrec/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 23.10 arg BELGRANO - GIMNASIA LA PLATA ",[COLOR red]23.10 arg BELGRANO - GIMNASIA LA PLATA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.10 arg BELGRANO - GIMNASIA LA PLATA ",tv publica ar
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.10 arg BELGRANO - GIMNASIA LA PLATA ",c+liga de campeones es ace
+plugin://plugin.video.p2p-streams/?url=acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911&mode=1&name=acestream+SKY SPORTS 1MS
+ 
+#EXTINF:-1 group-title=" 23.30 bra CORITIBA - AVAI ",[COLOR red]23.30 bra CORITIBA - AVAI[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.30 bra CORITIBA - AVAI ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 1.30 arg UNION SANTA FE - GODOY CRUZ ",[COLOR red]1.30 arg UNION SANTA FE - GODOY CRUZ[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 1.30 arg UNION SANTA FE - GODOY CRUZ ",tv publica ar
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
