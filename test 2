@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR red] test[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[id]</link>
+<link>plugin://plugin.video.youtube/user/wroetoshaw=$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
