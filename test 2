@@ -6,7 +6,7 @@
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/user/wroetoshaw/featured</page>
+<page>https://www.youtube.com/user/wroetoshaw/videos</page>
 </regex>
 </item>
  
