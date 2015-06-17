@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>test</title>
-<link>plugin://plugin.video.youtube/playlist/PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR red] test[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/user/wroetoshaw/featured</page>
+</regex>
 </item>
  
