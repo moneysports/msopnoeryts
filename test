@@ -10,7 +10,7 @@
     <name>hgkjhgkjhgkhgkh</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://www.youtube.com/user/wroetoshaw/videos</externallink>
+<externallink>plugin://plugin.video.youtube/user/wroetoshaw/videos</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
