@@ -345,7 +345,7 @@
 
 <item>
 <title>SKY SPORTS NEWS</title>
-<link>rtmpe://46.246.124.87:1935/livedge playpath=sskysn pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<link>rtmp://178.18.31.54:443/liverepeater playpath=195258  swfUrl=http://bernardotv.club/player6.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=195258&width=620&height=490 token=deadsoon%%7</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
