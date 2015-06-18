@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>[COLOR red] test[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/user/wroetoshaw/videos</page>
-</regex>
-</item>
+
  
-<item>
-<title>test</title>
-<utube>PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM</utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
