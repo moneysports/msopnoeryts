@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+ 
+<item>
+<title>[COLOR red]** MOST RECENT VIDEO IS 1ST **[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=d08LdQMII50</link>
+</item>
+ 
+<item>
+<title>Minecraft | TREASURE ROOM TROUBLE!! | Custom Mod Adventure</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y0picCJwg6c</link>
+<thumbnail>http://img.youtube.com/vi/Y0picCJwg6c/hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi/Y0picCJwg6c/hqdefault.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>Minecraft | WORKING AT MCDONALDS!! | Order Up Custom Map</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dlCW5qC0T3s</link>
+<thumbnail>http://img.youtube.com/vi/dlCW5qC0T3s/hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi/dlCW5qC0T3s/hqdefault.jpg</fanart>
+</item>
+ 
+
+<item>
+<title>Minecraft | TINY LITTLE VILLAGERS!! | Diamond Dimensions Modded Survival #213</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2KzhH87w0Ng</link>
+<thumbnail>http://img.youtube.com/vi/2KzhH87w0Ng/hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi/2KzhH87w0Ng/hqdefault.jpg</fanart>
+</item>
+ 
+<item>
+<title>Minecraft | UNLUCKY BLOCKS!! | One Command Creation</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wWxXCySAHrQ</link>
+<thumbnail>http://img.youtube.com/vi/wWxXCySAHrQ/hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi/wWxXCySAHrQ/hqdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title></title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>http://img.youtube.com/vi//hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi//hqdefault.jpg</fanart>
+</item>
