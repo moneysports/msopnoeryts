@@ -29,7 +29,7 @@
  
 <item>
 <title>TEST</title>
-<link>plugin://plugin.video.youtube/playlist_id=PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM</link>
+<link>plugin://plugin.video.youtube/playlist_id=PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM/</link>
 <thumbnail>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</thumbnail>
 <fanart>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</fanart>
 </item>
