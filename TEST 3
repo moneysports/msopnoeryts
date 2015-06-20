@@ -28,8 +28,13 @@
 </item>
  
 <item>
-<title>TEST</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM</link>
-<thumbnail>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</thumbnail>
-<fanart>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</fanart>
+<title>Lauch youtube</title>
+
+<link>$doregex[showyoutube]</link>
+
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/user/wroetoshaw/&quot;)')</expres>
+<page></page>
+</regex>
 </item>
