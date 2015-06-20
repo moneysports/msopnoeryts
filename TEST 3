@@ -28,8 +28,8 @@
 </item>
  
 <item>
-<title></title>
-<link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail>http://img.youtube.com/vi//hqdefault.jpg</thumbnail>
-<fanart>http://img.youtube.com/vi//hqdefault.jpg</fanart>
+<title>TEST</title>
+<link>plugin://plugin.video.youtube/play/playlist_id=PLs8qi1AElNTGBuZHGY88AWFdWFSNu4YjM&video_id=d08LdQMII50</link>
+<thumbnail>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</thumbnail>
+<fanart>http://img.youtube.com/vi/d08LdQMII50/hqdefault.jpg</fanart>
 </item>
