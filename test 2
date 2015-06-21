@@ -6,7 +6,13 @@
     <name>EA SPORTS FIFA</name>
 <thumbnail>https://pbs.twimg.com/profile_images/603541395731816448/d6qszQyX.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>$doregex[showyoutube]</externallink>
+
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/user/wroetoshaw/&quot;)')</expres>
+<page></page>
+</regex>
 
 <fanart>http://web-vassets.ea.com/Assets/Resources/Image/Screenshots/FIFA14_NG_SP_low_shot_WM.JPG?cb=1366884243</fanart>
 <info>Official EA SPORTS account for the FIFA franchise. Follow us on:
