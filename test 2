@@ -3,6 +3,22 @@
 <channels>
  
 <channel>
+    <name>EA SPORTS FIFA</name>
+<thumbnail></thumbnail>
+<link></link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+
+<channels>
+ 
+<channel>
     <name>WROETOSHAW</name>
 <thumbnail>https://pbs.twimg.com/profile_images/440081653726072832/xLt9adOW.jpeg</thumbnail>
 <link>http://ignoreme</link>
