@@ -46,7 +46,7 @@ http://streaming-hub.com/tv/i/sfinfo_1@97408/index_1300_av-p.m3u8?sd=10&rebase=o
 #EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",[COLOR green]15.00 tennis WIMBLEDON - Mens Final[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
 #EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sportklub 2 sr
@@ -85,12 +85,12 @@ http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title=" 16.30 friendly LECHIA GDANSK - WOLFSBURG ",[COLOR green]16.30 friendly LECHIA GDANSK - WOLFSBURG[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 16.30 friendly LECHIA GDANSK - WOLFSBURG ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
  
 #EXTINF:-1 group-title=" 17.00 friendly WIENER - PSG ",[COLOR green]17.00 friendly WIENER - PSG[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 17.00 friendly WIENER - PSG ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
  
 #EXTINF:-1 group-title=" 17.35 Telecum Cup 3rd place ",[COLOR green]17.35 Telecum Cup 3rd place[/COLOR]
 http://streameo.altervista.org/forum/index.php
@@ -122,14 +122,14 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 #EXTINF:-1 group-title=" 21.00 mls NEW YORK CITY - TORONTO ",[COLOR green]21.00 mls NEW YORK CITY - TORONTO[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 21.00 mls NEW YORK CITY - TORONTO ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
 #EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",[COLOR green]21.00 bra FLAMENGO - CORINTHIANS[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",bt sport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",arena sport 3 sr
 http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
  
@@ -152,12 +152,12 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 #EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - PALMEIRAS ",[COLOR green]23.30 bra SPORT RECIFE - PALMEIRAS[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - PALMEIRAS ",digi sport 2 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
  
 #EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",[COLOR green]0.30 gold.cup TRINIDAD e TOBAGO - CUBA[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
  
@@ -173,6 +173,6 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 #EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",[COLOR green]3.00 gold.cup GUATEMALA - MEXICO[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
