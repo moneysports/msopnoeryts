@@ -1,178 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]23.00 arg ALDOSIVI - ROSARIO CENTRAL[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+ 
+#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",[COLOR red]1.00 gold.cup HAITI - HONDURAS[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+ 
+#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",[COLOR red]2.10 arg VELEZ SARSFIELD - TIGRE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+ 
+#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",[COLOR red]3.30 gold.cup PANAMA - USA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
 
-#EXTINF:-1 group-title=" 14.00 moto.gp GP GERMANIA ",[COLOR green]14.00 moto.gp GP GERMANIA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 14.00 moto.gp GP GERMANIA ",rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 moto.gp GP GERMANIA ",rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",[COLOR green]14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rai sport 1 it
-http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rai3 it
-http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rai3 it_2
-http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rsi la 1 ch
-http://streaming-hub.com/tv/i/rsila1_1@97472/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rtp2 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rtp2 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",france 2
-http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",ARD de
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",rtl lux
-http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",eurosport ru
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",eurosport ru_2
-http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
-#EXTINF:-1 group-title=" 14.45 cycling TOUR de FRANCE - etape 9 - crono squadre Vannes-Plumelec ",srf info ch
-http://streaming-hub.com/tv/i/sfinfo_1@97408/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",[COLOR green]15.00 tennis WIMBLEDON - Mens Final[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sportklub 2 sr
-http://balkanstream.com/stream/sportklub2hr/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",sportklub 3 sr
-http://balkanstream.com/stream/sportklub3hr/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",silk sport 2 ge
-http://188.93.94.133/silk_sport2/index.m3u8?token=my6ZI5MAYdq4Ec3UDz4CjSg1QotdI-_4uNadhd-6VzQqcTdi631GcyuMXb7B4n9VyAuBYjvy-6oXnw64pT3eA
-#EXTINF:-1 group-title=" 15.00 tennis WIMBLEDON - Mens Final ",silk sport 3 ge
-http://188.93.94.133/silk_sport/index.m3u8?token=my6ZI5MAYdq4Ec3UDz4CjSg1QotdI-_4uNadhd-6VzQqcTdi631GcyuMXb7B4n9VyAuBYjvy-6oXnw64pT3eA
- 
-#EXTINF:-1 group-title=" 15.15 friendly MOENCHENGLADBACH - HAMBURG (Telecom Cup) ",[COLOR green]15.15 friendly MOENCHENGLADBACH - HAMBURG (Telecom Cup)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 15.15 friendly MOENCHENGLADBACH - HAMBURG (Telecom Cup) ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 15.15 friendly MOENCHENGLADBACH - HAMBURG (Telecom Cup) ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 15.15 friendly MOENCHENGLADBACH - HAMBURG (Telecom Cup) ",sat 1 de
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 16.25 friendly B.MUNCHEN - AUGSBURG (Telecom Cup) ",[COLOR green]16.25 friendly B.MUNCHEN - AUGSBURG (Telecom Cup)[/COLOR]
-http://
-#EXTINF:-1 group-title=" 16.25 friendly B.MUNCHEN - AUGSBURG (Telecom Cup) ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 16.25 friendly B.MUNCHEN - AUGSBURG (Telecom Cup) ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 16.25 friendly B.MUNCHEN - AUGSBURG (Telecom Cup) ",sat 1 de
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 16.30 friendly LECHIA GDANSK - WOLFSBURG ",[COLOR green]16.30 friendly LECHIA GDANSK - WOLFSBURG[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 16.30 friendly LECHIA GDANSK - WOLFSBURG ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 17.00 friendly WIENER - PSG ",[COLOR green]17.00 friendly WIENER - PSG[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 17.00 friendly WIENER - PSG ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 17.35 Telecum Cup 3rd place ",[COLOR green]17.35 Telecum Cup 3rd place[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 17.35 Telecum Cup 3rd place ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 17.35 Telecum Cup 3rd place ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 17.35 Telecum Cup 3rd place ",sat 1 de
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 18.45 Telecom Cup Final ",[COLOR green]18.45 Telecom Cup Final[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 18.45 Telecom Cup Final ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 18.45 Telecom Cup Final ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 18.45 Telecom Cup Final ",sat 1 de
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 19.00 arg NUEVA CHICAGO - COLON SANTA FE ",[COLOR green]19.00 arg NUEVA CHICAGO - COLON SANTA FE[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 arg NUEVA CHICAGO - COLON SANTA FE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 19.00 arg NUEVA CHICAGO - COLON SANTA FE ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 19.00 arg NUEVA CHICAGO - COLON SANTA FE ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
-#EXTINF:-1 group-title=" 21.00 mls NEW YORK CITY - TORONTO ",[COLOR green]21.00 mls NEW YORK CITY - TORONTO[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 21.00 mls NEW YORK CITY - TORONTO ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
- 
-#EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",[COLOR green]21.00 bra FLAMENGO - CORINTHIANS[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",bt sport 2 uk
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 21.00 bra FLAMENGO - CORINTHIANS ",arena sport 3 sr
-http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
- 
-#EXTINF:-1 group-title=" 22.00 arg NEWELLS OLD BOYS - RACING CLUB ",[COLOR green]22.00 arg NEWELLS OLD BOYS - RACING CLUB[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 22.00 arg NEWELLS OLD BOYS - RACING CLUB ",telefe arg
-rtmp://live-edge01.telecentro.net.ar:1935/live/tlfhd-180
-#EXTINF:-1 group-title=" 22.00 arg NEWELLS OLD BOYS - RACING CLUB ",telefe arg_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
- 
-#EXTINF:-1 group-title=" 23.15 arg GODOY CRUZ - CRUCERO DEL NORTE ",[COLOR green]23.15 arg GODOY CRUZ - CRUCERO DEL NORTE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 23.15 arg GODOY CRUZ - CRUCERO DEL NORTE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.15 arg GODOY CRUZ - CRUCERO DEL NORTE ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.15 arg GODOY CRUZ - CRUCERO DEL NORTE ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
-#EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - PALMEIRAS ",[COLOR green]23.30 bra SPORT RECIFE - PALMEIRAS[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - PALMEIRAS ",digi sport 2 ro
-rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
- 
-#EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",[COLOR green]0.30 gold.cup TRINIDAD e TOBAGO - CUBA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.30 gold.cup TRINIDAD e TOBAGO - CUBA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
- 
-#EXTINF:-1 group-title=" 2.30 arg SARMIENTO - BOCA JUNIOR ",[COLOR green]2.30 arg SARMIENTO - BOCA JUNIOR[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 2.30 arg SARMIENTO - BOCA JUNIOR ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.30 arg SARMIENTO - BOCA JUNIOR ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.30 arg SARMIENTO - BOCA JUNIOR ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
-#EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",[COLOR green]3.00 gold.cup GUATEMALA - MEXICO[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 gold.cup GUATEMALA - MEXICO ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
