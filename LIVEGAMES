@@ -4,7 +4,7 @@
 http://weblinks.altervista.org/LSTV.htm
 
 
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR red]PGA TOUR GOLF[/COLOR]
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]PGA TOUR GOLF[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -13,7 +13,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f
 
 
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR yellow]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]22.00 arg ALDOSIVI - ROSARIO CENTRAL[/COLOR]
@@ -25,14 +25,14 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
  
-#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",[COLOR red]12.00 gold.cup HAITI - HONDURAS[/COLOR]
+#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",[COLOR yellow]12.00 gold.cup HAITI - HONDURAS[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
  
-#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",[COLOR red]1.10 arg VELEZ SARSFIELD - TIGRE[/COLOR]
+#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",[COLOR yellow]1.10 arg VELEZ SARSFIELD - TIGRE[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
@@ -41,7 +41,7 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
  
-#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",[COLOR red]2.30 gold.cup PANAMA - USA[/COLOR]
+#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",[COLOR yellow]2.30 gold.cup PANAMA - USA[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
