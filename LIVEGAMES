@@ -6,7 +6,7 @@ http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR red] PGA TOUR GOLF[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC GOLFS
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",SKY SPORTS 4
 plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f28832ddab7e&mode=1&name=acestream+SKY SPORTS 4MS
