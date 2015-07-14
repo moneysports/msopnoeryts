@@ -16,35 +16,92 @@ plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR yellow]22.00 arg ALDOSIVI - ROSARIO CENTRAL[/COLOR]
+#EXTINF:-1 group-title=" 17.00 friendly MILAN - LEGNANO ",[COLOR yelloe]16.00 friendly MILAN - LEGNANO[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 17.00 friendly MILAN - LEGNANO ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
  
-#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",[COLOR yellow]12.00 gold.cup HAITI - HONDURAS[/COLOR]
+#EXTINF:-1 group-title=" 17.00 friendly MONACO - QPR ",[COLOR yellow]16.00 friendly MONACO - QPR[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sport tv 1 pt
+#EXTINF:-1 group-title=" 17.00 friendly MONACO - QPR ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 1.00 gold.cup HAITI - HONDURAS ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
  
-#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",[COLOR yellow]1.10 arg VELEZ SARSFIELD - TIGRE[/COLOR]
+#EXTINF:-1 group-title=" 19.30 ch.lea MIDTJYLLAND - LINCOLN RED IMPS ",[COLOR yellow]18.30 ch.lea MIDTJYLLAND - LINCOLN RED IMPS[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg VELEZ SARSFIELD - TIGRE ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 19.30 ch.lea MIDTJYLLAND - LINCOLN RED IMPS ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a&mode=1&name=acestream+SKY SPORTS 4MS
  
-#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",[COLOR yellow]2.30 gold.cup PANAMA - USA[/COLOR]
+#EXTINF:-1 group-title=" 20.00 friendly SCHALKE 04 - UDINESE ",[COLOR yellow]19.00 friendly SCHALKE 04 - UDINESE[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",sport tv 1 pt
+#EXTINF:-1 group-title=" 20.00 friendly SCHALKE 04 - UDINESE ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.30 gold.cup PANAMA - USA ",sportklub 1 sr
+#EXTINF:-1 group-title=" 20.00 friendly SCHALKE 04 - UDINESE ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 20.00 ukr.SuperCup DYNAMO KYIV - SHAKHTAR DONETSK ",[COLOR yellow]19.00 ukr.SuperCup DYNAMO KYIV - SHAKHTAR DONETSK[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.00 ukr.SuperCup DYNAMO KYIV - SHAKHTAR DONETSK ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+ 
+#EXTINF:-1 group-title=" 20.00 ch.lea SKENDERBEU - CRUSADERS ",[COLOR yellow]19.00 ch.lea SKENDERBEU - CRUSADERS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.00 ch.lea SKENDERBEU - CRUSADERS ",supersport 2 al
+http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
+ 
+#EXTINF:-1 group-title=" 0.00 gold.cup JAMAICA - EL SALVADOR ",[COLOR yellow]23.00 gold.cup JAMAICA - EL SALVADOR[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 0.00 gold.cup JAMAICA - EL SALVADOR ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 0.00 gold.cup JAMAICA - EL SALVADOR ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+ 
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",[COLOR yellow]1.00 cop.Lib RIVER PLATE - GUARANI[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",sport 1 ru_opz 2
+http://yayinlar.tvizleyim.com/org13/sport1_me/playlist.m3u8
+#EXTINF:-1 group-title=" 2.00 cop.Lib RIVER PLATE - GUARANI ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 2.00 bra GREMIO - CIRICUMA ",[COLOR yellow]1.00 bra GREMIO - CIRICUMA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.00 bra GREMIO - CIRICUMA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 bra GREMIO - CIRICUMA ",arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 2.30 gold.cup CANADA - COSTARICA ",[COLOR yellow]1.30 gold.cup CANADA - COSTARICA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 2.30 gold.cup CANADA - COSTARICA ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 gold.cup CANADA - COSTARICA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+ 
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",[COLOR yellow]3.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",sport 1 ru_opz 2
+http://yayinlar.tvizleyim.com/org13/sport1_me/playlist.m3u8
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 4.30 Int.Cham.cup SAN JOSE EARTHQUAKES - CLUB AMERICA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
 
