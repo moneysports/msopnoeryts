@@ -16,7 +16,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 17.00 friendly MILAN - LEGNANO ",[COLOR yelloe]16.00 friendly MILAN - LEGNANO[/COLOR]
+#EXTINF:-1 group-title=" 17.00 friendly MILAN - LEGNANO ",[COLOR yellow]16.00 friendly MILAN - LEGNANO[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 17.00 friendly MILAN - LEGNANO ",sport tv 2 pt
 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
