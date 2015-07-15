@@ -20,6 +20,8 @@ http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]THE OPEN[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",BBC TW0
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",Sky Sports 4 ( ACE )
