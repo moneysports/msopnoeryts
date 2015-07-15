@@ -8,7 +8,7 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</externallink>
 <fanart></fanart>
-<info></info>
+<info>LATEST HIGHLIGHTS AND GOALS OF GAMES FROM AROUND THE WORLD</info>
 </channel>
 </channels>
 
@@ -22,8 +22,8 @@
     <name>FULL GAMES</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
-<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/full%20games</externallink>
+<fanart>FULL MATCHES</fanart>
 <info></info>
 </channel>
 </channels> 
