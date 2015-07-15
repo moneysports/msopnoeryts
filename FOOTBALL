@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
-<item>
-<title>FULL GAMES</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
  
 <item>
 <title>HIGHLIGHTS AND GOALS</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://survivoroz.files.wordpress.com/2014/09/90-minute.png</thumbnail>
 <fanart></fanart>
 </item>
  
+ 
+ 
+ 
+<item>
+<title>FULL GAMES</title>
+<link></link>
+<thumbnail>https://survivoroz.files.wordpress.com/2014/09/90-minute.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+
