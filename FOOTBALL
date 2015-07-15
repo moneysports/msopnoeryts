@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
  
+<channels>
+ 
+<channel>
+    <name>HIGHLIGHTS AND GOALS</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+
+<channels>
+
+<channel>
+    <name></name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <item>
 <title>HIGHLIGHTS AND GOALS</title>
 <link>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</link>
