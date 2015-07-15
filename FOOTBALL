@@ -19,10 +19,10 @@
 <channels>
 
 <channel>
-    <name></name>
+    <name>FULL GAMES</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -37,21 +37,3 @@
  
  
  
-<item>
-<title>HIGHLIGHTS AND GOALS</title>
-<link>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</link>
-<thumbnail>https://survivoroz.files.wordpress.com/2014/09/90-minute.png</thumbnail>
-<fanart>https://0.s3.envato.com/files/82199177/football_soccer_highlights_cinema4d_preview.jpg</fanart>
-</item>
- 
- 
- 
- 
-<item>
-<title>FULL GAMES</title>
-<link>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/full%20games</link>
-<thumbnail>https://survivoroz.files.wordpress.com/2014/09/90-minute.png</thumbnail>
-<fanart>https://0.s3.envato.com/files/82199177/football_soccer_highlights_cinema4d_preview.jpg</fanart>
-</item>
- 
-
