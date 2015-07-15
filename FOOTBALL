@@ -4,7 +4,7 @@
  
 <channel>
     <name>HIGHLIGHTS AND GOALS</name>
-<thumbnail></thumbnail>
+<thumbnail>http://a604.phobos.apple.com/us/r1000/119/Purple/v4/e3/c2/cd/e3c2cdeb-aca0-a6f4-c1b8-7d0ecc01de6a/mzl.bufhpwxb.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/football%20highlights</externallink>
 <fanart></fanart>
@@ -20,11 +20,11 @@
 
 <channel>
     <name>FULL GAMES</name>
-<thumbnail></thumbnail>
+<thumbnail>https://survivoroz.files.wordpress.com/2014/09/90-minute.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/full%20games</externallink>
-<fanart>FULL MATCHES</fanart>
-<info></info>
+<fanart></fanart>
+<info>FULL MATCHES</info>
 </channel>
 </channels> 
  
