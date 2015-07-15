@@ -1,14 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE CRICKET*******[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+
+
+#EXTINF:-1 group-title=" ASHES CRICKET ",[COLOR yellow]ASHES CRICKET[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" ASHES CRIKET ",SKY SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" ASHES CRICKET ",Sky Sports 2 ( ACE )
+plugin://plugin.video.p2p-streams/?url=acestream://fe53ba46ab012b202f9f6e61557151bc1bc59cfd&mode=1&name=acestream+SKY SPORTS 4MS
+
+
+
+
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE GOLF*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
 
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]PGA TOUR GOLF[/COLOR]
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]THE OPEN[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",Sky Sports 4
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",Sky Sports 4 ( ACE )
 plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f28832ddab7e&mode=1&name=acestream+SKY SPORTS 4MS
 
 
