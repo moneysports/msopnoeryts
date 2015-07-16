@@ -32,50 +32,42 @@ plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 19.30 friendly LYON - PSV EINDHOVEN ",[COLOR yellow]18.30 friendly LYON - PSV EINDHOVEN[/COLOR]
+#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",[COLOR yellow]17.00 eur.league RANDERS - ELFSBORG[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.30 friendly LYON - PSV EINDHOVEN ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a&mode=1&name=acestream+SKY SPORTS 4MS
  
-#EXTINF:-1 group-title=" 20.00 friendly BASEL - B.LEVERKUSEN ",[COLOR yellow]19.00 friendly BASEL - B.LEVERKUSEN[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.00 friendly BASEL - B.LEVERKUSEN ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.00 friendly BASEL - B.LEVERKUSEN ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 0.00 gold.cup CUBA - GUATEMALA ",[COLOR yellow]23.00 gold.cup CUBA - GUATEMALA[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 0.00 gold.cup CUBA - GUATEMALA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.00 gold.cup CUBA - GUATEMALA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 0.00 gold.cup CUBA - GUATEMALA ",bt sport 2 uk
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
- 
-#EXTINF:-1 group-title=" 2.30 gold.cup MEXICO - TRINIDAD e TOBAGO ",[COLOR yellow]1.30 gold.cup MEXICO - TRINIDAD e TOBAGO[/COLOR]
+#EXTINF:-1 group-title=" 18.00 eur.league SHAKHTYOR SOLIGORSK - WAC ",[COLOR yellow]17.00 eur.league SHAKHTYOR SOLIGORSK - WAC[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.30 gold.cup MEXICO - TRINIDAD e TOBAGO ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.30 gold.cup MEXICO - TRINIDAD e TOBAGO ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+#EXTINF:-1 group-title=" 18.00 eur.league SHAKHTYOR SOLIGORSK - WAC ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",[COLOR yellow]2.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex)[/COLOR]
+#EXTINF:-1 group-title=" 19.00 eur.league KOPER - HAJDUK SPLIT ",[COLOR yellow]18.00 eur.league KOPER - HAJDUK SPLIT[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",trt spor HD tr
+#EXTINF:-1 group-title=" 19.00 eur.league KOPER - HAJDUK SPLIT ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=" 19.00 eur.league KOPER - HAJDUK SPLIT ",hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 20.00 eur.league TRABZONSPOR - DIFFERDANGE 03 ",[COLOR yellow]19.00 eur.league TRABZONSPOR - DIFFERDANGE 03[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.00 eur.league TRABZONSPOR - DIFFERDANGE 03 ",trt spor HD tr
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",trt spor tr_2
+#EXTINF:-1 group-title=" 20.00 eur.league TRABZONSPOR - DIFFERDANGE 03 ",trt spor tr_2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 cop.lib INTERNACIONAL (Bra) - TIGRES (Mex) ",arena sport 1 sr
-http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
  
-#EXTINF:-1 group-title=" 3.00 bra.cup NAUTICO - FLAMENGO (1-1) ",[COLOR yellow]2.00 bra.cup NAUTICO - FLAMENGO (1-1)[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 bra.cup NAUTICO - FLAMENGO (1-1) ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 bra.cup NAUTICO - FLAMENGO (1-1) ",arena sport 3 sr
+#EXTINF:-1 group-title=" 20.30 bel.SuperCup GENT - CLUB BRUGGE ",[COLOR yellow]19.30 bel.SuperCup GENT - CLUB BRUGGE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.30 bel.SuperCup GENT - CLUB BRUGGE ",arena sport 3 sr
 http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 20.30 bel.SuperCup GENT - CLUB BRUGGE ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.30 bel.SuperCup GENT - CLUB BRUGGE ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",[COLOR yellow]20.00 eur.league RIJEKA - ABERDEEN[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
