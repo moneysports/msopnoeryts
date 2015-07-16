@@ -41,9 +41,4 @@ http://star7arab.zapto.org:8082/TV4011
  
 
  
-#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",[COLOR yellow]20.00 eur.league RIJEKA - ABERDEEN[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 21.00 eur.league RIJEKA - ABERDEEN ",hrt 2 hr_2
-http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
+
