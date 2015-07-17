@@ -43,6 +43,57 @@ rtmp://185.82.215.47:3579/vod/ playpath=sombra1?e=1437121633&st=jojDhTKLnVzZVqeg
 #EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",bein fr 1
 plugin://plugin.video.p2p-streams/?url=acestream://1cae6019fd4a93f6e67a139864055100e9d1956a&mode=1&name=acestream+SKY SPORTS 4MS
 
+#EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",[COLOR yellow]17.00 den NORDSYAELLAND - SONDERJYSKE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a&mode=1&name=acestream+SKY SPORTS 4MS
 
+ 
+#EXTINF:-1 group-title=" 19.00 friendly MONACO - PSV ",[COLOR yellow]18.00 friendly MONACO - PSV[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 friendly MONACO - PSV ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 20.00 friendly BOCHUM - BOR.DORTMUND ",[COLOR yellow]19.00 friendly BOCHUM - BOR.DORTMUND[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.00 friendly BOCHUM - BOR.DORTMUND ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 2.10 arg SAN LORENZO - ARSENAL S. ",[COLOR yellow]1.10 arg SAN LORENZO - ARSENAL S.[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.10 arg SAN LORENZO - ARSENAL S. ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",[COLOR yellow]04.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD.[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",supersport 2 al
+http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+ 
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",[COLOR yellow]10.00 Int.Champ.cup REAL MADRID - ROMA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",setanta eurasia
+http://80.77.52.6:3917/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sky sports 4 uk
+rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
  
 
