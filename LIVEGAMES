@@ -35,7 +35,7 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]UFC FIGHT NIGHT 72[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",FOX SPORTS 1
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896 
+http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/3964k/i1mF0Zyb9FS/143724/segment_143724911.ts
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",BT SPORTS 2 ( ACE )
 plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+SKY SPORTS 4MS
 
