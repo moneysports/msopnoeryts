@@ -9,7 +9,7 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" ASHES CRIKET ",SKY SPORTS 2
 rtmp://80.82.64.140:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1 group-title=" ASHES CRICKET ",Sky Sports 2 ( ACE )
-plugin://plugin.video.p2p-streams/?url=acestream://fe53ba46ab012b202f9f6e61557151bc1bc59cfd&mode=1&name=acestream+SKY SPORTS 4MS
+plugin://plugin.video.p2p-streams/?url= acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SKY SPORTS 4MS
 
 
 
@@ -24,8 +24,7 @@ http://weblinks.altervista.org/LSTV.htm
 http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",Sky Sports 4 ( ACE )
-plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f28832ddab7e&mode=1&name=acestream+SKY SPORTS 4MS
+
 
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE UFC*******[/COLOR]
@@ -38,8 +37,8 @@ http://weblinks.altervista.org/LSTV.htm
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896 |X-Forwarded-For=66.171.228.102
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",BT SPORTS 2 ( ACE )
 plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+SKY SPORTS 4MS
-
-
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",BT SPORTS 2 
+http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/142.ts
 
 
 
