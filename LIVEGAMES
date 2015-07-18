@@ -28,7 +28,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f28832ddab7e&mode=1&name=acestream+SKY SPORTS 4MS
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE BOXING*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
+
 
 
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]20 00 PRICE - TEPER[/COLOR]
@@ -40,68 +40,110 @@ rtmp://80.82.70.106:443/liverepeater playpath=18 pageUrl=http://popeoftheplayers
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",[COLOR yellow]09.45 BRISBANE ROAR - LIVERPOOL FC[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",arena sport 1
-http://balkanstream.com/stream/arenasport1hr/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",bein sport 11 
-http://star7arab.zapto.org:8082/TV4011
-#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",lfc tv ( nesn tv ) live
-rtmp://185.82.215.47:3579/vod/ playpath=sombra1?e=1437121633&st=jojDhTKLnVzZVqegRuFEAw136445  swfUrl=http://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=http://winter-clothes.eu/ho3.php?channel=sombra1&crn=342786538.4146571
-#EXTINF:-1 group-title=" 18.00 eur.league RANDERS - ELFSBORG ",bein fr 1
-plugin://plugin.video.p2p-streams/?url=acestream://1cae6019fd4a93f6e67a139864055100e9d1956a&mode=1&name=acestream+SKY SPORTS 4MS
-
-#EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",[COLOR yellow]17.00 den NORDSYAELLAND - SONDERJYSKE[/COLOR]
+#EXTINF:-1 group-title=" 19.00 arg OLIMPO BAHIA BLANCA - ALDOSIVI ",[COLOR yellow]18.00 arg OLIMPO BAHIA BLANCA - ALDOSIVI[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",tv3 sport 1 ace
-plugin://plugin.video.p2p-streams/?url=acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a&mode=1&name=acestream+SKY SPORTS 4MS
-
+#EXTINF:-1 group-title=" 19.00 arg OLIMPO BAHIA BLANCA - ALDOSIVI ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 19.00 arg OLIMPO BAHIA BLANCA - ALDOSIVI ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 19.00 arg OLIMPO BAHIA BLANCA - ALDOSIVI ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
  
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - PSV ",[COLOR yellow]18.00 friendly MONACO - PSV[/COLOR]
+#EXTINF:-1 group-title=" 20.00 swi ZURICH - YOUNG BOYS ",[COLOR yellow]19.00 swi ZURICH - YOUNG BOYS[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - PSV ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.00 swi ZURICH - YOUNG BOYS ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 20.00 swi ZURICH - YOUNG BOYS ",bt sport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
-#EXTINF:-1 group-title=" 20.00 friendly BOCHUM - BOR.DORTMUND ",[COLOR yellow]19.00 friendly BOCHUM - BOR.DORTMUND[/COLOR]
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",[COLOR yellow]20.10 arg BOCA JUNIORS - QUILMES[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.00 friendly BOCHUM - BOR.DORTMUND ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 21.10 arg BOCA JUNIORS - QUILMES ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
  
-#EXTINF:-1 group-title=" 2.10 arg SAN LORENZO - ARSENAL S. ",[COLOR yellow]1.10 arg SAN LORENZO - ARSENAL S.[/COLOR]
+#EXTINF:-1 group-title=" 22.00 mls TORONTO FC - PHILADELPHIA U. ",[COLOR yellow]21.00 mls TORONTO FC - PHILADELPHIA U.[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.10 arg SAN LORENZO - ARSENAL S. ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 22.00 mls TORONTO FC - PHILADELPHIA U. ",eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 22.00 mls TORONTO FC - PHILADELPHIA U. ",eurosport 2 ru_2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
  
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",[COLOR yellow]04.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD.[/COLOR]
+#EXTINF:-1 group-title=" 23.00 gold.cup.QuarterFinal USA - CUBA ",[COLOR yellow]22.00 gold.cup.QuarterFinal USA - CUBA[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",supersport 2 al
-http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",arena sport 1 sr
-http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 5.00 Int.Champ.cup CLUB AMERICA - MANCHESTER UTD. ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 23.00 gold.cup.QuarterFinal USA - CUBA ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.00 gold.cup.QuarterFinal USA - CUBA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
  
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",[COLOR yellow]10.00 Int.Champ.cup REAL MADRID - ROMA[/COLOR]
+#EXTINF:-1 group-title=" 23.30 bra FLAMENGO - GREMIO ",[COLOR yellow]22.30 bra FLAMENGO - GREMIO[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport tv 1 pt
+#EXTINF:-1 group-title=" 23.30 bra FLAMENGO - GREMIO ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.30 bra FLAMENGO - GREMIO ",arena sport 2 sr
+http://balkanstream.com/stream/arenasport2sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",[COLOR yellow]22.30 arg ATL.RAFAELA - RIVER PLATE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sport 1 ru
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.30 arg ATL.RAFAELA - RIVER PLATE ",arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 1.10 arg RACING CLUB - SARMIENTO ",[COLOR yellow]00.10 arg RACING CLUB - SARMIENTO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 1.10 arg RACING CLUB - SARMIENTO ",telefe arg
+rtmp://live-edge01.telecentro.net.ar:1935/live/tlfhd-180
+#EXTINF:-1 group-title=" 1.10 arg RACING CLUB - SARMIENTO ",telefe arg_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 1.30 mls NEW ENGLAND - NEW YORK CITY ",[COLOR yellow]00.30 mls NEW ENGLAND - NEW YORK CITY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 1.30 mls NEW ENGLAND - NEW YORK CITY ",sky sports 5 uk
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 1.30 mls ORLANDO CITY - N.Y. RED BULLS ",[COLOR yellow]00.30 mls ORLANDO CITY - N.Y. RED BULLS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 1.30 mls ORLANDO CITY - N.Y. RED BULLS ",eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 1.30 mls ORLANDO CITY - N.Y. RED BULLS ",eurosport 2 ru_2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 2.00 gold.cup.QuarterFinal HAITI - JAMAICA ",[COLOR yellow]1.00 gold.cup.QuarterFinal HAITI - JAMAICA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 2.00 gold.cup.QuarterFinal HAITI - JAMAICA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 gold.cup.QuarterFinal HAITI - JAMAICA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.00 gold.cup.QuarterFinal HAITI - JAMAICA ",bt sport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",[COLOR yellow]1.30 Int.Champ.cup BENFICA - PSG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",supersport 2 al
-http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",arena sport 1 sr
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",arena sport 1 sr
 http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",setanta eurasia
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",setanta eurasia
 http://80.77.52.6:3917/udp/230.0.4.1:12345
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",sky sports 4 uk
-rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 11.00 Int.Champ.cup REAL MADRID - ROMA ",turkmen sport
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup BENFICA - PSG ",turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
  
 
