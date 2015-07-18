@@ -27,7 +27,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",Sky Sports 4 ( ACE )
 plugin://plugin.video.p2p-streams/?url=acestream://0fcc5a344532a041edc6a00d9ba3f28832ddab7e&mode=1&name=acestream+SKY SPORTS 4MS
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE BOXING*******[/COLOR]
+
 
 
 
