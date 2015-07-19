@@ -32,7 +32,7 @@ http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]UK BRANDSHATCH[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",eurosport 2 ru
+#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",eurosport 2 ru ( DUEL AUDIO ) RUS ENG
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
 #EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",eurosport 2 UK
 rtmp://80.82.78.39:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
