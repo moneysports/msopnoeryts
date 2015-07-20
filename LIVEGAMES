@@ -26,107 +26,12 @@ http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_o
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE TENNIS*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
 
-
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]DAVIS CUP[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",BBC TW0
-http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
-
-
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE SUPERBIKES*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-
-
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]UK BRANDSHATCH[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",eurosport 2 ru ( DUEL AUDIO ) RUS ENG
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",eurosport 2 UK
-rtmp://80.82.78.39:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",QUEST
-http://xtv.satarabia.com:80/live/testy3401/testy3401/13.ts
-
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE WWE PPV*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-
-
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]WWE BATTLEGROUND PPV[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",WWE NETWORK
-rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 14.25 e 17.25 superbike UK - BRANDS HATCH gara 1 e 2 ",WWE NETWORK
-rtmp://77.50.145.30/live/rtplive
 
 
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 15.00 friendly MOENCHENGLADBACH - STANDARD LIEGE ",[COLOR yellow]14.00 friendly MOENCHENGLADBACH - STANDARD LIEGE[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 15.00 friendly MOENCHENGLADBACH - STANDARD LIEGE ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 17.30 friendly MALAGA - FREIBURG ",[COLOR yellow]16.30 friendly MALAGA - FREIBURG[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 17.30 friendly MALAGA - FREIBURG ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 18.00 den AGF - BRONDBY ",[COLOR yellow]17.00 den AGF - BRONDBY[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 18.00 den AGF - BRONDBY ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
- 
-#EXTINF:-1 group-title=" 21.00 bra PALMEIRAS - SANTOS ",[COLOR yellow]20.00 bra PALMEIRAS - SANTOS[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.00 bra PALMEIRAS - SANTOS ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.00 bra PALMEIRAS - SANTOS ",arena sport 4 sr
-http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
- 
-#EXTINF:-1 group-title=" 21.00 arg TIGRE - NEWELLS OLD BOYS ",[COLOR yellow]20.00 arg TIGRE - NEWELLS OLD BOYS[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 21.00 arg TIGRE - NEWELLS OLD BOYS ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 21.00 arg TIGRE - NEWELLS OLD BOYS ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 21.00 arg TIGRE - NEWELLS OLD BOYS ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
-#EXTINF:-1 group-title=" 22.30 gold.cup TRINIDAD & TOBAGO - PANAMA ",[COLOR yellow]0.30 gold.cup TRINIDAD & TOBAGO - PANAMA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 22.30 gold.cup TRINIDAD & TOBAGO - PANAMA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 22.30 gold.cup TRINIDAD & TOBAGO - PANAMA ",bt sport 2 uk
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
- 
-#EXTINF:-1 group-title=" 23.15 arg ROSARIO CENTRAL - VELEZ SARSFIELD ",[COLOR yellow]22.15 arg ROSARIO CENTRAL - VELEZ SARSFIELD[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 23.15 arg ROSARIO CENTRAL - VELEZ SARSFIELD ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.15 arg ROSARIO CENTRAL - VELEZ SARSFIELD ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.15 arg ROSARIO CENTRAL - VELEZ SARSFIELD ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
-#EXTINF:-1 group-title=" 1.30 gold.cup MEXICO - COSTARICA ",[COLOR yellow]0.30 gold.cup MEXICO - COSTARICA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 1.30 gold.cup MEXICO - COSTARICA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 1.30 gold.cup MEXICO - COSTARICA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 1.30 gold.cup MEXICO - COSTARICA ",bt sport 2 uk
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
- 
-#EXTINF:-1 group-title=" 2.30 arg TEMPERLEY - INDEPENDIENTE ",[COLOR yellow]1.30 arg TEMPERLEY - INDEPENDIENTE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.30 arg TEMPERLEY - INDEPENDIENTE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.30 arg TEMPERLEY - INDEPENDIENTE ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.30 arg TEMPERLEY - INDEPENDIENTE ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
 
