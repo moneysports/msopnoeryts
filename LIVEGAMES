@@ -57,8 +57,7 @@ rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to
 http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",sky sports 1 uk
 rtmp://80.82.70.106:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",fox sports 1 us
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+
 
  
 #EXTINF:-1 group-title=" 14.30 ch.league DILA GORI - PARTIZAN BELGRADE ",[COLOR yellow]13.30 ch.league DILA GORI - PARTIZAN BELGRADE[/COLOR]
