@@ -14,18 +14,16 @@ plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e97728
 
 
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE GOLF*******[/COLOR]
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******GREYHOUNDS*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
 
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]THE OPEN[/COLOR]
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",[COLOR yellow]19.00 GREYHOUND RACING SELECT STAKES[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",BBC ONE
-http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
-#EXTINF:-1 group-title=" PGA TOUR GOLF ",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",sky sports 4 
+rtmp://80.82.78.85:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" PGA TOUR GOLF ",sky sports 4 ( ace )
+plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+SKY SPORTS 4MS
 
 
 
