@@ -48,7 +48,7 @@ rtmp://80.82.70.106:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers
 #EXTINF:-1 group-title=" 14.30 ch.league DILA GORI - PARTIZAN BELGRADE ",[COLOR yellow]13.30 ch.league DILA GORI - PARTIZAN BELGRADE[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 14.30 ch.league DILA GORI - PARTIZAN BELGRADE ",1 tv georgia
-rtmp://edge01-03.nl.myvideo.ge/dvrh264/gpb/mp4:gpb swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+rtmp://185.82.215.46:3579/vod/ playpath=bronca7?e=1437483410&st=vHaljsQDu90PGELfOtU0gQ67136  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://www.greatvideos.eu/ho2.php?channel=bronca7&crn=460471124.202013
  
 #EXTINF:-1 group-title=" 18.00 eur.lea ELGSBORG - RANDERS ",[COLOR yellow]17.00 eur.lea ELGSBORG - RANDERS[/COLOR]
 http://streameo.altervista.org/forum/index.php
