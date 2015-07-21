@@ -32,20 +32,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f
 http://weblinks.altervista.org/LSTV.htm
 
 
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",[COLOR yellow]11.00 Int.Champ.cup ROMA - MANCHESTER CITY[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sky sports 1 uk
-rtmp://80.82.70.106:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",fox sports 1 us
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+
 
 #EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",[COLOR yellow]13.00 friendly BAYERN MUNCHEN - INTER[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
