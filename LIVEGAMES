@@ -22,98 +22,18 @@ plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e97728
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 18.00 friendly HERTHA BERLIN - FULHAM ",[COLOR yellow]17.00 friendly HERTHA BERLIN - FULHAM[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.00 friendly HERTHA BERLIN - FULHAM ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",[COLOR yellow]19.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - MAINZ 05 ",[COLOR yellow]18.00 friendly MONACO - MAINZ 05[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",[COLOR yellow]19.45 eur.lea ABERDEEN - RIJEKA (3-0)[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - MAINZ 05 ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",[COLOR yellow]19.00 ch.lea FOLA ESCH - DINAMO ZAGREB[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",hrt 2 hr
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",hrt 2 hr
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",hrt 2 hr_2
-http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
- 
-#EXTINF:-1 group-title=" 20.00 friendly KOLN - ESPANYOL ",[COLOR yellow]19.00 friendly KOLN - ESPANYOL[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.00 friendly KOLN - ESPANYOL ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 20.30 friendly CELTA VIGO - GALATASARAY ",[COLOR yellow]19.30 friendly CELTA VIGO - GALATASARAY[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 friendly CELTA VIGO - GALATASARAY ",tv galicia es
-rtmp://media3.crtvg.es:80/live/ playpath=tvge_2 swfUrl=http://www.crtvg.es/flowplayer3/flowplayer.rtmp-3.2.8.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa live=1
- 
-#EXTINF:-1 group-title=" 20.45 ch.lea DUNDALK - BATE BORISOV ",[COLOR yellow]19.45 ch.lea DUNDALK - BATE BORISOV[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 ch.lea DUNDALK - BATE BORISOV ",rte 2 irl
-http://212.250.46.35:4252/bysid/9602
- 
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",[COLOR yellow]20.15 ch.lea STJARNAN - CELTIC (0-2)[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",bt sport 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",bt sport 1 uk ( ace )
-plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+SKY SPORTS 4MS
- 
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",[COLOR yellow]23.00 gold.cup.Semifinal USA - JAMAICA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",bt sport 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",bt sport 1 uk ( ace )
-plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+SKY SPORTS 4MS
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",fox sports 1 us
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",hrt 2 hr_2
 
- 
-#EXTINF:-1 group-title=" 0.30 bra.cup BAHIA - PAYSANDU ",[COLOR yellow]23.30 bra.cup BAHIA - PAYSANDU[/COLOR]
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",[COLOR yellow]19.30 eur.lea WEST HAM UTD - BIRKIRKARA FC[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 0.30 bra.cup BAHIA - PAYSANDU ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",[COLOR yellow]1.00 Int.Cham.cup N.Y.RED BULLS - CHELSEA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",fox sports 1 us
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-
- 
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",[COLOR yellow]2.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
- 
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",[COLOR yellow]2.00 gold.cup.Semifinal PANAMA - MEXICO[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",bt sport 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",bt sport 1 uk ( ace )
-plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+SKY SPORTS 4MS
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",fox sports 2 us
-http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",orf 1 at
+rtmp://185.82.215.45:3579/vod/ playpath=marinho22?e=1437674686&st=0B3-8DruaH8q9tsSRKrh9Q485987  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://www.greatvideos.eu/ho1.php?channel=marinho22&crn=805251799.3375659
