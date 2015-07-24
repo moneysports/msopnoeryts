@@ -39,14 +39,11 @@ rtmp://217.174.227.20/webtv/ch004_sd
 #EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",foxsport 1 us
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",[COLOR yellow]13.45 friendley LIVERPOOL - MARLAYSIA XI[/COLOR]
+#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MALAYSIA XI ",[COLOR yellow]13.45 friendley LIVERPOOL - MARLAYSIA XI[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",lfc tv
 rtmp://137.63.71.18:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",bein 4
-rtmp://rtmp.ultracast.me/live?55b1f0bd0b8ff/ playpath=4beinI5R4T  swfUrl=http://ultracast.me/js/jwplayer.flash.swf  pageUrl=http://ultracast.me/player.php?width=675&height=450&id=4&autoplay=true
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",bein fr
-rtmp://185.39.11.68:1735/vod/?token=play@143772521203345 playpath=foot18_6yw5gbn  swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf  pageUrl=http://www.playerhd1.pw/embed.php?c=1019&width=640&height=360&autostart=true&tk1=WJfV0P8rRdrPs9xpn56qBuz88qAu88KHI3Tdfpap3SKeETa347DgF62pSzSM%2FLGh0viEwmopjCOcLqqy4yB9lw%3D%3D&tk2=oPtZw9D%2FuRSCBgG8nPn4lpZMUC5JOCvVzIxlP8HRQA8%3D&tk3=s1vGwq4QSfo25ZwvGGNBRd6bi%2Fh%2BWEfIXSLERkG52AQ%3D
+
 
 
 
