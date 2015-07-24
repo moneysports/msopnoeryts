@@ -39,7 +39,7 @@ rtmp://217.174.227.20/webtv/ch004_sd
 #EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",foxsport 1 us
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MALAYSIA XI ",[COLOR yellow]13.45 friendley LIVERPOOL - MARLAYSIA XI[/COLOR]
+#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MALAYSIA XI ",[COLOR yellow]13.45 friendley LIVERPOOL - MALAYSIA XI[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",lfc tv
 rtmp://137.63.71.18:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
