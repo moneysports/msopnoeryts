@@ -22,79 +22,187 @@ plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e97728
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",[COLOR yellow]11.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID[/COLOR]
+#EXTINF:-1 group-title=" 14.00 Int.Cham.cup MILAN - INTER ",[COLOR yellow]13.00 Int.Cham.cup MILAN - INTER[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",sport tv 1 pt
+#EXTINF:-1 group-title=" 14.00 Int.Cham.cup MILAN - INTER ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",sport 1 de
+#EXTINF:-1 group-title=" 14.00 Int.Cham.cup MILAN - INTER ",sport 1 de
 http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",sport 1 ru
+#EXTINF:-1 group-title=" 14.00 Int.Cham.cup MILAN - INTER ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",sky sports 1 uk
-rtmp://80.82.78.39:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 12.00 Int.Cham.cup MANCHESTER CITY - REAL MADRID ",foxsport 1 us
+#EXTINF:-1 group-title=" 14.00 Int.Cham.cup MILAN - INTER ",fox sports 1
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MALAYSIA XI ",[COLOR yellow]13.45 friendley LIVERPOOL - MALAYSIA XI[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",lfc tv
-rtmp://185.82.215.46:3579/vod/ playpath=684731263?e=1437741108&st=eJsJkFuXMKO6FUYPlNzwww182705  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://www.greatvideos.eu/ho2.php?channel=684731263&crn=711064826.6971111
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",lfc tv
-rtmp://31.7.56.254:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=14r3v56564k5k4q305z4n244z294u2u28424w2u2w2t223f4&adx=&stream=64v2e4k5d464u2u2e464w2j5u2j543n23465j4t3p294o4550535t22433y234y2x2p2t274y2z32363y3p285u5657464j455w4i2k4j4v5k474n33574a414p4h4z33456t226c4n424r2p2z294b434h5233314y2k5b4a4j5u24494j5s244v264338444d4y2z264b494m56434t2y3s2p224r2p2o2&sooor=MQ==&str=is&ok=&cat=1&link=1&idom=www.ifeed2all.eu token=%ZZri(nKa@#Z
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",arena sport 1
-rtmp://195.154.204.10:80/liverepeater playpath=130750  swfUrl=http://cdn.goodcast.co/players.swf  pageUrl=http://deltatv.pw/stream.php?id=130750&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=" 13.45 friendley LIVERPOOL - MARLAYSIA XI ",live sport
-rtmp://185.82.215.45:3579/vod/ playpath=ponto1?e=1437739309&st=aGtNgj0gQV65q06klJQaGQ126690  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://www.greatvideos.eu/ho1.php?channel=ponto1&crn=511031053.96032333
-
-
-
-
-
-#EXTINF:-1 group-title=" 18.00 den HOBRO - AAB AALBORG ",[COLOR yellow]17.00 den HOBRO - AAB AALBORG[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.00 den HOBRO - AAB AALBORG ",tv3 sport 1 ace
-acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a
  
-#EXTINF:-1 group-title=" 19.00 friendly MOENCHENGLADBACH - PORTO ",[COLOR yellow]18.00 friendly MOENCHENGLADBACH - PORTO[/COLOR]
+#EXTINF:-1 group-title=" 15.00 emirates.cup WOLFSBURG - VILLAREAL ",[COLOR yellow]14.00 emirates.cup WOLFSBURG - VILLAREAL[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 19.00 friendly MOENCHENGLADBACH - PORTO ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.15 friendly AJAX CAPE TOWN - SPORTING LISBON ",[COLOR yellow]19.15 friendly AJAX CAPE TOWN - SPORTING LISBON[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.15 friendly AJAX CAPE TOWN - SPORTING LISBON ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.30 bel ST.TRUIDEN - CLUB BRUGGE ",[COLOR yellow]19.30 bel ST.TRUIDEN - CLUB BRUGGE[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.30 bel ST.TRUIDEN - CLUB BRUGGE ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1 group-title=" 20.30 ger2 DUISBURG - KAISERSLAUTERN ",[COLOR yellow]19.30 ger2 DUISBURG - KAISERSLAUTERN[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 ger2 DUISBURG - KAISERSLAUTERN ",bt sport 1 uk
+#EXTINF:-1 group-title=" 15.00 emirates.cup WOLFSBURG - VILLAREAL ",setanta eurasia
+http://80.77.52.6:3917/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 15.00 emirates.cup WOLFSBURG - VILLAREAL ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 15.00 emirates.cup WOLFSBURG - VILLAREAL ",bt sport 1 uk
 rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup FIORENTINA - BENFICA ",[COLOR yellow]1.00 Int.Cham.cup FIORENTINA - BENFICA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup FIORENTINA - BENFICA ",sport tv 1 pt
+#EXTINF:-1 group-title=" 16.00 aus MATTERSBURG - SALZBURG ",[COLOR yellow]15.00 aus MATTERSBURG - SALZBURG[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.00 aus MATTERSBURG - SALZBURG ",sportklub 3 sr
+http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",[COLOR green]16.00 FIFA WORLD CUP DRAW[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 17.00 FIFA WORLD CUP DRAW ",rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 17.05 friendly W.BREMEN - SEVILLA ",[COLOR yellow]16.05 friendly W.BREMEN - SEVILLA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 17.05 friendly W.BREMEN - SEVILLA ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup FIORENTINA - BENFICA ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup FIORENTINA - BENFICA ",turkmen sport
+#EXTINF:-1 group-title=" 17.05 friendly W.BREMEN - SEVILLA ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - LYON ",[COLOR yellow]16.20 emirates.cup ARSENAL - LYON[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - LYON ",setanta eurasia
+http://80.77.52.6:3917/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - LYON ",turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup FIORENTINA - BENFICA ",fox sport 2
+#EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - LYON ",bt sport 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 18.00 bel KORTRIJK - STANDARD LIEGE ",[COLOR yellow]17.00 bel KORTRIJK - STANDARD LIEGE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 bel KORTRIJK - STANDARD LIEGE ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 19.00 friendly MARSEILLE - ANTALYASPOR ",[COLOR yellow]18.00 friendly MARSEILLE - ANTALYASPOR[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 friendly MARSEILLE - ANTALYASPOR ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 19.00 friendly MARSEILLE - ANTALYASPOR ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+ 
+#EXTINF:-1 group-title=" 19.05 friendly JUVENTUS - BOR.DORTMUND ",[COLOR yellow]18.05 friendly JUVENTUS - BOR.DORTMUND[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 19.05 friendly JUVENTUS - BOR.DORTMUND ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 19.05 friendly JUVENTUS - BOR.DORTMUND ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 19.05 friendly JUVENTUS - BOR.DORTMUND ",bt sport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 19.05 friendly JUVENTUS - BOR.DORTMUND ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 20.00 swi GRASSHOPPERS - BASEL ",[COLOR yellow]19.00 swi GRASSHOPPERS - BASEL[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.00 swi GRASSHOPPERS - BASEL ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 20.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE ",[COLOR yellow]19.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 20.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 20.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 20.00 arg GIMNASIA LA PLATA - CRUCERO DEL NORTE ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",[COLOR yellow]21.00 Int.Champ.cup MANCHESTER UTD - BARCELONA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",setanta eurasia
+http://80.77.52.6:3917/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",digi sport 2 ro
+rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 22.00 Int.Champ.cup MANCHESTER UTD - BARCELONA ",arena sport 2 sr
+http://balkanstream.com/stream/arenasport2sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",[COLOR yellow]21.00 gold.cup.3rd place USA - PANAMA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",bt sport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",fox sport 2
 http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 
-#EXTINF:-1 group-title=" 2.10 arg ALDOSIVI - TEMPERLEY ",[COLOR yellow]1.10 arg ALDOSIVI - TEMPERLEY[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 2.10 arg ALDOSIVI - TEMPERLEY ",tv publica ar
+ 
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",[COLOR yellow]21.15 arg RIVER PLATE - COLON SANTA FE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg ALDOSIVI - TEMPERLEY ",tv publica ar_opz 2
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg ALDOSIVI - TEMPERLEY ",tv publica ar_opz 3
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 22.15 arg RIVER PLATE - COLON SANTA FE ",digi sport 3 ro
+rtmp://195.154.162.159:80/liverepeater playpath=128748 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 group-title=" 23.30 bra AVAI - ATL.PARANAENSE ",[COLOR yellow]22.30 bra AVAI - ATL.PARANAENSE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.30 bra AVAI - ATL.PARANAENSE ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 23.45 arg UNION SANTA FE - BANFIELD ",[COLOR yellow]23.45 arg UNION SANTA FE - BANFIELD[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.45 arg UNION SANTA FE - BANFIELD ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.45 arg UNION SANTA FE - BANFIELD ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.45 arg UNION SANTA FE - BANFIELD ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+ 
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",[COLOR yellow]23.00 Int.Champ.cup CHELSEA - PSG[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 0.00 Int.Champ.cup CHELSIE - PSG ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 22.00 gold.cup.3rd place USA - PANAMA ",fox sport 2
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+
+
+
+ 
+#EXTINF:-1 group-title=" 1.10 arg INDEPENDIENTE - ATL.RAFAELA ",[COLOR yellow]00.10 arg INDEPENDIENTE - ATL.RAFAELA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 1.10 arg INDEPENDIENTE - ATL.RAFAELA ",telefe arg
+rtmp://live-edge01.telecentro.net.ar:1935/live/tlfhd-180
+#EXTINF:-1 group-title=" 1.10 arg INDEPENDIENTE - ATL.RAFAELA ",telefe arg_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 1.30 mls COLUMBUS CREW - TORONTO FC ",[COLOR yellow]00.30 mls COLUMBUS CREW - TORONTO FC[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 1.30 mls COLUMBUS CREW - TORONTO FC ",eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 1.30 mls COLUMBUS CREW - TORONTO FC ",eurosport 2 ru_2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
