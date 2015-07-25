@@ -1,15 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE CRICKET*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
 
-
-#EXTINF:-1 group-title=" ASHES CRICKET ",[COLOR yellow]ASHES CRICKET[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" ASHES CRIKET ",SKY SPORTS 2
-rtmp://80.82.64.140:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" ASHES CRICKET ",Sky Sports 2 ( ACE )
-plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SKY SPORTS 4MS
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE DARTS*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
