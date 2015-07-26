@@ -46,6 +46,13 @@ http://streameo.altervista.org/forum/index.php
 rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1 group-title=" 15.00 emirates.cup LYON - VILLAREAL ",turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1 group-title=" 16.00 swi VADUZ - ZURICH ",[COLOR yellow]15.00 swi HEARTS - EVERTON[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.00 swi VADUZ - ZURICH ",bein 
+rtmp://185.82.215.45:3579/vod/ playpath=ficha13?e=1437916592&st=niEsJfNJom8CBO1d3ShVIA194582  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=ficha13&crn=790883578.5463452
+
+
  
 #EXTINF:-1 group-title=" 16.00 swi VADUZ - ZURICH ",[COLOR yellow]15.00 swi VADUZ - ZURICH[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
