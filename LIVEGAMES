@@ -7,6 +7,8 @@ http://weblinks.altervista.org/LSTV.htm
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",bbc 1 hd
 http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",sky sport f1
+http://bit.do/72VY
 #EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",rai1 it
 http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",rai1 it_opz 2
