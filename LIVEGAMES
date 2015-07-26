@@ -23,7 +23,8 @@ http://149.255.152.70:80/idman/index.m3u8
 http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",srf 2 ch
 http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-
+#EXTINF:-1 group-title=" 14.00 f1 GP UNGHERIA ",live sport
+rtmp://185.82.215.47:3579/vod/ playpath=ficha8?e=1437901506&st=lRpfRkKbLoqWnxrRRXDf5A65589  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho3.php?channel=ficha8&crn=840985147.2824812
 
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
