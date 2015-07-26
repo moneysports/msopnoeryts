@@ -74,6 +74,8 @@ http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - WOLFSBURG ",bt sport 1 uk
 rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - WOLFSBURG ",bt sport 1 uk
+rtmp://185.82.215.46:3579/vod/ playpath=portugaldesportivo3?e=1437917058&st=4Uk-DK7sK1doOy0HbecMhg238429  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho2.php?channel=portugaldesportivo3&crn=156860109.4186306
 #EXTINF:-1 group-title=" 17.20 emirates.cup ARSENAL - WOLFSBURG ",turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
  
