@@ -6,9 +6,9 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" THE ASHES ",[COLOR yellow]THE ASHES[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-http://bit.do/8j64
+
 #EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/new/Sky_Sports_2_UK?auth=test+test 1--
+
 
 
 
@@ -18,45 +18,54 @@ http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/new/Sky_Sports_2_UK?
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",[COLOR yellow]13.00 Int.Cham.cup INTER - REAL MADRID[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",digi sport 1 ro
-rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=" 14.00 Int.Cham.cup INTER - REAL MADRID ",fox sports 1
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1 group-title=" 20.15 ch.lea YOUNG BOYS - MONACO ",[COLOR yellow]19.15 ch.lea YOUNG BOYS - MONACO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.15 ch.lea YOUNG BOYS - MONACO ",rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.15 ch.lea YOUNG BOYS - MONACO ",srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title=" 19.30 friendley EVERTON - DUNDEE ",[COLOR yellow]19.30 friendley EVERTON - DUNDEE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 19.30 friendley EVERTON - DUNDEE ",everton tv
+rtmp://185.82.215.45:3579/vod/ playpath=parede6?e=1438106207&st=W_Ni_gnmlVe0O9U6vRYpaw390920  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=parede6&crn=810120609.5889211
+
 
  
-#EXTINF:-1 group-title=" 18.00 friendly SCHALKE 04 - PORTO ",[COLOR yellow]17.00 friendly SCHALKE 04 - PORTO[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 friendly SCHALKE 04 - PORTO ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 friendly SCHALKE 04 - PORTO ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 20.15 ger2 FREIBURG - NUREMBERG ",[COLOR yellow]19.15 ger2 FREIBURG - NUREMBERG[/COLOR]
+#EXTINF:-1 group-title=" 21.00 ch.lea DINAMO ZAGREB - MOLDE ",[COLOR yellow]20.00 ch.lea DINAMO ZAGREB - MOLDE[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.15 ger2 FREIBURG - NUREMBERG ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.15 ger2 FREIBURG - NUREMBERG ",eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.15 ger2 FREIBURG - NUREMBERG ",eurosport 2 ru_2
-http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
+#EXTINF:-1 group-title=" 21.00 ch.lea DINAMO ZAGREB - MOLDE ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=" 21.00 ch.lea DINAMO ZAGREB - MOLDE ",hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
  
-#EXTINF:-1 group-title=" 23.00 arg ARSENAL SARANDI - ARGENTINOS JRS ",[COLOR yellow]22.00 arg ARSENAL SARANDI - ARGENTINOS JRS[/COLOR]
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",[COLOR yellow]1.05 Int.Cham.cup CHELSEA - BARCELONA[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 23.00 arg ARSENAL SARANDI - ARGENTINOS JRS ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.00 arg ARSENAL SARANDI - ARGENTINOS JRS ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.00 arg ARSENAL SARANDI - ARGENTINOS JRS ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",fox sport 2
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+ 
+#EXTINF:-1 group-title=" 4.05 Int.Cham.cup CLUB AMERICA - BENFICA ",[COLOR yellow]3.05 Int.Cham.cup CLUB AMERICA - BENFICA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 4.05 Int.Cham.cup CLUB AMERICA - BENFICA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 4.05 Int.Cham.cup CLUB AMERICA - BENFICA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 4.05 Int.Cham.cup CLUB AMERICA - BENFICA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 4.05 Int.Cham.cup CLUB AMERICA - BENFICA ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.05 Int.Cham.cup CHELSEA - BARCELONA ",fox sport 2
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
