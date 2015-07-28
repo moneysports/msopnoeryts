@@ -33,6 +33,12 @@ rtmp://185.82.215.45:3579/vod/ playpath=parede6?e=1438106207&st=W_Ni_gnmlVe0O9U6
 #EXTINF:-1 group-title=" 19.30 friendley EVERTON - DUNDEE ",everton tv
 rtmp://185.82.215.45:3579/vod/ playpath=parede6?e=1438107414&st=8IP402lKizfGY89hHkM7Qw438629  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=parede6&crn=819659881.4800382
 
+#EXTINF:-1 group-title=" 19.30 friendley NORWICH - WEST NHAM ",[COLOR yellow]19.45 friendley NORWICH - WEST NHAM[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 19.30 friendley NORWICH - WEST HAM ",live sport
+rtmp://185.82.215.45:3579/vod/ playpath=parede18?e=1438107645&st=-wjckP3z6uPAgScicY68Sw76432  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=parede18&crn=405977932.9225421
+#EXTINF:-1 group-title=" 19.30 friendley NORWICH - WEST HAM ",digi sport
+rtmp://62.210.105.146:80/liverepeater playpath=128746 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch 
 
  
 #EXTINF:-1 group-title=" 21.00 ch.lea DINAMO ZAGREB - MOLDE ",[COLOR yellow]20.00 ch.lea DINAMO ZAGREB - MOLDE[/COLOR]
