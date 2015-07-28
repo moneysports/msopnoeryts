@@ -30,6 +30,8 @@ http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 19.30 friendley EVERTON - DUNDEE ",everton tv
 rtmp://185.82.215.45:3579/vod/ playpath=parede6?e=1438106207&st=W_Ni_gnmlVe0O9U6vRYpaw390920  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=parede6&crn=810120609.5889211
+#EXTINF:-1 group-title=" 19.30 friendley EVERTON - DUNDEE ",everton tv
+rtmp://185.82.215.45:3579/vod/ playpath=parede6?e=1438107414&st=8IP402lKizfGY89hHkM7Qw438629  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=parede6&crn=819659881.4800382
 
 
  
