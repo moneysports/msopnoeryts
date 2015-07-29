@@ -30,6 +30,14 @@ http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 20.30 ch.lea STEAUA BUCHAREST - PARTIZAN BELGRADE ",rts1 serbia
 http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=" 20.45 ch.lea CELTIC - QARABAG ",[COLOR yellow]19.45 ch.lea CELTIC - QARABAG[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ch.lea CELTIC - QARABAG ",idman tv
+http://149.255.152.70/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea CELTIC - QARABAG ",live sport
+rtmp://185.82.215.45:3579/vod/ playpath=flavio23?e=1438188553&st=62kdNx1_9PL2eoElZRo6tA286133  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=flavio23&crn=826919727.5862098
+
  
 #EXTINF:-1 group-title=" 20.45 ch.lea LECH POZNAN - BASEL ",[COLOR yellow]19.45 ch.lea LECH POZNAN - BASEL[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
