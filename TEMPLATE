@@ -1,0 +1,102 @@
+#EXTINF:-1 group-title="  ",[COLOR yellow][/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title="  ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="  ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="  ",sport 1 de_opz 2
+http://teleboy.customers.cdn.iptv.ch/1095/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title="  ",supersport 2 al
+http://balkanstream.com/stream/supersport2/mip001/25hsK6Sa9l
+#EXTINF:-1 group-title="  ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title="  ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/mip001/25hsK6Sa9l
+#EXTINF:-1 group-title="  ",digi sport 1 ro
+rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title="  ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title="  ",fox sports 1
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow][/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title="  ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="  ",orf 1 at_opz 2
+http://teleboy.customers.cdn.iptv.ch/1010/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",orf 1 at_opz 3
+http://teleboy.customers.cdn.iptv.ch/1060/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",russia 2
+http://194.190.78.230/output/russia2/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" ",[COLOR yellow][/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title="  ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="  ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="  ",orf 1 at_opz 2
+http://teleboy.customers.cdn.iptv.ch/1010/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",orf 1 at_opz 3
+http://teleboy.customers.cdn.iptv.ch/1060/2290000/index.m3u8
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]18.00 eur.lea APOLLON LIMASSOL - QABALA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title="  ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]18.30 eur.lea AZ ALKMAAR - ISTAMBUL BASAKSEHIR[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title="  ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title="  ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]19.00 eur.lea ASA TARGU MURES - ST.ETIENNE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title="  ",digi sport 1 ro
+rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]20.00 eur.lea HAJDUK SPLIT - STROMGODSET[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title="  ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title="  ",hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]20.00 eur.lea SAMPDORIA - VOJVODINA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title="  ",rai2 it
+http://httpstream2.rai.it/Italy/rai2.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="  ",rai2 it_opz 2
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1 group-title="  ",rai2 it_opz 3
+http://teleboy.customers.cdn.iptv.ch/3004/2290000/index.m3u8
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]20.00 eur.lea BELENENSES - IFK GOTENBERG[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title="  ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title="  ",[COLOR yellow]20.05 eur.lea SOUTHAMPTON - VITESSE ARNHEM[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title="  ",bt sport 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title="  ",bt sport 1 uk
+http://bit.do/8×46
+
+#EXTINF:-1 group-title="  ",[COLOR yellow]20.05 eur.lea WAC - BORUSSIA DORTMUND[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title="  ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="  ",sport 1 de_opz 2
+http://teleboy.customers.cdn.iptv.ch/1095/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="  ",orf 1 at_opz 2
+http://teleboy.customers.cdn.iptv.ch/1010/2290000/index.m3u8
+#EXTINF:-1 group-title="  ",orf 1 at_opz 3
+http://teleboy.customers.cdn.iptv.ch/1060/2290000/index.m3u8
