@@ -7,7 +7,7 @@ http://weblinks.altervista.org/LSTV.htm
 http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-rtmp://80.82.78.15:443/liverepeater playpath=37 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://178.18.31.52:8081/liverepeater/195996/chunklist_w1917998728.m3u8?nimblesessionid=842338&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE1IDk6MzM6NDMgQU0maGFzaF92YWx1ZT1JVDZxc3pjTE1UNXlGZGlxVFc3T0FBPT0mdmFsaWRtaW51dGVzPTQ=
 #EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
 http://195.154.227.38:1935/ive/skysports2lsh/playlist.m3u8
 
