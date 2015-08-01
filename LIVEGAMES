@@ -11,14 +11,7 @@ rtmp://31.220.0.195:80/live playpath=atrc token=%Zrey(nKa@#Z swfUrl=http://p.jwp
 
 
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE BOXING*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" UFC 190 ",[COLOR yellow]SKY FIGHT NIGHT[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-
-#EXTINF:-1 group-title=" UFC 190 ",sky sports 1
-rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE1IDY6MjU6NTggUE0maGFzaF92YWx1ZT1vNy9Qb2FvT0gwbkQ4UlZlL0NINzh3PT0mdmFsaWRtaW51dGVzPTM=/sky1
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE UFC*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
@@ -30,7 +23,10 @@ http://weblinks.altervista.org/LSTV.htm
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 #EXTINF:-1 group-title=" UFC 190 ",bt sports 2 ( ACE )
 plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+SKY SPORTS 1MS
-
+#EXTINF:-1 group-title=" UFC 190 ",live
+rtmp://185.82.215.45:3579/vod/ playpath=teto19?e=1438470256&st=pQoA4u1TGvqgHCajKdi0Bw395761  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=teto19&crn=843205475.0621319
+#EXTINF:-1 group-title=" UFC 190 ",bt sports 2
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMTUgNjozNDowOSBQTSZoYXNoX3ZhbHVlPVZDNjNiZ1VNOFRORURSckQzVHF5TWc9PSZ2YWxpZG1pbnV0ZXM9Mw==/btsports2
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
