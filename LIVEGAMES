@@ -10,23 +10,16 @@ rtmp://31.220.0.195:80/live playpath=atrc token=%Zrey(nKa@#Z swfUrl=http://p.jwp
 
 
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE CRICKET*******[/COLOR]
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE UFC*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" THE ASHES ",[COLOR yellow]THE ASHES[/COLOR]
+#EXTINF:-1 group-title=" UFC 190 ",[COLOR yellow]UFC 190[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-rtmp://195.154.162.159:80/liverepeater playpath=132776 swfUrl=http://cdn.goodcast.co/players.swf live=1 token=Fo5_n0w?U.rA6l3-70w47ch flashver=WIN/2018,0,0,160 timeout=13 swfVfy=1 pageUrl=http://deltatv.pw/stream.php?id=132776&width=640&height=480
-#EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-rtmp://185.82.215.47:3579/vod/ playpath=freio4?e=1438249511&st=TnrU-0j64PeZXptGjf-Bow257034  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho3.php?channel=freio4&crn=598472467.251122
-#EXTINF:-1 group-title=" THE ASHES ",sky sports ashes
-rtmp://94.102.49.126:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" THE ASHES ",sky sports ashes ( ace )
-plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SKY SPORTS 1MS
-
-
-
+#EXTINF:-1 group-title=" UFC 190 ",fox sports 1
+http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1 group-title=" UFC 190 ",bt sports 2
+plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+SKY SPORTS 1MS
 
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
