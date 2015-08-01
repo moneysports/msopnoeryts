@@ -132,6 +132,14 @@ http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 18.30 den VESTSJAELLAND - VEJLE ",tv3 sport 1 ace
 plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+SKY SPORTS 1MS
 
+
+#EXTINF:-1 group-title=" 17.30 den HJK - LIVERPOOL ",[COLOR yellow]17.30 den HJK - LIVERPOOL[/COLOR]
+http://streameo.altervista.org/forum/index.php
+
+#EXTINF:-1 group-title=" 17.30 den HJK - LIVERPOOL ",lfc tv
+rtmp://185.82.215.47:3579/vod/ playpath=teto2?e=1438446291&st=Pr4mvN1AgPzFDLdHAp7Vtg346018  swfUrl=https://www.smartcdn.top/flowplayer/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho3.php?channel=teto2&crn=244080791.06360674
+
+
 #EXTINF:-1 group-title=" 19.00 friendly MARSEILLE - JUVENTUS ",[COLOR yellow]18.00 friendly MARSEILLE - JUVENTUS[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 
