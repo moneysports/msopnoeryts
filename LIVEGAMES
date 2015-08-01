@@ -10,6 +10,16 @@ rtmp://31.220.0.195:80/live playpath=atrc token=%Zrey(nKa@#Z swfUrl=http://p.jwp
 
 
 
+
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE BOXING*******[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+
+#EXTINF:-1 group-title=" UFC 190 ",[COLOR yellow]SKY FIGHT NIGHT[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+
+#EXTINF:-1 group-title=" UFC 190 ",sky sports 1
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE1IDY6MjU6NTggUE0maGFzaF92YWx1ZT1vNy9Qb2FvT0gwbkQ4UlZlL0NINzh3PT0mdmFsaWRtaW51dGVzPTM=/sky1
+
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE UFC*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
