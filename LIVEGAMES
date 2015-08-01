@@ -31,7 +31,7 @@ http://weblinks.altervista.org/LSTV.htm
 http://streameo.altervista.org/forum/index.php
 
 #EXTINF:-1 group-title=" 13.00 ger2 BOCHUM - DUISBURG ",s@y bundesliga 1 de
-http://bit.do/8SSX
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMTUgNjozNDowOSBQTSZoYXNoX3ZhbHVlPVZDNjNiZ1VNOFRORURSckQzVHF5TWc9PSZ2YWxpZG1pbnV0ZXM9Mw==/btsports2
 
 #EXTINF:-1 group-title=" 13.45 sco CELTIC - ROSS COUNTY ",[COLOR yellow]12.45 sco CELTIC - ROSS COUNTY[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
