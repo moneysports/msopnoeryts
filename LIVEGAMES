@@ -78,7 +78,7 @@ http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&reb
 http://weblinks.altervista.org/LSTV.htm
 
 #EXTINF:-1 group-title=" 16.00 den MIDTJYLLAND - OB ODENSE ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+SKY SPORTS 1MS
 
 #EXTINF:-1 group-title=" 16.00 aus SALZBURG - RAPID WIEN ",[COLOR yellow]15.00 aus SALZBURG - RAPID WIEN[/COLOR]
 http://streameo.altervista.org/forum/index.php
@@ -130,7 +130,7 @@ rtmp://195.154.162.159:80/liverepeater playpath=128748 pageUrl=http://deltatv.pw
 http://streameo.altervista.org/forum/index.php
 
 #EXTINF:-1 group-title=" 18.30 den VESTSJAELLAND - VEJLE ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+SKY SPORTS 1MS
 
 #EXTINF:-1 group-title=" 19.00 friendly MARSEILLE - JUVENTUS ",[COLOR yellow]18.00 friendly MARSEILLE - JUVENTUS[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
