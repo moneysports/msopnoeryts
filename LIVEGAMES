@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE HORSE RACING*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1,Racing UK
-rtmp://31.220.0.195:80/live playpath=racinguks token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://www.reytv.co
-#EXTINF:-1,At The Races   
-rtmp://31.220.0.195:80/live playpath=atrc token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://www.reytv.co
 
 
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
