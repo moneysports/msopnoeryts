@@ -60,6 +60,9 @@ http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1 group-title=" 21.00 Int.Cham.cup CHELSEA - FIORENTINA ",turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 21.00 Int.Cham.cup CHELSEA - FIORENTINA ",fox sports 1
+http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+
  
 #EXTINF:-1 group-title=" 22.00 friendly BARCELONA - ROMA ",[COLOR yellow]21.00 friendly BARCELONA - ROMA[/COLOR]
 http://streameo.altervista.org/forum/index.php
