@@ -39,7 +39,7 @@ http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 20.45 ch.lea SHAKHTAR DONETSK - FENERBAHCE (0-0) ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
 #EXTINF:-1 group-title=" 20.45 ch.lea SHAKHTAR DONETSK - FENERBAHCE (0-0) ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 20.45 ch.lea SKENDERBEU KORCE - MILSAMI (2-0) ",[COLOR yellow]19.45 ch.lea SKENDERBEU KORCE - MILSAMI (2-0)[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
@@ -73,7 +73,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title=" 22.00 friendly BARCELONA - ROMA ",trt spor tr_2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1 group-title=" 22.00 friendly BARCELONA - ROMA ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 3.00 cop.Lib.Final RIVER PLATE (Arg) - TIGRES (Mex) (0-0) ",[COLOR yellow]2.00 cop.Lib.Final RIVER PLATE (Arg) - TIGRES (Mex) (0-0)[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
