@@ -773,12 +773,12 @@
 </item>
 
 <item>
-<title>ArenaVision 1</title>
-<link>$doregex[rtmp] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://www.arenavision.in/arenavision01</link>
+<title>ArenaVision 10</title>
+<link>$doregex[rtmp] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://www.arenavision.in/arenavision010</link>
 <regex>
 <name>rtmp</name>
 <expres>file: "(.*?)"</expres>
-<page>http://www.arenavision.in/arenavision01</page>
+<page>http://www.arenavision.in/arenavision010</page>
 <referer>http://www.arenavision.in</referer>
 </regex>
 </item>
