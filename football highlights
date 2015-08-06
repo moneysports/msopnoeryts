@@ -761,16 +761,7 @@
 </item>
 
 
-<item>
-<title>ArenaVision 13</title>
-<link>$doregex[rtmp] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://www.arenavision.in/arenavision013</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(.*?)"</expres>
-<page>http://www.arenavision.in/arenavision013</page>
-<referer>http://www.arenavision.in</referer>
-</regex>
-</item>
+
 
 <item>
 <title>CTH5</title>
@@ -778,14 +769,4 @@
 <referer>http://stepfb.net/</referer>
 </item>
 
-<item>
-<title>CTH1</title>
-<sportsdevil>http://www.wezatv.com/dooball/assp3.php</sportsdevil>
-<referer>http://www.wezatv.com/</referer>
-</item>
 
-<item>
-<title>Premier Sportsdd1111</title>
-<hqzone>http://straighthost.com/billing/vip/1.php</hqzone>
-<referer>http://straighthost.com/billing/vip/vip</referer>
-</item>
