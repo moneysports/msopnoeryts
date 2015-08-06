@@ -33,7 +33,7 @@ http://bak01-edge03.itdc.ge/idman/index.m3u8
 #EXTINF:-1 group-title=" 18.00 eur.lea OMONIA NICOSIA - BRONDBY ",[COLOR yellow]17.00 eur.lea OMONIA NICOSIA - BRONDBY[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 18.00 eur.lea OMONIA NICOSIA - BRONDBY ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 19.00 eur.lea IFK GOTENBERG - BELENENSES ",[COLOR yellow]18.00 eur.lea IFK GOTENBERG - BELENENSES[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
@@ -66,6 +66,8 @@ rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 2000 eur.lea ASTRA GIURGIU - WEST HAM UTD ",digi sport 1 ro
 rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 2000 eur.lea ASTRA GIURGIU - WEST HAM UTD ",bt sports europe ( ace ) may buffer 
+plugin://plugin.video.p2p-streams/?url=acestream://46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 20.30 eur.lea BOR.DORTMUND - WAC ",[COLOR yellow]19.30 eur.lea BOR.DORTMUND - WAC[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
