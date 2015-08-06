@@ -759,3 +759,15 @@
 <thumbnail></thumbnail>
 <fanart>http://xdesktopwallpapers.com/wp-content/uploads/2012/02/Football%20Closeul%20In%20Stadium%20At%20Night.jpg</fanart>
 </item>
+
+
+<item>
+<title>ArenaVision 13</title>
+<link>$doregex[rtmp] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://www.arenavision.in/arenavision013</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.arenavision.in/arenavision013</page>
+<referer>http://www.arenavision.in</referer>
+</regex>
+</item>
