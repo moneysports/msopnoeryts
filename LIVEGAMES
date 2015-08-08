@@ -35,7 +35,7 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",[COLOR yellow]12.30 eng1 LEEDS UTD - BURNLEY[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",sky sports 5 uk
 rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
@@ -132,7 +132,7 @@ http://bak01-edge03.itdc.ge/idman/index.m3u8
 #EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",s@y sports 2 de
 http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
 #EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
 #EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",viasat sport baltic ace
