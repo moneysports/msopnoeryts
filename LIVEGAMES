@@ -32,4 +32,162 @@ http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Fo
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
+#EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",[COLOR yelloe]12.30 eng1 LEEDS UTD - BURNLEY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.30 eng1 LEEDS UTD - BURNLEY ",sky sports 5 uk
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",[COLOR yellow]12.45 eng MANCHESTER UTD - TOTTENHAM HOT.[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",bt sport 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title=" 13.45 eng MANCHESTER UTD - TOTTENHAM HOT. ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+ 
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",[COLOR yellow]13.00 ita.Supercup JUVENTUS - LAZIO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",rai1 it
+http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",rai1 it_opz 2
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",rai1 it_opz 3
+http://streaming-hub.com/tv/i/rai1_1@97382/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 14.00 ita.Supercup JUVENTUS - LAZIO ",sportklub 2 sr
+http://balkanstream.com/stream/sportklub2hr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 14.30 cycling TOUR of DENMARK stage 6 ",[COLOR yellow]13.30 cycling TOUR of DENMARK stage 6[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.30 cycling TOUR of DENMARK stage 6 ",eurosport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 15.00 cycling VUELTA A BURGOS etapa 5 ",[COLOR yellow]14.00 cycling VUELTA A BURGOS etapa 5[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 15.00 cycling VUELTA A BURGOS etapa 5 ",
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_cyltv_liveeventos_multi_MB_746
+ 
+#EXTINF:-1 group-title=" 15.30 ger.cup DUISBURG - SCHALKE 04 ",[COLOR yellow]14.30 ger.cup DUISBURG - SCHALKE 04[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 15.30 ger.cup DUISBURG - SCHALKE 04 ",supersport 3 al
+http://balkanstream.com/stream/supersport3/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 15.30 ger.cup STUTTGART KICKERS - WOLFSBURG ",[COLOR yellow]14.30 ger.cup STUTTGART KICKERS - WOLFSBURG[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 15.30 ger.cup STUTTGART KICKERS - WOLFSBURG ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.30 ger.cup STUTTGART KICKERS - WOLFSBURG ",s@y sports 2 de
+http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",[COLOR yellow]15.00 eng EVERTON - WATFORD[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+
+
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",[COLOR yellow]15.00 eng BOURNMOUTH - ASTON VILLA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.00 eng EVERTON - WATFORD ",nbcsn
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1 group-title=" 16.00 den HOBRO - VIBORG ",[COLOR yellow]15.00 den HOBRO - VIBORG[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.00 den HOBRO - VIBORG ",tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+ 
+#EXTINF:-1 group-title=" 16.00 swe FALKENBERG - HELSINGBORG ",[COLOR yellow]15.00 swe FALKENBERG - HELSINGBORG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.00 swe FALKENBERG - HELSINGBORG ",c more sport se
+http://188.138.9.228:8023
+ 
+#EXTINF:-1 group-title=" 16.00 swe HACKEN - GEFLE ",[COLOR yellow]15.00 swe HACKEN - GEFLE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 16.00 swe HACKEN - GEFLE ",c more futbol se
+http://188.138.9.228:8034
+ 
+
+ 
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",[COLOR yellow]17.30 eng CHELSEA - SWANSEA CITY[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",s@y sports 2 de
+http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=" 18.30 eng CHELSEA - SWANSEA CITY ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+ 
+#EXTINF:-1 group-title=" 19.45 ned DEN HAAG - PSV EINDHOVEN ",[COLOR yellow]18.45 ned DEN HAAG - PSV EINDHOVEN[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 19.45 ned DEN HAAG - PSV EINDHOVEN ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 20.00 friendly DEPORTIVO LA CORUNA - SP.BRAGA ",[COLOR yellow]19.00 friendly DEPORTIVO LA CORUNA - SP.BRAGA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.00 friendly DEPORTIVO LA CORUNA - SP.BRAGA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 20.45 ned FEYENOORD - UTRECHT ",[COLOR yellow]19.45 ned FEYENOORD - UTRECHT[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ned FEYENOORD - UTRECHT ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 21.00 fra NANTES - GUINGAMP ",[COLOR yellow]20.00 fra NANTES - GUINGAMP[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 21.00 fra NANTES - GUINGAMP ",arena sport 4 sr
+http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 21.00 fra NICE - MONACO ",[COLOR yellow]20.00 fra NICE - MONACO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 fra NICE - MONACO ",arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - CAEN ",[COLOR yellow]20.00 fra MARSEILLE - CAEN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - CAEN ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - CAEN ",arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+ 
+#EXTINF:-1 group-title=" 21.00 friendly PORTO - NAPOLI ",[COLOR yellow]20.00 friendly PORTO - NAPOLI[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 21.00 friendly PORTO - NAPOLI ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 21.00 friendly ATL.MADRID - REAL SOCIEDAD ",[COLOR yellow]20.00 friendly ATL.MADRID - REAL SOCIEDAD[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 friendly ATL.MADRID - REAL SOCIEDAD ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+ 
+#EXTINF:-1 group-title=" 22.00 mls TORONTO FC - SP.KANSAS CITY ",[COLOR yellow]21.00 mls TORONTO FC - SP.KANSAS CITY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 22.00 mls TORONTO FC - SP.KANSAS CITY ",sky sports 5 uk
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 23.30 bra AVAI - FLUMINENSE ",[COLOR yellow]22.30 bra AVAI - FLUMINENSE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 23.30 bra AVAI - FLUMINENSE ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
