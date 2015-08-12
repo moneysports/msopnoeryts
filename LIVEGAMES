@@ -43,6 +43,9 @@ http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-
 rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",arena sport 4 sr
 http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",live sport
+rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1439401281&st=LNsCr2i_HvHsRqgm7aXVww460291  swfUrl=https://greatvideos.eu/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=sacola1&crn=280395069.7183609
+
  
 #EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",[COLOR yellow]19.45 sco KILMARNOCK - CELTIC[/COLOR]
 http://streameo.altervista.org/forum/index.php
@@ -50,6 +53,9 @@ http://streameo.altervista.org/forum/index.php
 http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
 #EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",bt sport 1 uk
 rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",live sport 
+rtmp://185.82.215.47:3579/vod/ playpath=sacola3?e=1439401391&st=sxbhNlZY5wsnwZSkvi3P8Q343132  swfUrl=https://greatvideos.eu/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho3.php?channel=sacola3&crn=484415911.88311577
+
  
 #EXTINF:-1 group-title=" 20.45 trofeo.Tim MILAN - INTER - SASSUOLO ",[COLOR yellow]19.45 trofeo.Tim MILAN - INTER - SASSUOLO[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
