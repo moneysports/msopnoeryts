@@ -4,74 +4,25 @@
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 20.30 aus AUSTRIA WIEN - RAPID WIEN ",[COLOR yellow]19.30 aus AUSTRIA WIEN - RAPID WIEN[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 aus AUSTRIA WIEN - RAPID WIEN ",orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.30 aus AUSTRIA WIEN - RAPID WIEN ",s@y sports 1 de
-http://balkanstream.com/stream/skysport01/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 20.30 aus AUSTRIA WIEN - RAPID WIEN ",orf 1 at_opz 2
-http://81.92.105.134:5555/pl.m3u8?channel=7
- 
-#EXTINF:-1 group-title=" 20.30 aus WAC - STURM GRAZ ",[COLOR yellow]19.30 aus WAC - STURM GRAZ[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",[COLOR yellow]19.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.30 aus WAC - STURM GRAZ ",s@y sports 2 de
-http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
- 
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",[COLOR yellow]19.30 swi LUZERN - ST.GALLEN[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",rsi la 2 ch_opz 2
-http://81.92.105.134:5555/pl.m3u8?channel=176
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",srf 2 ch_opz 2
-http://81.92.105.134:5555/pl.m3u8?channel=2
-#EXTINF:-1 group-title=" 20.30 swi LUZERN - ST.GALLEN ",rts2 ch_opz 2
-http://81.92.105.134:5555/pl.m3u8?channel=174
- 
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",[COLOR yellow]19.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",gazzetta tv it (geo)
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",gazzetta tv it (geo)
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",gazzetta tv it_opz 2 (geo)
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",gazzetta tv it_opz 2 (geo)
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",sky sports 1 uk
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",sky sports 1 uk
 rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",arena sport 4 sr
+#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",arena sport 4 sr
 http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup PORTSMOUTH - DERBY COUNTY ",live sport
-rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1439401281&st=LNsCr2i_HvHsRqgm7aXVww460291  swfUrl=https://greatvideos.eu/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho1.php?channel=sacola1&crn=280395069.7183609
-
  
-#EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",[COLOR yellow]19.45 sco KILMARNOCK - CELTIC[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",sportklub 3 sr
-http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",bt sport 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 sco KILMARNOCK - CELTIC ",live sport 
-rtmp://185.82.215.47:3579/vod/ playpath=sacola3?e=1439401391&st=sxbhNlZY5wsnwZSkvi3P8Q343132  swfUrl=https://greatvideos.eu/flowplayer-3.2.16.swf  pageUrl=https://greatvideos.eu/ho3.php?channel=sacola3&crn=484415911.88311577
-
- 
-#EXTINF:-1 group-title=" 20.45 trofeo.Tim MILAN - INTER - SASSUOLO ",[COLOR yellow]19.45 trofeo.Tim MILAN - INTER - SASSUOLO[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 trofeo.Tim MILAN - INTER - SASSUOLO ",can 5 it
-http://81.92.105.134:5555/pl.m3u8?channel=532
- 
-#EXTINF:-1 group-title=" 23.45 cop.Sudam LDU LOJA - SANTA FE ",[COLOR yellow]22.45 cop.Sudam LDU LOJA - SANTA FE[/COLOR]
+#EXTINF:-1 group-title=" 1.00 mls NEW YORK CITY - DC UNITED ",[COLOR yellow]00.00 mls NEW YORK CITY - DC UNITED[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 23.45 cop.Sudam LDU LOJA - SANTA FE ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 23.45 cop.Sudam LDU LOJA - SANTA FE ",arena sport 4 sr
-http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 1.00 mls NEW YORK CITY - DC UNITED ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
-#EXTINF:-1 group-title=" 3.00 bra INTERNACIONAL - FLUMINENSE ",[COLOR yellow]2.00 bra INTERNACIONAL - FLUMINENSE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 bra INTERNACIONAL - FLUMINENSE ",sport tv 1 pt
+#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",[COLOR yellow]1.00 bra ATL.MINEIRO - GREMIO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 bra INTERNACIONAL - FLUMINENSE ",arena sport 1 sr
-http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
