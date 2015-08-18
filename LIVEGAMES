@@ -11,7 +11,7 @@ rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to
 #EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",idman tv Az
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+VIASATMSGOLF
 #EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",bt sport europe uk
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
  
@@ -36,7 +36,7 @@ http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/
 #EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",sport tv 3 pt
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",tsn 1 ca ace
-acestream://f0be1dcc62ce52be176e96006ba2527e52707806
+plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",[COLOR yellow]19.45 ch.lea MANCHESTER UTD - CLUB BRUGGE[/COLOR]
 http://streameo.altervista.org/forum/index.php
@@ -57,12 +57,12 @@ http://80.77.52.6:3719/udp/226.0.0.7:12345
 #EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",bt sport europe uk
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
 #EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",tsn 4 ca ace
-acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
+plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+VIASATMSGOLF
  
 #EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",[COLOR yellow]19.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",viasat sport baltic ace
-acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+VIASATMSGOLF
 #EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",bht1
 http://webtropia1.narodnatv.info:80/live?channelId=21&uid=1342&deviceUser=riki&devicePass=riki
 #EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",rtrs sr
