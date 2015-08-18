@@ -4,25 +4,88 @@
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",[COLOR yellow]19.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD[/COLOR]
+#EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",[COLOR yellow]17.00 ch.lea ASTANA - APOEL NICOSIA[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.Lea.cup DONCASTER ROVERS - LEEDS UTD ",arena sport 4 sr
-http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+#EXTINF:-1 group-title=" 18.00 ch.lea ASTANA - APOEL NICOSIA ",bt sport europe uk
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
  
-#EXTINF:-1 group-title=" 1.00 mls NEW YORK CITY - DC UNITED ",[COLOR yellow]00.00 mls NEW YORK CITY - DC UNITED[/COLOR]
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",[COLOR yellow]19.45 ch.lea LAZIO - B.LEVERKUSEN[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 1.00 mls NEW YORK CITY - DC UNITED ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",can 5 it
+http://81.92.105.134:5555/pl.m3u8?channel=532
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",zdf de
+http://81.92.105.134:5555/pl.m3u8?channel=5
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",zdf de HD
+http://81.92.105.134:5555/pl.m3u8?channel=101
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",zdf de
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",2 tv georgia
+http://ams01-edge01.itdc.ge/meore/index.m3u8?token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 ch.lea LAZIO - B.LEVERKUSEN ",tsn 1 ca ace
+acestream://f0be1dcc62ce52be176e96006ba2527e52707806
  
-#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",[COLOR yellow]1.00 bra ATL.MINEIRO - GREMIO[/COLOR]
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",[COLOR yellow]19.45 ch.lea MANCHESTER UTD - CLUB BRUGGE[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",sport tv 1 pt
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",trt1 tr
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",tv3 catalunya
+http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",1 tv georgia
+http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",arena sport 1 sr
+http://sangajstream.dyndns.biz:80/live?channelId=77&uid=1342&deviceUser=riki&devicePass=riki
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",bt sport europe uk
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea MANCHESTER UTD - CLUB BRUGGE ",tsn 4 ca ace
+acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
+ 
+#EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",[COLOR yellow]19.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",bht1
+http://webtropia1.narodnatv.info:80/live?channelId=21&uid=1342&deviceUser=riki&devicePass=riki
+#EXTINF:-1 group-title=" 20.45 ch.lea BATE BORISOV - PARTIZAN BELGRADE ",rtrs sr
+http://sangajstream.dyndns.biz:80/live?channelId=122&uid=1342&deviceUser=riki&devicePass=riki
+ 
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",[COLOR yellow]19.45 ch.lea SPORTING LISBON - CSKA MOSCOW[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 bra ATL.MINEIRO - GREMIO ",arena sport 3 sr
-http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 20.45 ch.lea SPORTING LISBON - CSKA MOSCOW ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1 group-title=" 22.30 friendly REAL MADRID - GALATASARAY ",[COLOR yellow]22.30 friendly REAL MADRID - GALATASARAY[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 22.30 friendly REAL MADRID - GALATASARAY ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 22.30 friendly REAL MADRID - GALATASARAY ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 22.30 friendly REAL MADRID - GALATASARAY ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
