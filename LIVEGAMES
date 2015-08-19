@@ -4,7 +4,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60c
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 18.15 den1 HORSENS - SILKEBORG ",[COLOR green]18.15 den1 HORSENS - SILKEBORG[/COLOR]
+#EXTINF:-1 group-title=" 18.15 den1 HORSENS - SILKEBORG ",[COLOR yellow]17.15 den1 HORSENS - SILKEBORG[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 18.15 den1 HORSENS - SILKEBORG ",tv3 sport 1 ace
 plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+VIASATMSGOLF
