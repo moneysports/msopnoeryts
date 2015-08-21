@@ -8,7 +8,9 @@ http://weblinks.altervista.org/LSTV.htm
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 18.30 den HOBRO - NORDSJAELLAND ",tv3 sport 1 ace
 acestream://783f9190794b0cf507cc0da231d280121e8f89ad
- 
+
+#EXTINF:-1 group-title=" 18.30 den HOBRO - NORDSJAELLAND ",[COLOR yellow]20.30 fra MONTPELLIER - PARIS ST.GERMAIN[/COLOR] 
+http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 20.30 fra MONTPELLIER - PARIS ST.GERMAIN ",arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:-1 group-title=" 20.30 fra MONTPELLIER - PARIS ST.GERMAIN ",c more sport se
