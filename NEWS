@@ -2,8 +2,14 @@
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         
         <item>
-                <title>Sky Sports News</title>
-                <thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+                <title>SKY SPORTS NEWS</title>
+                <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
                 <link>http://ipsite.org/3331</link>
-                <fanart>http://tvnewsroom.org/wp-content/uploads/2012/03/Sky-Spts-News-Evening-Report-03-01-18-02-29.jpg</fanart>
         </item>
+        
+<item>
+<title>SKY SPORTS NEWS</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com/</referer>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
+</item>
