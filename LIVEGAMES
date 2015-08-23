@@ -10,7 +10,7 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 14.00 fra LILLE - BORDEAUX ",[COLOR yellow]WWE SUMMERSLAM[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 rtmp + ' playpath=' + file + ' swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf flashver=WIN\2017,0,0,134 conn=S:' + file + ' conn=S:' + ts + ' conn=S:' + sg + ' conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=' + pageUrl2
-#EXTINF:-1 group-title=" WWE SUMMERSLAM ",SKY BOX OFFICE
+#EXTINF:-1 group-title=" WWE SUMMERSLAM ",SKY BOX OFFICE1
 rtmp://94.102.51.118:1935/zmliveme playpath=suJLAk0Xa1  swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf flashver=WIN\2017,0,0,134 live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed.php?v=miram11&vw=660&vh=450
 #EXTINF:-1 group-title=" WWE SUMMERSLAM ",SKY BOX OFFICE
 rtmp://80.82.64.72:1935/zmliveme playpath=suJLAk0Xa1  swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf  pageUrl=http://www.zoomtv.me/embed.php?v=miram11&vw=660&vh=450 token=Q!lrB@G1)ww(-dQ4J4
