@@ -54,6 +54,17 @@
 </channel>
 </channels>
  
+<channels>
+ 
+<channel>
+    <name>ACESTREAM SPORTS</name>
+<thumbnail>http://msports.shadowcrew.info/ACE.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/acestreams</externallink>
+<fanart></fanart>
+<info>ACESTREAM SPORTS</info>
+</channel>
+</channels>
 
  
  
@@ -89,17 +100,6 @@
 
 
 
-<channels>
- 
-<channel>
-    <name>ACESTREAM SPORTS</name>
-<thumbnail>http://msports.shadowcrew.info/ACE.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/acestreams</externallink>
-<fanart></fanart>
-<info>ACESTREAM SPORTS</info>
-</channel>
-</channels>
 
 
 
