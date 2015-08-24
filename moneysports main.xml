@@ -92,12 +92,12 @@
 <channels>
  
 <channel>
-    <name>BEIN SPORTS</name>
-<thumbnail>http://www.beinsports.tv/i/beINSport/site/holding_image_videoplayer.jpg</thumbnail>
+    <name>ACESTREAM SPORTS</name>
+<thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
-<fanart>http://www.pix2.tv/wp-content/uploads/2013/09/BEIN-Sport-25.jpg</fanart>
-<info>BEIN SPORTS 1 - 12</info>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/acestreams</externallink>
+<fanart></fanart>
+<info>ACESTREAM SPORTS</info>
 </channel>
 </channels>
 
