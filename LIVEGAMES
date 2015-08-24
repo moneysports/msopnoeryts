@@ -1,16 +1,78 @@
 #EXTM3U
 plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60ced7c01ae4cb&mode=1&name=acestream+VIASATMSGOLF
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE WWE*******[/COLOR]
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-
-
-
-#EXTINF:-1 group-title=" 14.00 fra LILLE - BORDEAUX ",[COLOR yellow]WWE SUMMERSLAM[/COLOR]
+#EXTINF:-1 group-title=" 17.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG ",[COLOR yellow]16.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 17.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 17.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 19.00 den AAB AALBORG - OB ODENSE ",[COLOR yellow]18.00 den AAB AALBORG - OB ODENSE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 19.00 den AAB AALBORG - OB ODENSE ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://783f9190794b0cf507cc0da231d280121e8f89ad&mode=1&name=acestream+VIASATMSGOLF
+ 
+#EXTINF:-1 group-title=" 20.15 ger2 KAISERSLAUTERN - PADERBORN ",[COLOR yellow]19.15 ger2 KAISERSLAUTERN - PADERBORN[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-rtmp + ' playpath=' + file + ' swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf flashver=WIN\2017,0,0,134 conn=S:' + file + ' conn=S:' + ts + ' conn=S:' + sg + ' conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=' + pageUrl2
-#EXTINF:-1 group-title=" WWE SUMMERSLAM ",WWE NETWORK
-rtmp://75.126.73.24/flash playpath=21368?MTQ0MDM2NjI1Mjs5NThiNGY5N2Q1YWE1MTlmNWZkM2EwNWFlZWM2MmI2YQ==  swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/ZjM2Q3ODUwZjE4NzQ4NjI4ZWY4ZjA2M2M5YTI_/ZmlkZ3Jhcmx1bmU6YWRkOGUyNTg3MTZjNWQ4NTM5YTQ0MTg0YzQxOTliYzM6ODY1NG
-#EXTINF:-1 group-title=" WWE SUMMERSLAM ",WWE NETWORK
-rtmp://185.82.215.47:3579/vod/ playpath=sacola13?e=1440366615&st=OsoH7-pD4xuCL6UVlOJ4qA115989  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho3.php?channel=sacola13&crn=371354406.1407447
+#EXTINF:-1 group-title=" 20.15 ger2 KAISERSLAUTERN - PADERBORN ",bt sport europe uk
+rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.15 ger2 KAISERSLAUTERN - PADERBORN ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",[COLOR yellow]19.30 esp GRANADA - EIBAR[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",c+liga es ace
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",ntv+futbol 2 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+ 
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",[COLOR yellow]20.00 eng ARSENAL - LIVERPOOL[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",ntv+futbol 1 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",tv3 sport 2 ace
+plugin://plugin.video.p2p-streams/?url=acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",viasat sport baltic ace
+plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+VIASATMSGOLF
+ 
+#EXTINF:-1 group-title=" 21.00 por ACADEMICA - VIT.SETUBAL ",[COLOR yellow]20.00 por ACADEMICA - VIT.SETUBAL[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 por ACADEMICA - VIT.SETUBAL ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.00 por ACADEMICA - VIT.SETUBAL ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",[COLOR yellow]1.10 arg TEMPERLEY - SARMIENTO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
