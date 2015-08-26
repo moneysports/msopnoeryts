@@ -72,12 +72,12 @@
 <channels>
  
 <channel>
-    <name>ASTRO SUPERSPORT CHANNELS</name>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/8e/Astro_SuperSport_logo.png</thumbnail>
+    <name>CLUB TV</name>
+<thumbnail>http://msports.shadowcrew.info/CLUBS.JPG</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
-<fanart>http://whiterabbitchase.com/followthewhiterabbit/wp-content/uploads/2011/11/supersport-athlete.jpg</fanart>
-<info>LIVE SPORTS</info>
+<externallink>http://msports.shadowcrew.info/CLUBTV.XML</externallink>
+<fanart>https://c1.staticflickr.com/1/101/300025847_9919403228_z.jpg?zz=1</fanart>
+<info>YOUR FAVOURITE FOOTBALL CLUB CHANNELS</info>
 </channel>
 </channels>
 
