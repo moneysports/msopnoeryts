@@ -2,163 +2,37 @@
 
 plugin://plugin.video.p2p-streams/?url=acestream://                      &mode=1&name=acestream+moneysports            
 
-
-
-#EXTINF:-1,BT Sport Europe
-plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 1
-plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 2
-plugin://plugin.video.p2p-streams/?url=acestream://1f66b63a33bd9010511d35f263482330d4e23d88&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 3
-plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 4
-plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 5
-plugin://plugin.video.p2p-streams/?url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&mode=1&name=acestream+moneysports
-#EXTINF:-1,NBCSN
-plugin://plugin.video.p2p-streams/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+moneysports
-#EXTINF:-1,SNWL
-plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+moneysports
-#EXTINF:-1,Super Tennis
-plugin://plugin.video.p2p-streams/?url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream+moneysports
-#EXTINF:-1,BT Sport ESPN
-plugin://plugin.video.p2p-streams/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 1
-plugin://plugin.video.p2p-streams/?url=acestream://93a77f0e2b74d2f8f11ad5a2a49d3ee347a8864b&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 2
-plugin://plugin.video.p2p-streams/?url=acestream://8bb233dd947c73ad6873f55a419784c2ac803cc3&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 3
-plugin://plugin.video.p2p-streams/?url=acestream://6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 4
-plugin://plugin.video.p2p-streams/?url=acestream://2acdd306d33e3454b200448a9ca3a808653ec23b&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 5
-plugin://plugin.video.p2p-streams/?url=acestream://cd042c51300eb693de3c85cb9894217db0000f90&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky Sports 1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky Sports 1 Uk
+#EXTINF:-1,SKY SPORTS 1-
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky Sports 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://9435a603b27813c91af7bedca56d09859dae1751&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky Sports 2 Uk
+#EXTINF:-1,SKY SPORTS 2-
 plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky Sports 3 Uk
+#EXTINF:-1,SKY SPORTS 3-
 plugin://plugin.video.p2p-streams/?url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports 4 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://98021702106c7d6df60dcf0921ca5223dd22109f&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports 4 Uk
+#EXTINF:-1,SKY SPORTS 4-
 plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports 5 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports 5 Uk
+#EXTINF:-1,SKY SPORTS 5-
 plugin://plugin.video.p2p-streams/?url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports F1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sky sports F1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://2eb1213b1fac44657589abe75ef690fdec04ca9b&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bt Sport 1 Uk
+#EXTINF:-1,SKY SPORTS NEWS -
+plugin://plugin.video.p2p-streams/?url=acestream://c7b76f6220f6e46b19cb5d655b04dc0dc21d11c4&mode=1&name=acestream+moneysports
+
+#EXTINF:-1,BT SPORTS 1
 plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bt Sport 1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bt Sport 2 Uk
+#EXTINF:-1,BT SPORTS 2
 plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bt Sport 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://948707e625b5cd727795baee4db8a92a1bfb84c7&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bt Sport Espn Uk
-plugin://plugin.video.p2p-streams/?url=acestream://585352b149c4aae30c1da013f0fe378430fb7c7e&mode=1&name=acestream+moneysports
-#EXTINF:-1,BT Sport Europe Uk
-plugin://plugin.video.p2p-streams/?url=acestream://46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream+moneysports
-#EXTINF:-1,Setanta Sport Change audio Number 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+moneysports
-#EXTINF:-1,Setanta Sport Change audio Number 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://f921fdfe319eb7fb747fb64a6e31b0bc19274c8e&mode=1&name=acestream+moneysports
-#EXTINF:-1,Setanta Sport + Change audio Number 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream+moneysports
-#EXTINF:-1,Setanta Sport + Change audio Number 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+moneysports
-#EXTINF:-1,Premier Sport Uk
-plugin://plugin.video.p2p-streams/?url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+moneysports
-#EXTINF:-1,Premier Sport Uk
-plugin://plugin.video.p2p-streams/?url=acestream://16466b42bfd48309ea0418bb77dcfb80ac6e90ee&mode=1&name=acestream+moneysports
-#EXTINF:-1,Eurosport 1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+moneysports
-#EXTINF:-1,Eurosport 1 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://e023777eb7583e6a573fc7e36dfe550745331b49&mode=1&name=acestream+moneysports
-#EXTINF:-1,Eurosport 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+moneysports
-#EXTINF:-1,Eurosport 2 Uk
-plugin://plugin.video.p2p-streams/?url=acestream://35cc8a8c526ed08a05d6c6f534d9d7437035fd6f&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 1 Canada
-plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 2 Canada
+#EXTINF:-1,BT SPORTS EUROPE
+plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+moneysports
+#EXTINF:-1,BT SPORTS ESPN
+plugin://plugin.video.p2p-streams/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+moneysports
+
+
+#EXTINF:-1,TSN 1-
+plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+moneysports 
+#EXTINF:-1,TSN 2-
 plugin://plugin.video.p2p-streams/?url=acestream://1f66b63a33bd9010511d35f263482330d4e23d88&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 3 Canada
+#EXTINF:-1,TSN 3-
 plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 4 Canada
+#EXTINF:-1,TSN 4-
 plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+moneysports
-#EXTINF:-1,TSN 5 Canada
+#EXTINF:-1,TSN 5-
 plugin://plugin.video.p2p-streams/?url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&mode=1&name=acestream+moneysports
-#EXTINF:-1,Nba Tv Usa
-plugin://plugin.video.p2p-streams/?url=acestream://f04d9f01027c974ed7bc928a41d9ececd0b6e6c4&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bein Sport 1 France
-plugin://plugin.video.p2p-streams/?url=acestream://662ba846eba5ce96697d0798641e7aa7e3ae8edc&mode=1&name=acestream+moneysports
-#EXTINF:-1,Bein Sport 2 France
-plugin://plugin.video.p2p-streams/?url=acestream://cbc3c5374ddaf75a9a96703de523341f525603af&mode=1&name=acestream+moneysports
-#EXTINF:-1,Canal+Sport France
-plugin://plugin.video.p2p-streams/?url=acestream://12b8e78f7d1b33a9733f35f6498497cb54f43eb7&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 1 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 1 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 2 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 2 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 3 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 3 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 4 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 4 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 5 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream+moneysports
-#EXTINF:-1,Sport tv 5 Portugal
-plugin://plugin.video.p2p-streams/?url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 1 Serbia
-plugin://plugin.video.p2p-streams/?url=acestream://6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 1 Serbia
-plugin://plugin.video.p2p-streams/?url=acestream://5931c68aa0834b9a312e5a47aa52c8cf95ce6f56&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 3 Serbia
-plugin://plugin.video.p2p-streams/?url=acestream://59a1b95651b3a2dad1a364ef27a162e09ab90c69&mode=1&name=acestream+moneysports
-#EXTINF:-1,Arena Sport 5 Serbia
-plugin://plugin.video.p2p-streams/?url=acestream://758655887dc06e82013ba6266eb56b5632fd18a0&mode=1&name=acestream+moneysports
-#EXTINF:-1,Canal+Liga Spain
-plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+moneysports
-#EXTINF:-1,Canal+Liga Spain
-plugin://plugin.video.p2p-streams/?url=acestream://da01482344b8ea93c8388d4d708b0d27db8774b4&mode=1&name=acestream+moneysports
-#EXTINF:-1,C More Tennis Sweden
-plugin://plugin.video.p2p-streams/?url=acestream://77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream+moneysports
-#EXTINF:-1,C More Tennis Sweden
-plugin://plugin.video.p2p-streams/?url=acestream://dc82c4d0b1a0aec6029cafe8ea330e80b0292e4c&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Sweden
-plugin://plugin.video.p2p-streams/?url=acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Sweden
-plugin://plugin.video.p2p-streams/?url=acestream://cfbb381f1086f5386488b3e425d39a44837f5bd1&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Sweden
-plugin://plugin.video.p2p-streams/?url=acestream://214bf472a044b0d3c267aa3a4ba9f8fb6e949f3e&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Football Baltic
-plugin://plugin.video.p2p-streams/?url=acestream://2edac1a8012caa8f3c2e58fbb7305eeae5e380a1&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Ice Hockey Baltic
-plugin://plugin.video.p2p-streams/?url=acestream://b5ce7e00ec6e0b6076827720bbeb6ea36054bd19&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Ice Motor Sport Baltic
-plugin://plugin.video.p2p-streams/?url=acestream://929c63789a85694fe88dd7f0f44e52ef9918f70a&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Baltic
-plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Sport Hd
-plugin://plugin.video.p2p-streams/?url=acestream://179915515291aac9346766d449f65604e3701bb2&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Tv3 Sport 1
-plugin://plugin.video.p2p-streams/?url=acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e&mode=1&name=acestream+moneysports
-#EXTINF:-1,Viasat Tv3 Sport 2
-plugin://plugin.video.p2p-streams/?url=acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496&mode=1&name=acestream+moneysports
+
