@@ -36,3 +36,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1d
 #EXTINF:-1,TSN 5-
 plugin://plugin.video.p2p-streams/?url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&mode=1&name=acestream+moneysports
 
+
+#EXTINF:-1,SPORTSNET WORLD-
+plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+moneysports
+#EXTINF:-1,SPORTSNET
+plugin://plugin.video.p2p-streams/?url=acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc
