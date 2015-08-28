@@ -6,105 +6,86 @@ http://weblinks.altervista.org/LSTV.htm
 
 
  
-#EXTINF:-1 group-title=" 16.45 eur.lea KAIRAT ALMATY - BORDEAUX ",[COLOR yellow]15.45 eur.lea KAIRAT ALMATY - BORDEAUX[/COLOR]
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",[COLOR green]13.00 EUROPA LEAGUE DRAW[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 16.45 eur.lea KAIRAT ALMATY - BORDEAUX ",beIN sports FR 2
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",eurosport 2 uk
+rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",bt sport europe uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+
+ 
+#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",[COLOR yellow]17.00 den AGF ARHUS - ESBJERG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",tv3 sport 1 ace
+plugin://plugin.video.p2p-streams/?url=acestream://783f9190794b0cf507cc0da231d280121e8f89ad&mode=1&name=acestream+VIASATMSGOLF
+ 
+#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",[COLOR yellow]18.00 swe HAMMARBY - KALMAR[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",c more sport se
+http://188.138.9.228:8023
+ 
+#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",[COLOR yellow]19.00 fra2 DIJON - CRETEIL[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",beIN sports FR 2
 rtmp://176.10.250.166:1935/tv/stream2
  
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",[COLOR yellow]17.00 UEFA CHAMPIONS LEAGUE DRAW[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",ntv+futbol 1 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",tv3 sport 1 ace
-acestream://783f9190794b0cf507cc0da231d280121e8f89ad
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",eurosport uk
-rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",bt sport europe uk
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 18.00 UEFA CHAMPIONS LEAGUE DRAW ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
- 
-#EXTINF:-1 group-title=" 18.00 eur.lea JABLONEC - AJAX ",[COLOR yellow]17.00 eur.lea JABLONEC - AJAX[/COLOR]
+#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",[COLOR yellow]19.30 fra GUINGAMP - MARSEILLE[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 eur.lea JABLONEC - AJAX ",ct sport cz
-http://212.79.96.134:8014
- 
-#EXTINF:-1 group-title=" 18.00 eur.lea GARABAGH - YOUNG BOYS ",[COLOR yellow]17.00 eur.lea GARABAGH - YOUNG BOYS[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 18.00 eur.lea GARABAGH - YOUNG BOYS ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
- 
-#EXTINF:-1 group-title=" 19.00 eur.lea HJK HELSINKI - KRASNODAR ",[COLOR yellow]18.00 eur.lea HJK HELSINKI - KRASNODAR[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea HJK HELSINKI - KRASNODAR ",russia 2
-http://195.189.246.131/russia2_250k.m3u8
- 
-#EXTINF:-1 group-title=" 20.00 eur.lea AZ ALKMAAR - ASTRA GIURGIU ",[COLOR yellow]19.00 eur.lea AZ ALKMAAR - ASTRA GIURGIU[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.00 eur.lea AZ ALKMAAR - ASTRA GIURGIU ",digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
- 
-#EXTINF:-1 group-title=" 20.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC ",[COLOR yellow]19.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC ",hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 20.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC ",hrt 2 hr_2
-http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 20.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC ",ct sport cz
-http://212.79.96.134:8014
-#EXTINF:-1 group-title=" 20.00 eur.lea HAJDUK SPLIT - SLOVAN LIBEREC ",ct sport cz
-http://81.201.52.159:8014
- 
-#EXTINF:-1 group-title=" 20.00 eur.lea PANATHINAIKOS - QABALA ",[COLOR yellow]19.00 eur.lea PANATHINAIKOS - QABALA[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.00 eur.lea PANATHINAIKOS - QABALA ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
- 
-#EXTINF:-1 group-title=" 20.30 eur.lea BOR.DORTMUND - ODD GRENLAND ",[COLOR yellow]19.30 eur.lea BOR.DORTMUND - ODD GRENLAND[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.30 eur.lea BOR.DORTMUND - ODD GRENLAND ",ARD de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 20.30 eur.lea SALZBURG - DINAMO MINSK ",[COLOR yellow]19.30 eur.lea SALZBURG - DINAMO MINSK[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 eur.lea SALZBURG - DINAMO MINSK ",orf 1 at
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 20.30 eur.lea ST.ETIENNE - MILSAMI ORHEI ",[COLOR yellow]19.30 eur.lea ST.ETIENNE - MILSAMI ORHEI[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.30 eur.lea ST.ETIENNE - MILSAMI ORHEI ",beIN sports FR 1
+#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",beIN sports FR 1
 rtmp://176.10.250.166:1935/tv/stream3
  
-#EXTINF:-1 group-title=" 20.45 eur.lea MIDTJYLLAND - SOUTHAMPTON ",[COLOR yellow]19.45 eur.lea MIDTJYLLAND - SOUTHAMPTON[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.45 eur.lea MIDTJYLLAND - SOUTHAMPTON ",bt sport europe uk
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",[COLOR yellow]19.30 ger WOLFSBURG - SCHALKE 04[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",bt sport europe uk
 rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
-#EXTINF:-1 group-title=" 22.30 eur.lea BELENENSES - ALTACH ",[COLOR yellow]21.30 eur.lea BELENENSES - ALTACH[/COLOR]
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",[COLOR yellow]19.30 esp VILLAREAL - ESPANYOL[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 22.30 eur.lea BELENENSES - ALTACH ",sport tv 1 pt
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",c+liga es ace
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 22.30 eur.lea BELENENSES - ALTACH ",orf 1 at
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",supersport 4 al
+http://81.7.13.162/hls/ss4/index.m3u8
  
-#EXTINF:-1 group-title=" 2.00 bra.cup GREMIO - CORITIBA ",[COLOR yellow]1.00 bra.cup GREMIO - CORITIBA[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",[COLOR yellow]19.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.00 bra.cup GREMIO - CORITIBA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 bra.cup GREMIO - CORITIBA ",arena sport 2 sr
-http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 5 uk
+rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
  
-#EXTINF:-1 group-title=" 2.15 cop.sudam ATL.PARANAENSE (Bra) - JOINVILLE (Bra) ",[COLOR yellow]1.15 cop.sudam ATL.PARANAENSE (Bra) - JOINVILLE (Bra)[/COLOR]
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",[COLOR yellow]1.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.15 cop.sudam ATL.PARANAENSE (Bra) - JOINVILLE (Bra) ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.15 cop.sudam ATL.PARANAENSE (Bra) - JOINVILLE (Bra) ",arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+ 
