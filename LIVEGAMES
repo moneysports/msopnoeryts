@@ -4,77 +4,220 @@ plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60c
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-
-
-
- 
-#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",[COLOR yellow]17.00 den AGF ARHUS - ESBJERG[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",tv3 sport 1 ace
-plugin://plugin.video.p2p-streams/?url=acestream://783f9190794b0cf507cc0da231d280121e8f89ad&mode=1&name=acestream+VIASATMSGOLF
- 
-#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",[COLOR yellow]18.00 swe HAMMARBY - KALMAR[/COLOR]
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - STANDARD LIEGE ",[COLOR yellow]13.30 bel CLUB BRUGGE - STANDARD LIEGE[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",c more sport se
-http://188.138.9.228:8023
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - STANDARD LIEGE ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - STANDARD LIEGE ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 14.30 bel CLUB BRUGGE - STANDARD LIEGE ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
  
-#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",[COLOR yellow]19.00 fra2 DIJON - CRETEIL[/COLOR]
+#EXTINF:-1 group-title=" 15.30 ger BOR.DORTMUND - HERTHA BERLIN ",[COLOR yellow]14.30 ger BOR.DORTMUND - HERTHA BERLIN[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",beIN sports FR 2
-rtmp://176.10.250.166:1935/tv/stream2
- 
-#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",[COLOR yellow]19.30 fra GUINGAMP - MARSEILLE[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream3
- 
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",[COLOR yellow]19.30 ger WOLFSBURG - SCHALKE 04[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",supersport 2 al
+#EXTINF:-1 group-title=" 15.30 ger BOR.DORTMUND - HERTHA BERLIN ",supersport 2 al
 http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",bt sport europe uk
+#EXTINF:-1 group-title=" 15.30 ger BOR.DORTMUND - HERTHA BERLIN ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.30 ger BOR.DORTMUND - HERTHA BERLIN ",bt sport europe uk
 rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",[COLOR yellow]19.30 esp VILLAREAL - ESPANYOL[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",c+liga es ace
-plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+VIASATMSGOLF
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",supersport 4 al
-http://81.7.13.162/hls/ss4/index.m3u8
- 
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",[COLOR yellow]19.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 1 uk
-rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 5 uk
-rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",[COLOR yellow]1.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE[/COLOR]
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 9 -  ",[COLOR yellow]15.00 cycling VUELTA A ESPANA - etapa 9 - [/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 9 -  ",eurosport uk
+rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 9 -  ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 9 -  ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
  
+#EXTINF:-1 group-title=" 16.45 ned PSV EINDHOVEN - FEYENOORD ",[COLOR yellow]15.45 ned PSV EINDHOVEN - FEYENOORD[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.45 ned PSV EINDHOVEN - FEYENOORD ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 16.45 ned PSV EINDHOVEN - FEYENOORD ",silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+ 
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",[COLOR yellow]16.00 eng SWANSEA CITY - MANCHESTER UTD[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",tv3 sport 2 ace
+plugin://plugin.video.p2p-streams/?url=acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - MANCHESTER UTD ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+
+#EXTINF:-1 group-title=" 17.30 swe HELSINGBORG - MALMO ",[COLOR yellow]16.00 fra BORDEAUX - NANTES[/COLOR]
+http://streameo.altervista.org/forum/index.php 
+#EXTINF:-1 group-title=" 17.00 fra BORDEAUX - NANTES ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 17.00 fra BORDEAUX - NANTES ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+ 
+#EXTINF:-1 group-title=" 17.30 swe HELSINGBORG - MALMO ",[COLOR yellow]16.30 swe HELSINGBORG - MALMO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 17.30 swe HELSINGBORG - MALMO ",c more sport se
+http://188.138.9.228:8023
+ 
+#EXTINF:-1 group-title=" 17.30 ger W.BREMEN - B.MOENCHENGL. ",[COLOR yellow]16.30 ger W.BREMEN - B.MOENCHENGL.[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 17.30 ger W.BREMEN - B.MOENCHENGL. ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 17.30 ger W.BREMEN - B.MOENCHENGL. ",bt sport 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 18.00 bel WESTERLO - ANDERLECHT ",[COLOR yellow]17.00 bel WESTERLO - ANDERLECHT[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.00 bel WESTERLO - ANDERLECHT ",Sportitalia
+rtmp://spi.hystream.com:1935/spilive/spistream_480
+#EXTINF:-1 group-title=" 18.00 bel WESTERLO - ANDERLECHT ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 18.00 bel WESTERLO - ANDERLECHT ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 18.00 bel WESTERLO - ANDERLECHT ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",[COLOR yellow]17.00 ita ROMA - JUVENTUS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",bt sport europe uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 18.00 ita ROMA - JUVENTUS ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 18.30 esp EIBAR - ATH.BILBAO ",[COLOR yellow]17.30 esp EIBAR - ATH.BILBAO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 18.30 esp EIBAR - ATH.BILBAO ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 18.30 esp EIBAR - ATH.BILBAO ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 18.30 esp EIBAR - ATH.BILBAO ",silk sport 3 ge
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:-1 group-title=" 18.30 esp EIBAR - ATH.BILBAO ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 20.15 por ACADEMICA - SP.LISBON ",[COLOR yellow]19.15 por ACADEMICA - SP.LISBON[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.15 por ACADEMICA - SP.LISBON ",rtp int pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 20.15 por ACADEMICA - SP.LISBON ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.15 por ACADEMICA - SP.LISBON ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",[COLOR yellow]19.30 esp SEVILLA - ATL.MADRID[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",sky sports 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 20.30 esp SEVILLA - ATL.MADRID ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+ 
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",[COLOR yellow]19.30 esp VALENCIA - DEPORTIVO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",c+liga es ace
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+VIASATMSGOLF
+#EXTINF:-1 group-title=" 20.30 esp VALENCIA - DEPORTIVO ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=" 20.45 ita CARPI - INTER ",[COLOR yellow]19.45 ita NAPOLI - SAMPDORIA[/COLOR]
+http://streameo.altervista.org/forum/index.php 
+#EXTINF:-1 group-title=" 20.45 ita NAPOLI - SAMPDORIA ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 20.45 ita NAPOLI - SAMPDORIA ",bt sport 1 uk
+rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 ita NAPOLI - SAMPDORIA ",s@y sport 1 it TEST
+http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
+ 
+#EXTINF:-1 group-title=" 20.45 ita CARPI - INTER ",[COLOR yellow]19.45 ita CARPI - INTER[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 ita CARPI - INTER ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.45 ita CARPI - INTER ",arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 20.45 ita TORINO - FIORENTINA ",[COLOR yellow]19.45 ita TORINO - FIORENTINA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 ita TORINO - FIORENTINA ",arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",[COLOR yellow]20.00 fra MONACO - PSG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",c more sport se
+http://188.138.9.228:8023
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=" 21.00 fra MONACO - PSG ",bt sport europe uk
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - ATL.MINEIRO ",[COLOR yellow]20.00 bra FLUMINENSE - ATL.MINEIRO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - ATL.MINEIRO ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 21.00 bra FLUMINENSE - ATL.MINEIRO ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",[COLOR yellow]22.15 arg RIVER PLATE - HURACAN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - HURACAN ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 23.30 bra CRUZEIRO - SANTOS ",[COLOR yellow]22.30 bra CRUZEIRO - SANTOS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 23.30 bra CRUZEIRO - SANTOS ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+ 
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",[COLOR yellow]1.30 arg INDEPENDIENTE - ESTUDIANTES LP[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - ESTUDIANTES LP ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
