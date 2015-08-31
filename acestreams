@@ -11,41 +11,41 @@ plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52
 
 
 #EXTINF:-1,SKY SPORTS 1-
-plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&name=My+acestream+channel
 #EXTINF:-1,SKY SPORTS 2-
-plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&name=My+acestream+channel
 #EXTINF:-1,SKY SPORTS 3-
-plugin://plugin.video.p2p-streams/?url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&name=My+acestream+channel
 #EXTINF:-1,SKY SPORTS 4-
-plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&name=My+acestream+channel
 #EXTINF:-1,SKY SPORTS 5-
-plugin://plugin.video.p2p-streams/?url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6&name=My+acestream+channel
 #EXTINF:-1,SKY SPORTS NEWS -
 plugin://program.plexus/?mode=1&url=acestream://c7b76f6220f6e46b19cb5d655b04dc0dc21d11c4&name=My+acestream+channel
 
 #EXTINF:-1,BT SPORTS 1
-plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&name=My+acestream+channel
 #EXTINF:-1,BT SPORTS 2
-plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&name=My+acestream+channel
 #EXTINF:-1,BT SPORTS EUROPE
-plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&name=My+acestream+channel
 #EXTINF:-1,BT SPORTS ESPN
-plugin://plugin.video.p2p-streams/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&name=My+acestream+channel
 
 
 #EXTINF:-1,TSN 1-
-plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+moneysports 
+plugin://program.plexus/?mode=1&url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&name=My+acestream+channel
 #EXTINF:-1,TSN 2-
-plugin://plugin.video.p2p-streams/?url=acestream://1f66b63a33bd9010511d35f263482330d4e23d88&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://1f66b63a33bd9010511d35f263482330d4e23d88&name=My+acestream+channel
 #EXTINF:-1,TSN 3-
-plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&name=My+acestream+channel
 #EXTINF:-1,TSN 4-
-plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&name=My+acestream+channel
 #EXTINF:-1,TSN 5-
-plugin://plugin.video.p2p-streams/?url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&name=My+acestream+channel
 
 
 #EXTINF:-1,SPORTSNET WORLD-
-plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+moneysports
+plugin://program.plexus/?mode=1&url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&name=My+acestream+channel
 #EXTINF:-1,SPORTSNET
-plugin://plugin.video.p2p-streams/?url=acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc
+plugin://program.plexus/?mode=1&url=acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc&name=My+acestream+channel
