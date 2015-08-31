@@ -5,7 +5,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://                      &mode=1
 #EXTINF:-1,[COLOR red]REQUIRES P2P STREAMS ADDON[COLOR]  
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
 
-
+plugin://program.plexus/?mode=1&url=acestream://                         &name=My+acestream+channel
 
 
 
