@@ -23,7 +23,7 @@ plugin://program.plexus/?mode=1&url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1
 #EXTINF:-1,SKY SPORTS NEWS -
 plugin://program.plexus/?mode=1&url=acestream://c7b76f6220f6e46b19cb5d655b04dc0dc21d11c4&name=My+acestream+channel
 
-#EXTINF:-1,BT SPORTS 1
+#EXTINF:-1,BT SPORTS 1                         
 plugin://program.plexus/?mode=1&url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&name=My+acestream+channel
 #EXTINF:-1,BT SPORTS 2
 plugin://program.plexus/?mode=1&url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&name=My+acestream+channel
