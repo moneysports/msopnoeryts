@@ -120,17 +120,7 @@
 
 
 
-<channels>
- 
-<channel>
-    <name>F1 REPLAYS</name>
-<thumbnail></thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/F1%20REPLAYS</externallink>
-<fanart></fanart>
-<info>FORMULA 1 REPLAYS</info>
-</channel>
-</channels>
+
 
 
 
@@ -163,7 +153,17 @@
 </channel>
 </channels>
 
-
+<channels>
+ 
+<channel>
+    <name>F1 REPLAYS</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/F1%20REPLAYS</externallink>
+<fanart></fanart>
+<info>FORMULA 1 REPLAYS</info>
+</channel>
+</channels>
 
 
 
