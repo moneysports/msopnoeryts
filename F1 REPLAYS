@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>F1 BELGUIM QUALIFYING ROUND 11</title>
+<title>F1 BELGUIM QUALIFYING ROUND 111</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
