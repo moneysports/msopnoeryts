@@ -44,7 +44,7 @@
 http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 
 <item>
-<title>F1</title>
+<title>F11</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
