@@ -56,7 +56,7 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
