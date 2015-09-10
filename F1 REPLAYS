@@ -81,8 +81,46 @@
 <fanart>http://alumni.udallas.edu/s/818/images/editor/cob/belgium_flag.png</fanart>
 </item>
 
-
-
+<item>
+<title>F1 HUNGARIAN RACE ROUND 10</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>720p.*"(http.*?)"</expres>
+<page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>sc03\/(.*?)"</expres>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
+<referer>http://my.mail.ru/</referer>
+</regex>
+<thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
+<fanart>http://images.fineartamerica.com/images-medium-large-5/hungary-flag-vintage-distressed-finish-design-turnpike.jpg</fanart>
+</item>
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
+<item>
+<title>F1 HUNGARIAN QUALIFYING ROUND 10</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>720p.*"(http.*?)"</expres>
+<page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>sc03\/(.*?)"</expres>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html</page>
+<referer>http://my.mail.ru/</referer>
+</regex>
+<thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
+<fanart>http://images.fineartamerica.com/images-medium-large-5/hungary-flag-vintage-distressed-finish-design-turnpike.jpg</fanart>
+</item>
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html
 
 
 
