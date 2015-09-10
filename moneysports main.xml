@@ -210,12 +210,12 @@ https://raw.githubusercontent.com/moneysports/msopnoeryts/master/F1%20REPLAYS</e
 </channel>
 </channels>
 
-https://raw.githubusercontent.com/moneysports/msopnoeryts/master/ufc%20channel
+
 <channels>
  
 <channel>
     <name>UFC</name>
-<thumbnail></thumbnail>
+<thumbnail>http://funkyimg.com/i/21VEs.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/ufc%20channel</externallink>
 <fanart>http://pre14.deviantart.net/8b72/th/pre/f/2011/160/5/1/ufc_wallpaper_by_rtk12-d3ih2zy.jpg</fanart>
