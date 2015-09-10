@@ -34,17 +34,15 @@
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1182.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1059.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
-<fanart>http://7-themes.com/data_images/out/68/7002981-grunge-italian-flag.jpg</fanart>
+<fanart>http://alumni.udallas.edu/s/818/images/editor/cob/belgium_flag.png</fanart>
 </item>
 
-http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
-
 <item>
-<title>F11</title>
+<title>F1 BELGUIM RACE ROUND 11</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
@@ -56,9 +54,18 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1073.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
-<fanart>http://7-themes.com/data_images/out/68/7002981-grunge-italian-flag.jpg</fanart>
+<fanart>http://alumni.udallas.edu/s/818/images/editor/cob/belgium_flag.png</fanart>
 </item>
+
+
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/1073.html
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/1059.html
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html
+
+
+
