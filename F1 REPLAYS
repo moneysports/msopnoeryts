@@ -182,7 +182,7 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
 <fanart>http://img03.deviantart.net/a4c7/i/2010/174/4/c/austria_flag_by_fallof.jpg</fanart>
 </item>
-http://my.mail.ru/mail/burningwhee1s/video/_myvideo/687.html
+
 
 <item>
 <title>F1 AUSTRIAN QUALIFYING ROUND 8</title>
@@ -197,10 +197,9 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/687.html
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/655.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/653.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
 <fanart>http://img03.deviantart.net/a4c7/i/2010/174/4/c/austria_flag_by_fallof.jpg</fanart>
 </item>
-http://my.mail.ru/mail/burningwhee1s/video/_myvideo/655.html
