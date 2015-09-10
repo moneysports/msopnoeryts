@@ -185,10 +185,11 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 
 
 <item>
-<title>F1 AUSTRIAN QUALIFYING ROUND 8</title>
+<title>F1 AUSTRIAN QUALIFYING ROUND 81</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
+<expres>360p.*"(http.*?)"</expres>
 <page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
 <referer>http://my.mail.ru/</referer>
 <cookiejar></cookiejar>
