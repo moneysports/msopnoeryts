@@ -94,13 +94,13 @@
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
 <fanart>http://images.fineartamerica.com/images-medium-large-5/hungary-flag-vintage-distressed-finish-design-turnpike.jpg</fanart>
 </item>
-http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html
 <item>
 <title>F1 HUNGARIAN QUALIFYING ROUND 10</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -114,13 +114,13 @@ http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 <regex>
 <name>id</name>
 <expres>sc03\/(.*?)"</expres>
-<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html</page>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html</page>
 <referer>http://my.mail.ru/</referer>
 </regex>
 <thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
 <fanart>http://images.fineartamerica.com/images-medium-large-5/hungary-flag-vintage-distressed-finish-design-turnpike.jpg</fanart>
 </item>
-http://my.mail.ru/mail/burningwhee1s/video/_myvideo/926.html
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/916.html
 
 
 
