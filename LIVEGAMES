@@ -9,3 +9,6 @@ rtmp://185.82.215.47:3579/vod/ playpath=sacola5?e=1442096010&st=dy1Nn929et9hl6_k
 
 #EXTINF:-1,BOX NATION
 http://pub.yocast.tv:1935/live/box/playlist.m3u8
+
+#EXTINF:0, BOX NATION
+http://80.82.78.165:1935/live/box/live.m3u8
