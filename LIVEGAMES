@@ -1,71 +1,9 @@
 #EXTM3U
 plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60ced7c01ae4cb&mode=1&name=acestream+VIASATMSGOLF
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
+#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE BOXING*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
-#EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",[COLOR yellow]19.30 bel MOUSCRON - CLUB BRUGGE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",Sportitalia
-rtmp://spi.hystream.com:1935/spilive/spistream_480
-#EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",ntv sport tr
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
- 
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",[COLOR yellow]19.30 esp LEVANTE - SEVILLA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",c+liga es ace
-acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=102&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",f+ bg
-http://telemost-bg.com/include/channelStream.php?channel=103
-#EXTINF:-1 group-title=" 20.30 esp LEVANTE - SEVILLA ",futboll 1 ukr ace
-plugin://plugin.video.p2p-streams/?url=acestream://ad418d698e39062d4640914ff452ce62e763e10c&mode=1&name=acestream+VIASATMSGOLF
- 
-#EXTINF:-1 group-title=" 20.30 ger MOENCHENGLADBACH - HAMBURG ",[COLOR yellow]19.30 ger MOENCHENGLADBACH - HAMBURG[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 20.30 ger MOENCHENGLADBACH - HAMBURG ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger MOENCHENGLADBACH - HAMBURG ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 ger MOENCHENGLADBACH - HAMBURG ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger MOENCHENGLADBACH - HAMBURG ",eurosport 2 ru
-http://188.93.94.46:80/eurosport2/index.m3u8?token=my6ZI5MAYdq4Ec3UDz4CjSg1QotdI-_4uNadhd-6VzQqcTdi631GcyuMXb7B4n9VyAuBYjvy-6oXnw64pT3eA
- 
-#EXTINF:-1 group-title=" 20.30 fra PARIS ST.GERMAIN - BORDEAUX ",[COLOR yellow]19.30 fra PARIS ST.GERMAIN - BORDEAUX[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.30 fra PARIS ST.GERMAIN - BORDEAUX ",digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-#EXTINF:-1 group-title=" 20.30 fra PARIS ST.GERMAIN - BORDEAUX ",supersport 3 al
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 20.30 fra PARIS ST.GERMAIN - BORDEAUX ",diema sport bg
-http://telemost-bg.com/include/channelStream.php?channel=106
- 
-#EXTINF:-1 group-title=" 21.00 eng.cha READING - IPSWICH TOWN ",[COLOR yellow]20.00 eng.cha READING - IPSWICH TOWN[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 21.00 eng.cha READING - IPSWICH TOWN ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 21.00 eng.cha READING - IPSWICH TOWN ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 21.00 eng.cha READING - IPSWICH TOWN ",sky sports 5 uk
-rtmp://89.248.169.50/live playpath=sss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss5&vw=600&vh=450
- 
-#EXTINF:-1 group-title=" 21.00 tennis US OPEN - Mens SemiFinal ",[COLOR yellow]20.00 tennis US OPEN - Mens SemiFinal[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 21.00 tennis US OPEN - Mens SemiFinal ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title=" 21.30 por BENFICA - BELENENSES ",[COLOR yellow]20.30 por BENFICA - BELENENSES[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.30 por BENFICA - BELENENSES ",digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
- 
-#EXTINF:-1 group-title=" 1.00 mls NEW YORK RED BULLS - CHICAGO FIRE ",[COLOR yellow]00.00 mls NEW YORK RED BULLS - CHICAGO FIRE[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 1.00 mls NEW YORK RED BULLS - CHICAGO FIRE ",eurosport 2 ru
-http://188.93.94.46:80/eurosport2/index.m3u8?token=my6ZI5MAYdq4Ec3UDz4CjSg1QotdI-_4uNadhd-6VzQqcTdi631GcyuMXb7B4n9VyAuBYjvy-6oXnw64pT3eA
+#EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",[COLOR yellow]03:00 Boxing (WBO Super Welterweight Title): Floyd Mayweather - Andre Berto[/COLOR]
+rtmp://185.82.215.47:3579/vod/ playpath=sacola5?e=1442096010&st=dy1Nn929et9hl6_khY3ZIA251828  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho3.php?channel=sacola5&crn=378376102.8200388
+
