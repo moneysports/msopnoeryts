@@ -22,3 +22,7 @@ http://bit.do/bjVxG
 #EXTINF:0, KANALTURK
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 
+#EXTINF:0, SPORTSMAX
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sport_max-tablet.3gp/sport_max-tablet.3gp-mr497k.m3u8
+
+
