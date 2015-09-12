@@ -7,3 +7,5 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",[COLOR yellow]03:00 Boxing (WBO Super Welterweight Title): Floyd Mayweather - Andre Berto[/COLOR]
 rtmp://185.82.215.47:3579/vod/ playpath=sacola5?e=1442096010&st=dy1Nn929et9hl6_khY3ZIA251828  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho3.php?channel=sacola5&crn=378376102.8200388
 
+#EXTINF:-1,BOX NATION
+http://pub.yocast.tv:1935/live/box/playlist.m3u8
