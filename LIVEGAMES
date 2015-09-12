@@ -10,6 +10,9 @@ rtmp://185.82.215.47:3579/vod/ playpath=sacola5?e=1442096010&st=dy1Nn929et9hl6_k
 #EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",[COLOR yellow]03:00 Boxing (WBO Super Welterweight Title): Floyd Mayweather - Andre Berto[/COLOR]
 rtmp://185.82.215.8:3579/vod/ playpath=live8?e=1442101072&st=Rkd2gCxyEoyANIDQHpOSsQ256592  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho4.php?channel=live8&crn=654064715.0948644
 
+#EXTINF:-1 group-title=" 20.30 bel MOUSCRON - CLUB BRUGGE ",[COLOR yellow]03:00 Boxing (WBO Super Welterweight Title): Floyd Mayweather - Andre Berto[/COLOR]
+rtmp://80.82.78.13:19350/live/ playpath=last1  swfUrl=http://www.aadvertismentt.com/player.swf  pageUrl=http://www.newsko.co.uk/embed2.php?channel=last1&vw=650&vh=500&domain=www.dabstrap.com
+
 
 #EXTINF:-1,BOX NATION
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
