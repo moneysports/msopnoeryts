@@ -18,9 +18,6 @@ rtmp://80.82.78.13:19350/live/ playpath=last1  swfUrl=http://www.aadvertismentt.
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
 #EXTINF:-1,BOX NATION
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:-1,BOX NATION
 http://pub.yocast.tv:1935/live/box/playlist.m3u8
 
 #EXTINF:0,BOX NATION
