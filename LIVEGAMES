@@ -4,5 +4,281 @@ plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60c
 #EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",[COLOR green]11.00 esp GRANADA - VILLAREAL[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",futboll 2 ukr ace
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
+#EXTINF:-1 group-title=" 12.00 esp GRANADA - VILLAREAL ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=104&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 12.30 ita HELLAS VERONA - TORINO ",[COLOR green]11.30 ita HELLAS VERONA - TORINO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 12.30 ita HELLAS VERONA - TORINO ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 12.30 ita HELLAS VERONA - TORINO ",ntv+futbol 2 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+#EXTINF:-1 group-title=" 12.30 ita HELLAS VERONA - TORINO ",arena sport 4 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 group-title=" 12.30 ita HELLAS VERONA - TORINO ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+ 
+#EXTINF:-1 group-title=" 13.05 eng.cha FULHAM - BLACKBURN ROVERS ",[COLOR green]12.05 eng.cha FULHAM - BLACKBURN ROVERS[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 13.05 eng.cha FULHAM - BLACKBURN ROVERS ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 13.05 eng.cha FULHAM - BLACKBURN ROVERS ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 13.05 eng.cha FULHAM - BLACKBURN ROVERS ",nova sport bg
+http://telemost-bg.com/include/channelStream.php?channel=24
+#EXTINF:-1 group-title=" 13.05 eng.cha FULHAM - BLACKBURN ROVERS ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=102&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 14.00 fra AJACCIO - MONACO ",[COLOR green]13.00 fra AJACCIO - MONACO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 14.00 fra AJACCIO - MONACO ",diema sport bg
+http://telemost-bg.com/include/channelStream.php?channel=106
+#EXTINF:-1 group-title=" 14.00 fra AJACCIO - MONACO ",arena sport 3 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752
+#EXTINF:-1 group-title=" 14.00 fra AJACCIO - MONACO ",ntv+futbol 3 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/522/index.m3u8
+ 
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",[COLOR green]13.30 eng SUNDERLAND - TOTTENHAM HOTSPURS[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",diema bg
+http://telemost-bg.com/include/channelStream.php?channel=23
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",futboll 2 ukr ace
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",ntv+futbol 1 ru
+http://j.mp/T_NTVPLUSFOOTBALL1_sly
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=104&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 14.30 eng SUNDERLAND - TOTTENHAM HOTSPURS ",CTH Stadium 2 HD
+http://37.187.171.219:8080/cthstadium2hd/index.m3u8
+ 
+#EXTINF:-1 group-title=" 14.30 ned FEYENOORD - WILLEM II ",[COLOR green]13.30 ned FEYENOORD - WILLEM II[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 14.30 ned FEYENOORD - WILLEM II ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=102&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - BOLOGNA ",[COLOR green]14.00 ita SAMPDORIA - BOLOGNA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - BOLOGNA ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - BOLOGNA ",arena sport 5 sr_2
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130754
+ 
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",[COLOR green]14.00 ita EMPOLI - NAPOLI[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",supersport 1 al
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",ring.bg
+http://telemost-bg.com/include/channelStream.php?channel=69
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",ntv+futbol 2 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",arena sport 4 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 group-title=" 15.00 ita EMPOLI - NAPOLI ",espn mx
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
+ 
+#EXTINF:-1 group-title=" 15.30 ger HOFFENHEIM - WERDER BREMEN ",[COLOR green]14.30 ger HOFFENHEIM - WERDER BREMEN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 15.30 ger HOFFENHEIM - WERDER BREMEN ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 15.30 ger HOFFENHEIM - WERDER BREMEN ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.30 ger HOFFENHEIM - WERDER BREMEN ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+ 
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",[COLOR green]15.00 esp ATHLETIC BILBAO - GETAFE[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",f+ bg
+http://telemost-bg.com/include/channelStream.php?channel=103
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",futboll 1 ukr ace
+acestream://ad418d698e39062d4640914ff452ce62e763e10c
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",ntv+futbol 3 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/522/index.m3u8
+#EXTINF:-1 group-title=" 16.00 esp ATHLETIC BILBAO - GETAFE ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=103&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",[COLOR green]16.00 eng LEICESTER CITY - ASTON VILLA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",diema sport bg
+http://telemost-bg.com/include/channelStream.php?channel=106
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",futboll 2 ukr ace
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",ntv+futbol 1 ru
+http://j.mp/T_NTVPLUSFOOTBALL1_sly
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=104&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 17.00 eng LEICHESTER CITY - ASTON VILLA ",CTH Stadium 5 HD
+http://37.187.171.219:8080/cthstadium5hd/index.m3u8
 
+ 
+#EXTINF:-1 group-title=" 17.00 fra NANTES - RENNES ",[COLOR green]16.00 fra NANTES - RENNES[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 17.00 fra NANTES - RENNES ",nova sport bg
+http://telemost-bg.com/include/channelStream.php?channel=24
+#EXTINF:-1 group-title=" 17.00 fra NANTES - RENNES ",arena sport 2 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130751
+ 
+#EXTINF:-1 group-title=" 17.30 ger SCHALKE 04 - MAINZ 05 ",[COLOR green]16.30 ger SCHALKE 04 - MAINZ 05[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 17.30 ger SCHALKE 04 - MAINZ 05 ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 17.30 ger SCHALKE 04 - MAINZ 05 ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 17.30 ger SCHALKE 04 - MAINZ 05 ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+ 
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - RACING GENK ",[COLOR green]17.00 bel ANDERLECHT - RACING GENK[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - RACING GENK ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 bel ANDERLECHT - RACING GENK ",arena sport 5 sr_2
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130754
+ 
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",[COLOR green]17.00 ita LAZIO - UDINESE[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",ring.bg
+http://telemost-bg.com/include/channelStream.php?channel=69
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",arena sport 4 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 group-title=" 18.00 ita LAZIO - UDINESE ",ntv+futbol 2 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+ 
+#EXTINF:-1 group-title=" 18.00 por VIT.GUIMARAES - TONDELA ",[COLOR green]17.00 por VIT.GUIMARAES - TONDELA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 18.00 por VIT.GUIMARAES - TONDELA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",[COLOR green]17.15 esp CELTA VIGO - LAS PALMAS[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",f+ bg
+http://telemost-bg.com/include/channelStream.php?channel=103
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",futboll 1 ukr ace
+acestream://ad418d698e39062d4640914ff452ce62e763e10c
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",ntv+futbol 3 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/522/index.m3u8
+#EXTINF:-1 group-title=" 18.15 esp CELTA VIGO - LAS PALMAS ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=103&uid=18&deviceUser=zine&devicePass=zine
+ 
+
+ 
+#EXTINF:-1 group-title=" 20.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS ",[COLOR green]19.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 20.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 20.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 20.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 20.10 arg ROSARIO CENTRAL - NEWELLS OLD BOYS ",arena sport 1 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750
+ 
+#EXTINF:-1 group-title=" 20.15 por RIO AVE - SPORTING LISBON ",[COLOR green]19.15 por RIO AVE - SPORTING LISBON[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 20.15 por RIO AVE - SPORTING LISBON ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",[COLOR green]19.30 esp MALAGA - EIBAR[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",f+ bg
+http://telemost-bg.com/include/channelStream.php?channel=103
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",futboll 2 ukr ace
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",ntv+futbol 2 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 20.30 esp MALAGA - EIBAR ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=103&uid=18&deviceUser=zine&devicePass=zine
+ 
+#EXTINF:-1 group-title=" 20.45 ita INTER - MILAN ",[COLOR green]19.45 ita INTER - MILAN[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 20.45 ita INTER - MILAN ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.45 ita INTER - MILAN ",arena sport 4 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 group-title=" 20.45 ita INTER - MILAN ",btv action bg
+http://telemost-bg.com/include/channelStream.php?channel=71
+#EXTINF:-1 group-title=" 20.45 ita INTER - MILAN ",ntv+futbol 1 ru
+http://j.mp/T_NTVPLUSFOOTBALL1_sly
+ 
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - BASTIA ",[COLOR green]20.00 fra MARSEILLE - BASTIA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - BASTIA ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - BASTIA ",arena sport 3 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - BASTIA ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 21.00 fra MARSEILLE - BASTIA ",ntv+futbol 3 ru
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/522/index.m3u8
+ 
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - ATL.MINEIRO ",[COLOR green]20.00 bra CRUZEIRO - ATL.MINEIRO[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - ATL.MINEIRO ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - ATL.MINEIRO ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - ATL.MINEIRO ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+ 
+
+ 
+
+ 
+#EXTINF:-1 group-title=" 23.00 mls TORONTO FC - NEW ENGLAND ",[COLOR green]22.00 mls TORONTO FC - NEW ENGLAND[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 23.00 mls TORONTO FC - NEW ENGLAND ",sky sports 5 uk
+rtmp://89.248.169.50/live playpath=sss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss5&vw=600&vh=450
+ 
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",[COLOR green]22.15 arg RIVER PLATE - BOCA JUNIORS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1 group-title=" 23.15 arg RIVER PLATE - BOCA JUNIORS ",arena sport 1 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750
+ 
+#EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - FLUMINENSE ",[COLOR green]22.30 bra SPORT RECIFE - FLUMINENSE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 23.30 bra SPORT RECIFE - FLUMINENSE ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+ 
+#EXTINF:-1 group-title=" 2.30 arg LANUS - BANFIELD ",[COLOR green]1.30 arg LANUS - BANFIELD[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 2.30 arg LANUS - BANFIELD ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.30 arg LANUS - BANFIELD ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.30 arg LANUS - BANFIELD ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
