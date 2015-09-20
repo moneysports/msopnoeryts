@@ -7,7 +7,7 @@ http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 ,Tottenham Hotspur - Crystal Palace
 rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1442743954&st=kb3K0piGxKXUkt6Ic2udaw187926  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho1.php?channel=sacola1&crn=163970386.9819641
 
-#EXTINF:-1 ,Southampton Fc - Manchester United
+EXTINF:-1 ,Southampton Fc - Manchester United
 
 
-#EXTINF:-1 ,Liverpool Fc - Norwich City
+EXTINF:-1 ,Liverpool Fc - Norwich City
