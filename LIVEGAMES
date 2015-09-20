@@ -1,13 +1,35 @@
-#EXTM3U
-plugin://plugin.video.p2p-streams/?url=acestream://ba8551077ca7f6eb39e691e5bf60ced7c01ae4cb&mode=1&name=acestream+VIASATMSGOLF
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-#EXTINF:-1 group-title=" 23.00 arg ALDOSIVI - ROSARIO CENTRAL ",[COLOR red]*******LIVE FOOTBALL*******[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-
-#EXTINF:-1 ,Tottenham Hotspur - Crystal Palace
-rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1442743954&st=kb3K0piGxKXUkt6Ic2udaw187926  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho1.php?channel=sacola1&crn=163970386.9819641
-
-EXTINF:-1 ,Southampton Fc - Manchester United
+<item>
+<title>[COLOR orange]SD=SPORTSDEVIL[/COLOR]</title>
+<sportsdevil>http://stepfb.net/live/chanel/48/</sportsdevil>
+<referer>http://stepfb.net/</referer>
+</item>
 
 
-EXTINF:-1 ,Liverpool Fc - Norwich City
+
+
+<item>
+<title>[COLOR red]LIVE FOOTBALL[/COLOR]</title>
+<sportsdevil>http://stepfb.net/live/chanel/48/</sportsdevil>
+<referer>http://stepfb.net/</referer>
+</item>
+
+<item>
+<title>[COLOR red]LIVE WWE[/COLOR]</title>
+<sportsdevil>http://stepfb.net/live/chanel/48/</sportsdevil>
+<referer>http://stepfb.net/</referer>
+</item>
+<item>
+<title>WWE NIGHT OF CHAMPIONS[COLOR orange]SD[/COLOR]</title>
+<sportsdevil>http://www.stream2u-tv.me/watch/30907/1/WWE-WWE-Night-of-Champions.html</sportsdevil>
+<referer>http://www.stream2u-tv.me/watch/30907/1/WWE-WWE-Night-of-Champions.html</referer>
+</item>
+
+
+
+<item>
+<title>[COLOR red]LIVE UFC[/COLOR]</title>
+<sportsdevil>http://stepfb.net/live/chanel/48/</sportsdevil>
+<referer>http://stepfb.net/</referer>
+</item>
