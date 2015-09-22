@@ -20,7 +20,17 @@
 </channel>
 </channels>
 
+<channels>
+ 
+<channel>
+    <name>NOTICE</name>
+<thumbnail>http://media.property118.com/wp-content/uploads/2013/09/Tenancy-Notice-Period-Scotland.gif</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 
+</channel>
+</channels>
 
 
 
