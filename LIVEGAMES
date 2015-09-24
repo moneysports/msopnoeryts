@@ -15,14 +15,14 @@
 <referer>http://stepfb.net/</referer>
 </item>
 <item>
-<title>[COLOR red][/COLOR] [COLOR orange]SD[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
+<title>[COLOR red]19:45 England Championship: Huddersfield Town - Nottingham Forest[/COLOR] [COLOR orange]SD[/COLOR]</title>
+<sportsdevil>http://www.offshorestreaming.com/roja/</sportsdevil>
+<referer>http://www.offshorestreaming.com/roja/</referer>
 </item>
 <item>
 <title>[COLOR red][/COLOR] [COLOR orange]SD[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
+<sportsdevil>http://premiertv.pw/5/</sportsdevil>
+<referer>http://premiertv.pw/5/</referer>
 </item>
 <item>
 <title>[COLOR red][/COLOR] [COLOR orange]SD[/COLOR]</title>
@@ -31,8 +31,8 @@
 </item>
 
 <item>
-<title>[COLOR red][/COLOR]</title>
-<link></link>
+<title>[COLOR red]19:45 England Championship: Huddersfield Town - Nottingham Forest[/COLOR]</title>
+<link>rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1443112654&st=Z0gwEHQlMedSniUA_xm1sA154428 swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf pageUrl=http://simplestreams.us/ho1.php?channel=sacola1&crn=538778086.5654349</link>
 </item>
 
 <item>
