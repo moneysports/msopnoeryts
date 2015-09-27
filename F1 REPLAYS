@@ -3,6 +3,26 @@
 
 
 <item>
+<title>F1 JAPAN QUALIFYING ROUND 14</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>480p.*"(http.*?)"</expres>
+<page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>sc03\/(.*?)"</expres>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1326.html</page>
+<referer>http://my.mail.ru/</referer>
+</regex>
+<thumbnail>https://www.feralinteractive.com/data/games/f12012/images/links_requirements/car1.png</thumbnail>
+<fanart>http://orig10.deviantart.net/e144/f/2011/231/1/8/japan_flag_by_think0-d475b7l.jpg</fanart>
+</item>
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/1326.html
+<item>
 <title>F1 SINGAPORE RACE ROUND 13</title>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
