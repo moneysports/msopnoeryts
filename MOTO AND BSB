@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+<item>
+<title>MotoGP 2015. Round 14. Aragon</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>720p.*"(http.*?)"</expres>
+<page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>sc03\/(.*?)"</expres>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1351.html</page>
+<referer>http://my.mail.ru/</referer>
+</regex>
+<thumbnail>http://www.officialpsds.com/images/thumbs/moto-gp-2-1-1-psd65951.png</thumbnail>
+<fanart></fanart>
+</item>
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/1351.html
+<item>
+<title>MotoGP 2015. Round 14. Aragon  Qualification</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>480p.*"(http.*?)"</expres>
+<page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>sc03\/(.*?)"</expres>
+<page>http://m.my.mail.ru/mail/burningwhee1s/video/_myvideo/1334.html</page>
+<referer>http://my.mail.ru/</referer>
+</regex>
+<thumbnail>http://www.officialpsds.com/images/thumbs/moto-gp-2-1-1-psd65951.png</thumbnail>
+<fanart></fanart>
+</item>
+http://my.mail.ru/mail/burningwhee1s/video/_myvideo/1334.html
 <item>
 <title>British Superbikes 2015 Round 10. Assen Qualifying</title>
 <link>plugin://plugin.video.youtube/play/?video_id=twxcEo6zMf0</link>
