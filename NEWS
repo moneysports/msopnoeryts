@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         
-        <item>
-                <title>SKY SPORTS NEWS</title>
-                <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
-                <link>http://ipsite.org/3331</link>
-        </item>
+<item>
+<title>SKY SPORTS NEWS</title>
+<sportsdevil>http://tv4embed.com/uk/ssn-stream2.html</sportsdevil>
+<referer>http://tv4embed.com/uk/ssn-stream2.html</referer>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
+</item>       
         
 <item>
 <title>SKY SPORTS NEWS</title>
