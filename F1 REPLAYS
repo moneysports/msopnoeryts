@@ -5,7 +5,7 @@
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
-<expres>720p.*"(http.*?)"</expres>
+<expres>480p.*"(http.*?)"</expres>
 <page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
 <referer>http://my.mail.ru/</referer>
 <cookiejar></cookiejar>
@@ -25,7 +25,7 @@
 <link>$doregex[url]|Cookie=$get_cookies$</link>
 <regex>
 <name>url</name>
-<expres>720p.*"(http.*?)"</expres>
+<expres>480p.*"(http.*?)"</expres>
 <page>http://videoapi.my.mail.ru/videos/$doregex[id].json</page>
 <referer>http://my.mail.ru/</referer>
 <cookiejar></cookiejar>
