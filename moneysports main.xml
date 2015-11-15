@@ -88,17 +88,14 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
  
  
 
-<channels>
- 
-<channel>
+
     <name>CLUB TV</name>
 <thumbnail>http://s30.postimg.org/u2ehor06p/CLUBS.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://dragonlord.org.uk/Bravo/CLUBTV.XML</externallink>
+http://dragonlord.org.uk/Bravo/CLUBTV.XML</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>YOUR FAVOURITE FOOTBALL CLUB CHANNELS</info>
-</channel>
-</channels>
+
 
 
 
@@ -172,41 +169,32 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
     <name>F1 REPLAYS</name>
 <thumbnail>http://funkyimg.com/i/21VDR.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/F1%20REPLAYS</externallink>
+https://raw.githubusercontent.com/moneysports/msopnoeryts/master/F1%20REPLAYS</externallink>
 <fanart>http://www.starwallpapers.com/walls/formula_one_red_bull_f1_race_track_hd_wallpaper-HD.jpg</fanart>
 <info>FORMULA 1 REPLAYS</info>
-</channel>
-</channels>
 
-<channels>
- 
-<channel>
+
+
     <name>MOTO GP AND BSB REPLAYS</name>
 <thumbnail>http://funkyimg.com/i/21XsT.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/MOTO%20AND%20BSB</externallink>
+https://raw.githubusercontent.com/moneysports/msopnoeryts/master/MOTO%20AND%20BSB</externallink>
 <fanart>http://www.hobicell.com/wallpaper/motogp/motogp-hd-wallpaper-motogp-wallpaper-.jpg</fanart>
 <info>MOTO GP AND BSB SUPERBIKES REPLAYS</info>
-</channel>
-</channels>
 
-<channels>
 
-<channel>
+
     <name>EPL FOOTBALL HIGHLIGHTS AND GOALS</name>
 <thumbnail>http://dragonlord.org.uk/Bravo/HIGHLIGHTS.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/FOOTBALL</externallink>
+https://raw.githubusercontent.com/moneysports/msopnoeryts/master/FOOTBALL</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>HIGHLIGHTS FROM PREMIER LEAGUE VARIOUS CUPS</info>
-</channel>
-</channels>
+
 
 
 
