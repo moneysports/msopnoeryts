@@ -3,21 +3,12 @@
         
 <item>
 <title>SKY SPORTS NEWS</title>
-<sportsdevil>http://tv4embed.com/uk/ssn-stream2.html</sportsdevil>
-<referer>http://tv4embed.com/uk/ssn-stream2.html</referer>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
-</item>       
-        
-<item>
-<title>SKY SPORTS NEWS</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sportsdevil>
-<referer>http://mamahd.com/</referer>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS NEWS-</title>
-<sportsdevil>http://streamking.org/sky-sports-news-live-stream.html</sportsdevil>
-<referer>http://streamking.org/livetv.html</referer>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
+<link>http://www.juhe.ml/$doregex[file]|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45
+.0.2454.101 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>src = '(.*?)'</expres>
+<page>http://www.juhe.ml/ds/embed?id=232</page>
+<referer>http://www.zoptv.com/live/sky-sports-news</referer>
+</regex>
 </item>
