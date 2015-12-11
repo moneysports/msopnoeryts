@@ -38,12 +38,16 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 </channel>
 </channels>
 
-
-    <name>KLITSCHKO vs FURY</name>
+<channels>
+ 
+<channel>
+    <name>PPV</name>
 <thumbnail>http://www.totalsportek.com/wp-content/uploads/2015/11/Klitschko-vs-Fury-Live-Streaming-Free.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://www.4legends.co.uk/MoneySports/BOXING.XML</externallink>
-<fanart>http://wallpapercave.com/wp/01Syr5o.jpg</fanart>
+<fanart>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</fanart>
+</channel>
+</channels>
 
 
 
@@ -60,17 +64,13 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 
 
 
-<channels>
 
-<channel>
     <name>LIVE SPORTS [COLOR red]LQ & HQ[/COLOR]</name>
 <thumbnail>http://s30.postimg.org/merl6g1ip/live_sports.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://is.gd/livegames</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info></info>
-</channel>
-</channels>
 
 
 
@@ -78,19 +78,17 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 
 
 
-<channels>
 
-<channel>
+
     <name>HQ LIVE SPORTS CHANNELS</name>
 <thumbnail>http://s30.postimg.org/b68t4wyb5/live_sports_hq.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://is.gd/HQLIST</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info></info>
-</channel>
-</channels>
+
  
- <channels>
+ 
  
 
 
@@ -105,17 +103,13 @@ http://dragonlord.org.uk/Bravo/CLUBTV.XML</externallink>
 
 
 
-<channels>
 
-<channel>
     <name>SPORTS NEWS</name>
 <thumbnail>http://s16.postimg.org/daxauobqd/news.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/NEWS</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>24 HR SPORTS NEWS</info>
-</channel>
-</channels>
 
 
 
@@ -125,17 +119,14 @@ http://dragonlord.org.uk/Bravo/CLUBTV.XML</externallink>
 
 
 
-<channels>
- 
-<channel>
+
+
     <name>CANADIAN SPORTS CHANNELS</name>
 <thumbnail>http://www.cbc.ca/sports-content/blogs/scottrussell/assets_c/2012/09/620-sportsday-thumb-620xauto-230207.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink></externallink>
 <fanart>http://mtltimes.ca/wp-content/uploads/2015/02/Canada_flag-7.jpg</fanart>
 <info>ALL SPORTSNET CHANNELS AND TSN 1,2,3,4 AND 5</info>
-</channel>
-</channels>
 
 
 
@@ -146,33 +137,28 @@ http://dragonlord.org.uk/Bravo/CLUBTV.XML</externallink>
 
 
 
-<channels>
- 
-<channel>
+
+
     <name>REST OF THE WORLD SPORTS CHANNELS</name>
 <thumbnail>http://www.clarotvelsalvador.com/wp-content/uploads/2013/10/world-sport.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink></externallink>
 <fanart>http://phillysportslive.com/wp-content/uploads/2012/11/world-sports-show.jpg</fanart>
 <info>BEIN SPORTS,ARENA SPORTS,SPORT TV 1,2 AND 3</info>
-</channel>
-</channels>
 
 
 
 
 
-<channels>
- 
-<channel>
+
+
     <name>SPORTS RADIO</name>
 <thumbnail>http://s29.postimg.org/6in6ga87b/radio.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://dl.dropboxusercontent.com/s/ql3sc9gp9wef04n/SPORTS%20RADIO.XML?dl=0</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>RADIO 5 LIVE AND TALKSPORT</info>
-</channel>
-</channels>
+
 
 
     <name>F1 REPLAYS</name>
@@ -191,86 +177,66 @@ https://raw.githubusercontent.com/moneysports/msopnoeryts/master/MOTO%20AND%20BS
 <fanart>http://www.hobicell.com/wallpaper/motogp/motogp-hd-wallpaper-motogp-wallpaper-.jpg</fanart>
 <info>MOTO GP AND BSB SUPERBIKES REPLAYS</info>
 
-<channels>
 
-<channel>
     <name>EPL FOOTBALL HIGHLIGHTS AND GOALS</name>
 <thumbnail>http://www.4legends.co.uk/MoneySports/HIGH.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://www.4legends.co.uk/MoneySports/football highlights.xml</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>HIGHLIGHTS FROM PREMIER LEAGUE VARIOUS CUPS</info>
-</channel>
-</channels>
 
 
 
 
 
-<channels>
 
-<channel>
     <name>BIG EVENT REPLAYS</name>
 <thumbnail>http://s14.postimg.org/os4vwebfl/replays.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/EVENT%20HIGHLIGHTS</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>REPLAYS OF BIG EVENTS ALL PPVS OF BOXING WWE AND UFC AND ANY REQUESTS</info>
-</channel>
-</channels>
 
 
 
 
-<channels>
- 
-<channel>
+
     <name>WWE</name>
 <thumbnail>http://s11.postimg.org/5yufb2w83/wwe.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/WWE%20REPLAYS</externallink>
 <fanart>https://michaelpulman.files.wordpress.com/2014/08/wpid-wwe-network.jpeg</fanart>
 <info>WWE WEEKLY REPLAYS</info>
-</channel>
-</channels>
 
 
-<channels>
- 
-<channel>
+
+
     <name>UFC</name>
 <thumbnail>http://funkyimg.com/i/21VEs.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/ufc%20channel</externallink>
 <fanart>http://pre14.deviantart.net/8b72/th/pre/f/2011/160/5/1/ufc_wallpaper_by_rtk12-d3ih2zy.jpg</fanart>
 <info></info>
-</channel>
-</channels>
 
 
-<channels>
 
-<channel>
+
     <name>FOOTBALL FILMS</name>
 <thumbnail>http://s10.postimg.org/4iq4aq96h/films.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/FILMS</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>SELECTION OF FOOTBALL FILMS REQUEST ARE TAKEN PLZ CONTACT ME VIA FACEBOOK OR TWITTER</info>
-</channel>
-</channels>
 
 
 
 
-<channels>
- 
-<channel>
+
+
     <name>FOOTBALL SHOWS</name>
 <thumbnail>http://s14.postimg.org/7dp91v3oh/shows.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/moneysports/msopnoeryts/master/FOOTBALL%20SHOWS</externallink>
 <fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
 <info>FOOTBALL SHOWS FROM AROUND THE WORLD SHOWING INTERVEIWS AND GOALS </info>
-</channel>
-</channels>
+
