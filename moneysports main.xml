@@ -54,16 +54,7 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 
 
 
-<channels>
- 
-<channel>
-    <name>EXTRA PPV LINKS</name>
-<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://www.4legends.co.uk/MoneySports/ppvlive.XML</externallink>
-<fanart>http://www.schoolsplus.co.uk/harrispurley/wp-content/uploads/sites/20/2014/08/SP-Harris-Purley-Pitch2.jpg</fanart>
-</channel>
-</channels>
+
 
 
 
@@ -97,7 +88,16 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 </channel>
 </channels>
  
+<channels>
  
+<channel>
+    <name>EXTRA PPV LINKS</name>
+<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://www.4legends.co.uk/MoneySports/ppvlive.XML</externallink>
+<fanart>http://www.schoolsplus.co.uk/harrispurley/wp-content/uploads/sites/20/2014/08/SP-Harris-Purley-Pitch2.jpg</fanart>
+</channel>
+</channels> 
  
 
 
