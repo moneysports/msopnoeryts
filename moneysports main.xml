@@ -54,13 +54,16 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 
 
 
-
-    <name></name>
-<thumbnail>http://www.footballgate.com/wp-content/uploads/2014/09/barclays-premier-league-logo-2014-2015.jpg</thumbnail>
+<channels>
+ 
+<channel>
+    <name>EXTRA PPV LINKS</name>
+<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.4legends.co.uk/MoneySports/test.m3u</externallink>
-<fanart>http://people.rit.edu/~sxc7769/536/Project1/images/pitch1.jpg</fanart>
-
+<externallink>http://www.4legends.co.uk/MoneySports/ppvlive.XML</externallink>
+<fanart>http://www.schoolsplus.co.uk/harrispurley/wp-content/uploads/sites/20/2014/08/SP-Harris-Purley-Pitch2.jpg</fanart>
+</channel>
+</channels>
 
 
 
