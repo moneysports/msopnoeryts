@@ -51,13 +51,6 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 
 
 
-
-
-
-
-
-
-
 <channels>
  
 <channel>
@@ -69,11 +62,6 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 <info></info>
 </channel>
 </channels>
-
-
-
-
-
 
 
 <channels>
@@ -102,10 +90,22 @@ All content is copyright of their respective owners.</title><pubDate>Thu, 1 Jan 
 </channel>
 </channels>
 
+<channels>
+ 
+<channel>
+    <name>VIP</name>
+<thumbnail>http://static6.depositphotos.com/1023799/629/v/950/depositphotos_6298823-Vip-golden-icon-with-diamondsvector.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://www.4legends.co.uk/MoneySports/VIP.XML</externallink>
+<fanart>http://www.schoolsplus.co.uk/harrispurley/wp-content/uploads/sites/20/2014/08/SP-Harris-Purley-Pitch2.jpg</fanart>
+</channel>
+</channels> 
+
+
+
 
  
 <channels>
- 
  
 <channel>
     <name>EXTRA PPV LINKS</name>
